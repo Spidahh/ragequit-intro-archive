@@ -634,60 +634,6 @@
       "sha256": "385d0feefc2983a02fb425f433a1f0b6a707e55fc9173ea6b8263bce4951b64c"
     },
     {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\assemble-intro-istante.cpython-312.pyc",
-      "file": "tools/__pycache__/assemble-intro-istante.cpython-312.pyc",
-      "bytes": 13942,
-      "sha256": "3722bb8aa9056f07f14f913c68681046fb576d432fbc5f0e548235ee874920a3"
-    },
-    {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\assemble-intro-video2.cpython-312.pyc",
-      "file": "tools/__pycache__/assemble-intro-video2.cpython-312.pyc",
-      "bytes": 6938,
-      "sha256": "8719f452575ca91c8f68dfdacb523035936fd148e8bd6580fba0ab9a3c90a5e6"
-    },
-    {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\build-intro-duel.cpython-312.pyc",
-      "file": "tools/__pycache__/build-intro-duel.cpython-312.pyc",
-      "bytes": 12432,
-      "sha256": "4ce772216d1556b7c78bd7f56ea9b207eec1fc404888e4a7730811cc5597b1dc"
-    },
-    {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\create-announcer-pack.cpython-312.pyc",
-      "file": "tools/__pycache__/create-announcer-pack.cpython-312.pyc",
-      "bytes": 8902,
-      "sha256": "9dafbdff5453b056aa2349d2abfe4e62b6aba6a80d47cbc6e9d9d1364a66278c"
-    },
-    {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\create-intro-media.cpython-312.pyc",
-      "file": "tools/__pycache__/create-intro-media.cpython-312.pyc",
-      "bytes": 28318,
-      "sha256": "e0c4660aad6f4e58637675c1b0ab46d309babb3302491525060bf38e51aa9125"
-    },
-    {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\create-intro-video2-motion.cpython-312.pyc",
-      "file": "tools/__pycache__/create-intro-video2-motion.cpython-312.pyc",
-      "bytes": 6111,
-      "sha256": "10f2a9a78a5b11685fea9aa4baab5a9028bfda2c9f7b05d9712ea909b5362f90"
-    },
-    {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\refine-intro-corale.cpython-312.pyc",
-      "file": "tools/__pycache__/refine-intro-corale.cpython-312.pyc",
-      "bytes": 39835,
-      "sha256": "95120fb9d23cc8f048880111b670733733b7da8e4a780fc7a3b1e1099980c6a9"
-    },
-    {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\unreal\\__pycache__\\render-intro-istante.cpython-312.pyc",
-      "file": "tools/unreal/__pycache__/render-intro-istante.cpython-312.pyc",
-      "bytes": 36898,
-      "sha256": "e8f75b32443e76343ae0b965c2aeee473ce963968ccb04f1507c763d92f323cb"
-    },
-    {
-      "source": "E:\\PROGETTI\\ragequit\\tools\\unreal\\__pycache__\\test-announcer.cpython-312.pyc",
-      "file": "tools/unreal/__pycache__/test-announcer.cpython-312.pyc",
-      "bytes": 9686,
-      "sha256": "40df1d2586c26d0b46138ff931d6c4cdea576b6b0f4a660c686c4cda8e58f7f1"
-    },
-    {
       "source": "E:\\PROGETTI\\ragequit\\DOCUMENTAZIONE\\STUDI\\INTRO-DIREZIONI-21-10-2026.md",
       "file": "context/INTRO-DIREZIONI-21-10-2026.md",
       "bytes": 37475,
@@ -5216,6 +5162,156 @@
       "file": "tools/export-intro-archive.py",
       "bytes": 7474,
       "sha256": "a19c5a66a41f90c6dd7622d2019200e573309704f2502bacad3ea42935eb46d5"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_t1_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_t1_00001_.mp4",
+      "bytes": 14823781,
+      "sha256": "33388c3e91832a51851dd238e3042bfb23928fd875f67371e0c7c61d5d4348d3"
+    },
+    {
+      "source": "ffprobe of C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_t1_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_t1_00001_.metadata.json",
+      "bytes": 11049,
+      "sha256": "cec8019b12262f4b0e0af4590b5b23c62011e7d0333c22dd6e370bed5735d840"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_t2_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_t2_00001_.mp4",
+      "bytes": 18488194,
+      "sha256": "5caa19986e69bd9745173b901c90d0dcbe38aa2cd0d48c12e8071e63bb19ade6"
+    },
+    {
+      "source": "ffprobe of C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_t2_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_t2_00001_.metadata.json",
+      "bytes": 11804,
+      "sha256": "0e8b7ad9dac4ea04a61b438fd3b5ca57b579c2c9f1b1dfd87e6b70b4bd881296"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_t3_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_t3_00001_.mp4",
+      "bytes": 18320740,
+      "sha256": "e5fce592ee0f3bb435abea2c3c3b3002892d448e20d165ca403168d4bd9165fd"
+    },
+    {
+      "source": "ffprobe of C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_t3_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_t3_00001_.metadata.json",
+      "bytes": 12041,
+      "sha256": "cb49c5e268ca3b69c21df942c458188762d4bb5a80ee09d636af0c1515656727"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_up_seg0_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_up_seg0_00001_.mp4",
+      "bytes": 6177184,
+      "sha256": "ae4d0c30fde4cf5ba6f7dfd6b9e6619ce60cdb1f55f5726af4acd7897719a451"
+    },
+    {
+      "source": "ffprobe of C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_up_seg0_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_up_seg0_00001_.metadata.json",
+      "bytes": 8418,
+      "sha256": "770c9fdc8276abe2d7f2fd8d7e61ea456b7dd6b451fcb5c595c20df80f42a87a"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_up_seg1_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_up_seg1_00001_.mp4",
+      "bytes": 10236499,
+      "sha256": "192beabea33acf038b0f149d91902069570aebb4fc3dc1ba4bcbbbbb9534947a"
+    },
+    {
+      "source": "ffprobe of C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_up_seg1_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_up_seg1_00001_.metadata.json",
+      "bytes": 8419,
+      "sha256": "93a22b4e55beb13fa91ec10821cbaaec72bb6580bfa95a29b8b62fddc54f0cdc"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_up_seg2_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_up_seg2_00001_.mp4",
+      "bytes": 12114229,
+      "sha256": "da9093ddc90548bf50a3100c1a56cabc84b5c50ee184037be3fbcd05ee1046b7"
+    },
+    {
+      "source": "ffprobe of C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_up_seg2_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act1_up_seg2_00001_.metadata.json",
+      "bytes": 8419,
+      "sha256": "fd988857fb752df116353db5e191daa27bb859c7ec62aefdf0bff75d4f2fdbca"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act2_t1_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act2_t1_00001_.mp4",
+      "bytes": 10351896,
+      "sha256": "e8878b01c035edf1f1eded1632d3cc8b087dd10a7165b569339f40f0ae08d97e"
+    },
+    {
+      "source": "ffprobe of C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act2_t1_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/act2_t1_00001_.metadata.json",
+      "bytes": 10363,
+      "sha256": "9bf2c5831358c14b651a8d14bed088237e7ef0550e0ac7f21b7dda4cc8c664fc"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\logo_bg_t1_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/logo_bg_t1_00001_.mp4",
+      "bytes": 2314783,
+      "sha256": "96d50ff42a9aa383a1ffac15537ff7b951709882b2540447b6f46197639b5432"
+    },
+    {
+      "source": "ffprobe of C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\logo_bg_t1_00001_.mp4",
+      "file": "evidence/comfy-desktop-20261022/logo_bg_t1_00001_.metadata.json",
+      "bytes": 8462,
+      "sha256": "014149bf428a87bbe5e106405127d52b651c7939b6b603114965d208fe5448ab"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\music_t1_00001.flac",
+      "file": "evidence/comfy-desktop-20261022/music_t1_00001.flac",
+      "bytes": 2856855,
+      "sha256": "7e1b7a7f127952bc75ecc0ca00d51397ce4a51a1ba91d70d0c10c7989a7f5225"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\music_t2_00001.flac",
+      "file": "evidence/comfy-desktop-20261022/music_t2_00001.flac",
+      "bytes": 2892395,
+      "sha256": "8acaa0d346b59f9d4b4e575bc1d4640c986443227537f0b8f5c52af73561a380"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\keys\\b01_00001_.png",
+      "file": "evidence/comfy-desktop-20261022/keys/b01_00001_.png",
+      "bytes": 1444985,
+      "sha256": "5607d66f6fda01bda9384d42257b84139bd977ea08d28d2eca144a1ddb350b1b"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\keys\\b01_00002_.png",
+      "file": "evidence/comfy-desktop-20261022/keys/b01_00002_.png",
+      "bytes": 1488571,
+      "sha256": "72d113ac3a06226f239f3744b55899161d4ff9caa8e834e7b855eebb23fcc1a3"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\keys\\b02_00001_.png",
+      "file": "evidence/comfy-desktop-20261022/keys/b02_00001_.png",
+      "bytes": 1325927,
+      "sha256": "69a01c6b9e6d547eacf786ea77cfe950b11fbefc13b9629f2545dd31c5b73659"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\keys\\key01_pyro_ritual_00001_.png",
+      "file": "evidence/comfy-desktop-20261022/keys/key01_pyro_ritual_00001_.png",
+      "bytes": 1307681,
+      "sha256": "d9a08ac8378abd58cabc0751dd9cc2732a0008dfaa81ceaba28a6b2735b30a58"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\keys\\key02_tempest_land_00001_.png",
+      "file": "evidence/comfy-desktop-20261022/keys/key02_tempest_land_00001_.png",
+      "bytes": 1446999,
+      "sha256": "45c28d48c143e4dbd97dc75d59b47ec4d441ab12f8ee02db2803a14c793a4f9e"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\keys\\key02_tempest_land_b_00001_.png",
+      "file": "evidence/comfy-desktop-20261022/keys/key02_tempest_land_b_00001_.png",
+      "bytes": 1514053,
+      "sha256": "75990dcad7f63798d4cf333373d25e8e195c0673bf094b5a6c17fd9c2b14a15b"
+    },
+    {
+      "source": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\keys\\key03_pyro_eyes_00001_.png",
+      "file": "evidence/comfy-desktop-20261022/keys/key03_pyro_eyes_00001_.png",
+      "bytes": 1265800,
+      "sha256": "39975d0b4a044fd148c6446ed7db49c60535c0095e320ae4b37ad90ba52b64d2"
     }
   ],
   "excluded": [
@@ -20440,6 +20536,51 @@
       "source": "E:\\PROGETTI\\ragequit\\.verify\\intro-studio-yt-20261022\\sheets\\YImRjNurLoE\\zoom_29.9-31.1_20fps.jpg",
       "bytes": 253568,
       "reason": "Third-party trailer source media/transcripts; source URLs and analytical measurements published instead"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\assemble-intro-istante.cpython-312.pyc",
+      "bytes": 13942,
+      "reason": "Compiled Python cache; source script retained"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\assemble-intro-video2.cpython-312.pyc",
+      "bytes": 6938,
+      "reason": "Compiled Python cache; source script retained"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\build-intro-duel.cpython-312.pyc",
+      "bytes": 12432,
+      "reason": "Compiled Python cache; source script retained"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\create-announcer-pack.cpython-312.pyc",
+      "bytes": 8902,
+      "reason": "Compiled Python cache; source script retained"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\create-intro-media.cpython-312.pyc",
+      "bytes": 28318,
+      "reason": "Compiled Python cache; source script retained"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\create-intro-video2-motion.cpython-312.pyc",
+      "bytes": 6111,
+      "reason": "Compiled Python cache; source script retained"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\__pycache__\\refine-intro-corale.cpython-312.pyc",
+      "bytes": 39835,
+      "reason": "Compiled Python cache; source script retained"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\unreal\\__pycache__\\render-intro-istante.cpython-312.pyc",
+      "bytes": 36898,
+      "reason": "Compiled Python cache; source script retained"
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\tools\\unreal\\__pycache__\\test-announcer.cpython-312.pyc",
+      "bytes": 9686,
+      "reason": "Compiled Python cache; source script retained"
     }
   ],
   "redactions": [],

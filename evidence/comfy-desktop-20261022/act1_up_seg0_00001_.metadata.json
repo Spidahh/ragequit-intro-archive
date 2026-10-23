@@ -1,0 +1,335 @@
+{
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 2560,
+      "height": 1440,
+      "coded_width": 2560,
+      "coded_height": 1440,
+      "has_b_frames": 2,
+      "pix_fmt": "yuv420p",
+      "level": 50,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "iec61966-2-1",
+      "color_primaries": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "refs": 1,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "24/1",
+      "avg_frame_rate": "24/1",
+      "time_base": "1/12288",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 28672,
+      "duration": "2.333333",
+      "bit_rate": "21032742",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "56",
+      "extradata_size": 50,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "sample_fmt": "fltp",
+      "sample_rate": "32000",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/32000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 74667,
+      "duration": "2.333344",
+      "bit_rate": "125718",
+      "nb_frames": "74",
+      "extradata_size": 5,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "SoundHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    }
+  ],
+  "format": {
+    "filename": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_up_seg0_00001_.mp4",
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "2.333344",
+    "size": "6177184",
+    "bit_rate": "21178819",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41",
+      "prompt": {
+        "lv": {
+          "class_type": "LoadVideo",
+          "inputs": {
+            "file": "rq_up_seg0.mp4"
+          },
+          "is_changed": [
+            1792658844.5191123
+          ]
+        },
+        "comp": {
+          "class_type": "GetVideoComponents",
+          "inputs": {
+            "video": [
+              "lv",
+              0
+            ]
+          }
+        },
+        "rs": {
+          "class_type": "ResizeImageMaskNode",
+          "inputs": {
+            "input": [
+              "comp",
+              0
+            ],
+            "resize_type": "scale dimensions",
+            "resize_type.width": 2560,
+            "resize_type.height": 1440,
+            "resize_type.crop": "center",
+            "scale_method": "lanczos"
+          }
+        },
+        "pre": {
+          "class_type": "SeedVR2Preprocess",
+          "inputs": {
+            "resized_images": [
+              "rs",
+              0
+            ]
+          }
+        },
+        "vae": {
+          "class_type": "VAELoader",
+          "inputs": {
+            "vae_name": "seedvr2_ema_vae_fp16.safetensors"
+          }
+        },
+        "unet": {
+          "class_type": "UNETLoader",
+          "inputs": {
+            "unet_name": "seedvr2_7b_sharp_int8_convrot.safetensors",
+            "weight_dtype": "default"
+          }
+        },
+        "enc": {
+          "class_type": "VAEEncodeTiled",
+          "inputs": {
+            "pixels": [
+              "pre",
+              0
+            ],
+            "vae": [
+              "vae",
+              0
+            ],
+            "tile_size": 512,
+            "overlap": 128,
+            "temporal_size": 64,
+            "temporal_overlap": 8
+          }
+        },
+        "chunk": {
+          "class_type": "SeedVR2TemporalChunk",
+          "inputs": {
+            "latent": [
+              "enc",
+              0
+            ],
+            "temporal_overlap": 2,
+            "chunking_mode": "auto"
+          }
+        },
+        "cond": {
+          "class_type": "SeedVR2Conditioning",
+          "inputs": {
+            "model": [
+              "unet",
+              0
+            ],
+            "vae_conditioning": [
+              "chunk",
+              0
+            ]
+          }
+        },
+        "ks": {
+          "class_type": "KSampler",
+          "inputs": {
+            "model": [
+              "unet",
+              0
+            ],
+            "seed": 959948902156062,
+            "steps": 1,
+            "cfg": 1.0,
+            "sampler_name": "euler",
+            "scheduler": "simple",
+            "positive": [
+              "cond",
+              0
+            ],
+            "negative": [
+              "cond",
+              1
+            ],
+            "latent_image": [
+              "chunk",
+              0
+            ],
+            "denoise": 1.0
+          }
+        },
+        "merge": {
+          "class_type": "SeedVR2TemporalMerge",
+          "inputs": {
+            "latents": [
+              "ks",
+              0
+            ],
+            "temporal_overlap": [
+              "chunk",
+              1
+            ]
+          }
+        },
+        "dec": {
+          "class_type": "VAEDecodeTiled",
+          "inputs": {
+            "samples": [
+              "merge",
+              0
+            ],
+            "vae": [
+              "vae",
+              0
+            ],
+            "tile_size": 512,
+            "overlap": 128,
+            "temporal_size": 64,
+            "temporal_overlap": 8
+          }
+        },
+        "post": {
+          "class_type": "SeedVR2PostProcessing",
+          "inputs": {
+            "images": [
+              "dec",
+              0
+            ],
+            "original_resized_images": [
+              "rs",
+              0
+            ],
+            "color_correction_method": "lab"
+          }
+        },
+        "vid": {
+          "class_type": "CreateVideo",
+          "inputs": {
+            "images": [
+              "post",
+              0
+            ],
+            "audio": [
+              "comp",
+              1
+            ],
+            "fps": [
+              "comp",
+              2
+            ]
+          }
+        },
+        "save": {
+          "class_type": "SaveVideo",
+          "inputs": {
+            "video": [
+              "vid",
+              0
+            ],
+            "filename_prefix": "ragequit_intro/act1_up_seg0",
+            "format": "mp4",
+            "codec": "h264"
+          }
+        }
+      },
+      "encoder": "Lavf63.1.102"
+    }
+  }
+}

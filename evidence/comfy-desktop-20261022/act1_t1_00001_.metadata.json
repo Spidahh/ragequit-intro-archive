@@ -1,0 +1,309 @@
+{
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 1344,
+      "height": 768,
+      "coded_width": 1344,
+      "coded_height": 768,
+      "has_b_frames": 2,
+      "pix_fmt": "yuv420p",
+      "level": 32,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "iec61966-2-1",
+      "color_primaries": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "refs": 1,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "24/1",
+      "avg_frame_rate": "24/1",
+      "time_base": "1/12288",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 185344,
+      "duration": "15.083333",
+      "bit_rate": "7723049",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "362",
+      "extradata_size": 48,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "sample_fmt": "fltp",
+      "sample_rate": "32000",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/32000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 482400,
+      "duration": "15.075000",
+      "bit_rate": "130375",
+      "nb_frames": "473",
+      "extradata_size": 5,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "SoundHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    }
+  ],
+  "format": {
+    "filename": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_t1_00001_.mp4",
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "15.083333",
+    "size": "14823781",
+    "bit_rate": "7862337",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41",
+      "prompt": {
+        "unet": {
+          "class_type": "UNETLoader",
+          "inputs": {
+            "unet_name": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+            "weight_dtype": "default"
+          }
+        },
+        "clip": {
+          "class_type": "CLIPLoader",
+          "inputs": {
+            "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+            "type": "minimax",
+            "device": "default"
+          }
+        },
+        "vae": {
+          "class_type": "VAELoader",
+          "inputs": {
+            "vae_name": "minimax_h3_video_vae_int8_convrot.safetensors"
+          }
+        },
+        "avae": {
+          "class_type": "VAELoader",
+          "inputs": {
+            "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+          }
+        },
+        "cond": {
+          "class_type": "MiniMaxH3ImageToVideo",
+          "inputs": {
+            "clip": [
+              "clip",
+              0
+            ],
+            "vae": [
+              "vae",
+              0
+            ],
+            "prompt": "High-end video game cinematic trailer. Stylized painterly 3D animation: hand-painted textures, bold graphic silhouettes, hand-drawn 2D fire, smoke and spark effects layered over the 3D, anime-style impact frames with ink-black and white flashes on every hit. Dark, heavy, adult tone. Palette strictly charcoal black, bone white and blood red, deep crushed shadows, hard red rim light from fires, drifting embers and ash. Cinematic anamorphic framing, real motion blur, fast professional fight choreography at real speed, every action has a visible physical consequence.\n\nCharacters, identical in every shot:\n- THE WARRIOR: a towering berserker in battered dark iron plate armor, horned iron helm with a narrow eye slit glowing faint red, torn blood-red cloth hanging from his belt, a huge two-handed war axe in his right hand and a scarred round iron shield on his left arm.\n- THE MAGE: a gaunt fire witch in long torn black robes, cracked bone-white mask over her face, long black hair whipping in the heat, glowing red runes carved along her bare arms, she throws fire.\n\nSetting: the ruins of a colossal gothic cathedral arena at night, broken stone arches, cracked flagstone floor, fires burning everywhere, black smoke, a red full moon behind the broken rose window.\n\nTimeline:\n[0s-1.5s] Black screen, a single ember drifts. Hard cut to an extreme close-up of the warrior's helm eye slit, the red glow ignites.\n[1.5s-3.5s] Hard cut, wide low-angle shot of the burning arena: the mage stands on a broken altar at the far end, the warrior stands at the other end. Wind, embers.\n[3.5s-5.5s] Hard cut, low tracking camera racing beside the warrior as he sprints forward, his axe blade dragging on the stone throwing a trail of sparks.\n[5.5s-7.5s] Hard cut, the mage swings her arm and hurls a spear of fire straight at the camera. Hard cut, the warrior raises his shield, the fire spear explodes on it, the blast shoves him backwards sliding on his boots, stone floor cracking under him, flames wrapping around the shield.\n[7.5s-10s] Bullet-time slow motion: the warrior leaps through the curtain of fire, axe raised high over his head, the camera orbits around him, embers frozen in the air. Back to full speed: the mage vanishes in a burst of black ash a split second before the axe hits.\n[10s-12.5s] Hard cut, the axe smashes into the floor where she stood, a shockwave splits the flagstones and throws rubble into the air. Hard cut, the mage reappears behind him in a swirl of ash, a spiral of fire erupting around her.\n[12.5s-15s] Hard cut, the warrior spins and charges, the mage dashes at him with fire flaring behind her, both close the distance at full speed toward the camera from opposite sides, frame ends on the instant before they collide.\n\nHard cuts only, no dissolves, no slow camera drifts, no static shots. No text, no letters, no logos, no subtitles, no UI.\n\nAudio: no music. Only loud, close, realistic combat sound design: deep wind and crackling fire, heavy armored footsteps, axe scraping stone, a roaring whoosh of the fire spear, a massive explosion impact on iron, a slow-motion low rumble during bullet time, a deep stone-shattering boom, a fire vortex roar, both fighters' battle screams at the end.",
+            "width": 1344,
+            "height": 768,
+            "length": 362
+          }
+        },
+        "noise": {
+          "class_type": "RandomNoise",
+          "inputs": {
+            "noise_seed": 1101
+          }
+        },
+        "sampler": {
+          "class_type": "KSamplerSelect",
+          "inputs": {
+            "sampler_name": "res_multistep"
+          }
+        },
+        "guider": {
+          "class_type": "BasicGuider",
+          "inputs": {
+            "model": [
+              "model",
+              0
+            ],
+            "conditioning": [
+              "cond",
+              0
+            ]
+          }
+        },
+        "sched": {
+          "class_type": "BasicScheduler",
+          "inputs": {
+            "model": [
+              "model",
+              0
+            ],
+            "scheduler": "simple",
+            "steps": 8,
+            "denoise": 1.0
+          }
+        },
+        "run": {
+          "class_type": "SamplerCustomAdvanced",
+          "inputs": {
+            "noise": [
+              "noise",
+              0
+            ],
+            "guider": [
+              "guider",
+              0
+            ],
+            "sampler": [
+              "sampler",
+              0
+            ],
+            "sigmas": [
+              "sched",
+              0
+            ],
+            "latent_image": [
+              "cond",
+              1
+            ]
+          }
+        },
+        "dec": {
+          "class_type": "VAEDecode",
+          "inputs": {
+            "samples": [
+              "run",
+              0
+            ],
+            "vae": [
+              "vae",
+              0
+            ]
+          }
+        },
+        "adec": {
+          "class_type": "VAEDecodeAudio",
+          "inputs": {
+            "samples": [
+              "run",
+              0
+            ],
+            "vae": [
+              "avae",
+              0
+            ]
+          }
+        },
+        "vid": {
+          "class_type": "CreateVideo",
+          "inputs": {
+            "images": [
+              "dec",
+              0
+            ],
+            "audio": [
+              "adec",
+              0
+            ],
+            "fps": 24.0
+          }
+        },
+        "save": {
+          "class_type": "SaveVideo",
+          "inputs": {
+            "video": [
+              "vid",
+              0
+            ],
+            "filename_prefix": "ragequit_intro/act1_t1",
+            "format": "mp4",
+            "codec": "h264"
+          }
+        },
+        "model": {
+          "class_type": "LoraLoaderModelOnly",
+          "inputs": {
+            "model": [
+              "unet",
+              0
+            ],
+            "lora_name": "minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+            "strength_model": 1.0
+          }
+        }
+      },
+      "encoder": "Lavf63.1.102"
+    }
+  }
+}

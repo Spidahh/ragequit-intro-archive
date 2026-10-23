@@ -12,7 +12,7 @@ La frase deve usare **la nuova voce del narratore**, con la voce che parte **pri
 
 - I render nativi, le decodifiche corrette e i 60 fps non dimostrano una coreografia riuscita o l’accettazione dell’autore.
 - Le prove LTX con guerriero corazzato e vecchio mago viola erano personaggi inventati. Sono pubblicate per rendere verificabile l’errore, non come base canonica.
-- Le scene H3 con personaggi inventati sono state bocciate; l’eventuale assenza dei file dall’export non annulla D0965.
+- Le scene H3 con personaggi inventati sono state bocciate (D0965). Sono stati recuperati anche gli output grezzi da Comfy Desktop: `evidence/comfy-desktop-20261022/`. La versione finale assemblata non va ricostruita arbitrariamente dai soli segmenti.
 - Gli studi contengono anche scelte e stime dell’AI, alcune ritirate o contraddette dopo. Leggere prima le parole dell’autore e il loro stato.
 - D1077 approva una scheda in quella sessione. Non ricostruire il contenuto esatto della scheda dal solo «sì»: consultare le fonti disponibili e non trasformare un’altra scaletta in quella approvata.
 - I servizi Runway e la demo HF non hanno prodotto il filmato desiderato: tentativi di collegamento/quota non sono risultati creativi. Non chiedere di nuovo pagamenti o registrazioni già contestati.

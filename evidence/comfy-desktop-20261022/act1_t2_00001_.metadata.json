@@ -1,0 +1,309 @@
+{
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 1344,
+      "height": 768,
+      "coded_width": 1344,
+      "coded_height": 768,
+      "has_b_frames": 2,
+      "pix_fmt": "yuv420p",
+      "level": 32,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "iec61966-2-1",
+      "color_primaries": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "refs": 1,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "24/1",
+      "avg_frame_rate": "24/1",
+      "time_base": "1/12288",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 185344,
+      "duration": "15.083333",
+      "bit_rate": "9666978",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "362",
+      "extradata_size": 48,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "sample_fmt": "fltp",
+      "sample_rate": "32000",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/32000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 482400,
+      "duration": "15.075000",
+      "bit_rate": "129583",
+      "nb_frames": "473",
+      "extradata_size": 5,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "SoundHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    }
+  ],
+  "format": {
+    "filename": "C:\\Users\\magis\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared\\output\\ragequit_intro\\act1_t2_00001_.mp4",
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "15.083333",
+    "size": "18488194",
+    "bit_rate": "9805893",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41",
+      "prompt": {
+        "unet": {
+          "class_type": "UNETLoader",
+          "inputs": {
+            "unet_name": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+            "weight_dtype": "default"
+          }
+        },
+        "clip": {
+          "class_type": "CLIPLoader",
+          "inputs": {
+            "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+            "type": "minimax",
+            "device": "default"
+          }
+        },
+        "vae": {
+          "class_type": "VAELoader",
+          "inputs": {
+            "vae_name": "minimax_h3_video_vae_int8_convrot.safetensors"
+          }
+        },
+        "avae": {
+          "class_type": "VAELoader",
+          "inputs": {
+            "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+          }
+        },
+        "cond": {
+          "class_type": "MiniMaxH3ImageToVideo",
+          "inputs": {
+            "clip": [
+              "clip",
+              0
+            ],
+            "vae": [
+              "vae",
+              0
+            ],
+            "prompt": "High-end video game cinematic trailer, fight scene edited like a modern action film and a top-tier anime fight: very fast cutting, every shot about one second, constant violent motion at full real-time speed, no slow motion anywhere. Stylized painterly 3D animation: hand-painted textures, bold graphic silhouettes, hand-drawn 2D smoke, sparks and debris, anime impact frames on every hit. Dark adult tone. Color: almost black-and-white image with only blood red accents: the fire and all magic are deep crimson and blood red, never orange, never yellow; charcoal black stone, cold bone-white highlights, heavy crushed shadows, red rim light, drifting red embers and grey ash. Handheld camera energy, whip pans, strong motion blur, every action has a visible physical consequence.\n\nTwo characters, identical in every shot, both on screen and fighting each other in almost every shot:\n- THE WARRIOR: a towering berserker in battered black iron plate armor, horned iron helm with a narrow eye slit glowing red, torn blood-red cloth at the belt, one huge single-bladed war axe in his right hand, a scarred round iron shield on his left arm.\n- THE MAGE: a fast, agile fire witch in long torn black robes, a cracked bone-white mask covering her whole face, long black hair, glowing red runes on her bare arms; she moves with sharp acrobatic dashes and throws blood-red fire.\n\nSetting: a ruined gothic cathedral arena at night, broken arches, cracked flagstones, scattered red fires, black smoke, a red moon through a shattered rose window.\n\nTimeline:\n[0s-0.7s] Extreme close-up: the warrior's helm slit flares red. \n[0.7s-1.8s] Hard cut, wide shot: the mage on a broken altar and the warrior at the other end both burst into a sprint toward each other.\n[1.8s-3s] Hard cut, low tracking shot beside the warrior running, axe blade dragging on stone throwing sparks; the mage hurls a red fire spear at him.\n[3s-4.2s] Hard cut, the fire spear explodes on his raised shield, impact frame, he is shoved back sliding on his boots, the floor cracking under him.\n[4.2s-5.5s] Hard cut, the warrior bursts out of the red fire swinging the axe horizontally at the mage, she bends backward under the blade, it passes inches over her mask cutting strands of her hair.\n[5.5s-6.8s] Hard cut, she spins and kicks off his shield, flips backward through the air throwing three red fire bolts mid-flip; he blocks two with the shield, the third hits his shoulder pauldron in a burst of sparks.\n[6.8s-8s] Hard cut, he leaps high and slams the axe down at her, she vanishes in a burst of black ash, the axe smashes the floor, a shockwave splits the flagstones and throws rubble at the camera.\n[8s-9.3s] Hard cut, she reappears right behind him and blasts him in the back with a red fire wave, he is thrown forward and rolls, coming up on one knee.\n[9.3s-10.6s] Hard cut, close-up: he hurls his shield like a disc, it spins through the air and smashes into her, knocking her mask askew, she skids back on the stone.\n[10.6s-12s] Hard cut, he charges and grabs her by the robe, lifts her and throws her into a stone pillar that cracks and crumbles behind her.\n[12s-13.5s] Hard cut, she pushes off the broken pillar, red runes blazing, a vortex of red fire spirals up around her and lifts her off the ground.\n[13.5s-15s] Hard cut, both launch at each other at full speed from opposite sides of the frame, axe raised, fire blazing, frame ends the instant before they collide.\n\nHard cuts only, no dissolves, no slow motion, no freeze frames, no static shots, no drifting camera. No text, no letters, no logos, no subtitles, no UI.\n\nAudio: no music. Only loud, close, punchy combat sound design synced to every action: heavy armored footsteps, axe scraping stone, fire whooshes, a big explosion on iron, the axe swishing past, fire bolts hitting metal, a stone-shattering boom, a fire blast, a spinning shield whirr and crash, a pillar cracking, a roaring fire vortex, grunts and battle screams of both fighters.",
+            "width": 1344,
+            "height": 768,
+            "length": 362
+          }
+        },
+        "noise": {
+          "class_type": "RandomNoise",
+          "inputs": {
+            "noise_seed": 2207
+          }
+        },
+        "sampler": {
+          "class_type": "KSamplerSelect",
+          "inputs": {
+            "sampler_name": "res_multistep"
+          }
+        },
+        "guider": {
+          "class_type": "BasicGuider",
+          "inputs": {
+            "model": [
+              "model",
+              0
+            ],
+            "conditioning": [
+              "cond",
+              0
+            ]
+          }
+        },
+        "sched": {
+          "class_type": "BasicScheduler",
+          "inputs": {
+            "model": [
+              "model",
+              0
+            ],
+            "scheduler": "simple",
+            "steps": 8,
+            "denoise": 1.0
+          }
+        },
+        "run": {
+          "class_type": "SamplerCustomAdvanced",
+          "inputs": {
+            "noise": [
+              "noise",
+              0
+            ],
+            "guider": [
+              "guider",
+              0
+            ],
+            "sampler": [
+              "sampler",
+              0
+            ],
+            "sigmas": [
+              "sched",
+              0
+            ],
+            "latent_image": [
+              "cond",
+              1
+            ]
+          }
+        },
+        "dec": {
+          "class_type": "VAEDecode",
+          "inputs": {
+            "samples": [
+              "run",
+              0
+            ],
+            "vae": [
+              "vae",
+              0
+            ]
+          }
+        },
+        "adec": {
+          "class_type": "VAEDecodeAudio",
+          "inputs": {
+            "samples": [
+              "run",
+              0
+            ],
+            "vae": [
+              "avae",
+              0
+            ]
+          }
+        },
+        "vid": {
+          "class_type": "CreateVideo",
+          "inputs": {
+            "images": [
+              "dec",
+              0
+            ],
+            "audio": [
+              "adec",
+              0
+            ],
+            "fps": 24.0
+          }
+        },
+        "save": {
+          "class_type": "SaveVideo",
+          "inputs": {
+            "video": [
+              "vid",
+              0
+            ],
+            "filename_prefix": "ragequit_intro/act1_t2",
+            "format": "mp4",
+            "codec": "h264"
+          }
+        },
+        "model": {
+          "class_type": "LoraLoaderModelOnly",
+          "inputs": {
+            "model": [
+              "unet",
+              0
+            ],
+            "lora_name": "minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+            "strength_model": 1.0
+          }
+        }
+      },
+      "encoder": "Lavf63.1.102"
+    }
+  }
+}

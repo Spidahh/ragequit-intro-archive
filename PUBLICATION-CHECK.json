@@ -1,9 +1,11 @@
 {
   "secret_scan": "passed; no token/private-key pattern matches",
-  "relative_links": "all README/HANDOFF/RIGHTS links resolve",
+  "manifest": "all included files exist and match SHA256",
+  "relative_links": "README/HANDOFF/RIGHTS checked",
   "large_files": "all below 100 MiB",
-  "media_files": 571,
-  "files": 881,
-  "bytes": 582569891,
-  "new_renders": 0
+  "files": 898,
+  "media_files": 588,
+  "bytes": 690864517,
+  "new_renders": 0,
+  "public_repository": "https://github.com/Spidahh/ragequit-intro-archive"
 }

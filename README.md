@@ -24,6 +24,7 @@ Repository pubblica di consegna ad altre AI, richiesta dall’autore il **23 ott
 | Sigla illustrata | [cartella](art/intro/alternative-20261021/illustrata/) | Alternativa conservata; non risulta accettata |
 | Duello successivo | [cartella](art/intro/duello-azione-20261022/) | Bocciato, D0947 |
 | LTX locale, prove native e diagnostica | [produzione](art/intro/ltx23-20261022/), [tentativi](evidence/intro-ltx23-local/), [tutti gli MP4 rimasti nel runtime](evidence/ltx23-native-outputs/) | Esperimenti tecnici, non una consegna valida; personaggi inventati non canonici |
+| Output Comfy Desktop del 22/10, scene H3, musica e chiavi | [cartella](evidence/comfy-desktop-20261022/) | Output grezzi recuperati dal runtime, con metadati estratti dagli MP4; non sono approvazioni |
 | Studio successivo e chiavi Tempestblade/Pyromancer | [cartella](evidence/intro-studio-yt-20261022/) | Distinguere le pose bocciate e la critica D1093 sulla resa lucida/satura |
 | Voce, prompt e ricevute | [announcer-v2.wav](art/intro/announcer-v2.wav), [generation.json](art/intro/generation.json), [prove voce](evidence/announcer-pack/) | Il file attuale va distinto dalle versioni vecchie con lo stesso nome |
 | Script di generazione e montaggio | [tools](tools/) | Codice conservato come prova del metodo usato, non ricetta certificata |
