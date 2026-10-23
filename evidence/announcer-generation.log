@@ -1,0 +1,39 @@
+"sox" non è riconosciuto come comando interno o esterno,
+ un programma eseguibile o un file batch.
+SoX could not be found!
+
+    If you do not have SoX, proceed here:
+     - - - http://sox.sourceforge.net/ - - -
+
+    If you do (or think that you should) have SoX, double-check your
+    path variables.
+    
+E:\PROGETTI\ragequit\.verify\intro-runtime\Lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\magis\.cache\huggingface\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-Base. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+
+********
+Warning: flash-attn is not installed. Will only run the manual PyTorch version. Please install flash-attn for faster inference.
+********
+ 
+
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]
+Fetching 4 files:  25%|██▌       | 1/4 [00:00<00:00,  4.18it/s]
+Fetching 4 files:  75%|███████▌  | 3/4 [00:10<00:03,  3.99s/it]
+Fetching 4 files: 100%|██████████| 4/4 [00:10<00:00,  2.71s/it]
+Creating reference from original Video 1 speaker
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+{"file": "VO_RQ_FIGHT.wav", "text": "FIGHT!", "event": "match_start", "audience": "All players", "seed": 333, "seconds": 0.5859166666666666, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.998166776400958, "rms_dbfs": -20.469189177605784, "sha256": "188fdb2c8b7be96781ebed1ba34f1862ed46d3d97480b8c0d50466b6c0ecf112"}
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+{"file": "VO_RQ_PLAYER_ELIMINATED.wav", "text": "PLAYER ELIMINATED!", "event": "other_player_killed", "audience": "Spectators or uninvolved players", "seed": 334, "seconds": 1.4315, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -7.058820559917266, "rms_dbfs": -20.18595540417069, "sha256": "5e0879796d5dc0236bcb58e883ab274ce7bef444fc35d6e93d681d9e2be64a1b"}
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+{"file": "VO_RQ_ENEMY_SLAIN.wav", "text": "ENEMY SLAIN!", "event": "local_player_kill", "audience": "Killer only", "seed": 335, "seconds": 1.6131458333333333, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.278636716379841, "rms_dbfs": -20.164613947968387, "sha256": "84b6ec02ae571ebb75a4cb2ce69d254f31206e21cbb569fda9c1f258f9447614"}
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+{"file": "VO_RQ_YOU_DIED.wav", "text": "YOU DIED!", "event": "local_player_death", "audience": "Victim only", "seed": 336, "seconds": 1.1947916666666667, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -8.523685240036283, "rms_dbfs": -20.223760469641544, "sha256": "d02a8eb09db4828b92c11001d1bf522e10f566beb755e4043a89f50efd8df730"}
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+{"file": "VO_RQ_MATCH_OVER.wav", "text": "MATCH OVER!", "event": "match_end", "audience": "All players", "seed": 337, "seconds": 1.0894583333333334, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.5649922111155306, "rms_dbfs": -20.246018516560206, "sha256": "9990fc0070666182165d13fa778179ae9fb136c56685f2739eb97b3f753ee3f3"}
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+{"file": "VO_RQ_VICTORY.wav", "text": "VICTORY!", "event": "local_player_victory", "audience": "Winning player or team", "seed": 338, "seconds": 1.2140416666666667, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -3.9215664276529107, "rms_dbfs": -20.220121029501676, "sha256": "03d9a89cc6a649a0cf3de997f76918e47e6087439b09bf107ce8d878cf9893f6"}
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+{"file": "VO_RQ_DEFEAT.wav", "text": "DEFEAT!", "event": "local_player_defeat", "audience": "Losing player or team", "seed": 339, "seconds": 0.8593333333333333, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.166859038172392, "rms_dbfs": -20.314337342545542, "sha256": "044ae1f8576e98ab5097fbc51f77f4b7f4120818b1bd09a1f9e5a1e2c8aab7a8"}
+PACK COMPLETE

@@ -1,0 +1,65 @@
+[
+  {
+    "file": "VO_RQ_FIGHT.wav",
+    "expected": "FIGHT!",
+    "asr": "Fight!",
+    "peak": 0.48162841796875,
+    "duration": 0.6390416666666666,
+    "first_10ms_peak": 0.0,
+    "last_10ms_peak": 0.0
+  },
+  {
+    "file": "VO_RQ_PLAYER_ELIMINATED.wav",
+    "expected": "PLAYER ELIMINATED!",
+    "asr": "Player eliminated.",
+    "peak": 0.44366455078125,
+    "duration": 1.4315,
+    "first_10ms_peak": 0.0,
+    "last_10ms_peak": 0.0
+  },
+  {
+    "file": "VO_RQ_ENEMY_SLAIN.wav",
+    "expected": "ENEMY SLAIN!",
+    "asr": "Enemy slain!",
+    "peak": 0.4853515625,
+    "duration": 1.6131458333333333,
+    "first_10ms_peak": 0.0,
+    "last_10ms_peak": 0.0
+  },
+  {
+    "file": "VO_RQ_YOU_DIED.wav",
+    "expected": "YOU DIED!",
+    "asr": "You died.",
+    "peak": 0.374786376953125,
+    "duration": 1.1947916666666667,
+    "first_10ms_peak": 0.0,
+    "last_10ms_peak": 0.0
+  },
+  {
+    "file": "VO_RQ_MATCH_OVER.wav",
+    "expected": "MATCH OVER!",
+    "asr": "match over",
+    "peak": 0.469635009765625,
+    "duration": 1.0894583333333334,
+    "first_10ms_peak": 0.0,
+    "last_10ms_peak": 0.0
+  },
+  {
+    "file": "VO_RQ_VICTORY.wav",
+    "expected": "VICTORY!",
+    "asr": "Victory!",
+    "peak": 0.63665771484375,
+    "duration": 1.2140416666666667,
+    "first_10ms_peak": 0.0,
+    "last_10ms_peak": 0.0
+  },
+  {
+    "file": "VO_RQ_DEFEAT.wav",
+    "expected": "DEFEAT!",
+    "asr": "DEFEAT!",
+    "peak": 0.49163818359375,
+    "duration": 0.8593333333333333,
+    "first_10ms_peak": 0.0,
+    "last_10ms_peak": 0.0
+  }
+]

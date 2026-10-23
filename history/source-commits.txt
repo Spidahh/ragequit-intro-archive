@@ -1,0 +1,30 @@
+e67f0ae72eb6ae7c98381845f39ef34eafa1bc76 2026-10-22T09:50:23+02:00 main locale 55feae0: Intro line in the announcer's new voice (D0960): Welcome to Rage quit! Frag them all! cloned like the 34 lines, heard back by Whisper
+55feae0e82100c569e5ca90ca118f7532b6ea625 2026-10-22T09:50:23+02:00 Intro line in the announcer's new voice (D0960): Welcome to Rage quit! Frag them all! cloned like the 34 lines, heard back by Whisper
+a3f146a2a6455c18b8e3d5a6cd8c23cbb81b3324 2026-10-22T07:53:37+02:00 main locale 5ab08b4: Record rejected duel intro and stop repeated production approach
+5ab08b4a682df9a133db29071da07dc4783b0209 2026-10-22T07:53:37+02:00 Record rejected duel intro and stop repeated production approach
+195b3241d8e0bacb0ae5a1eefdacb54aa65c1802 2026-10-22T07:08:53+02:00 main locale 065c24f: Rebuild intro as a brief duel with visible impacts and reactions
+065c24fb4bab0198ced3b7ecbe3e0bf7533fb184 2026-10-22T07:08:53+02:00 Rebuild intro as a brief duel with visible impacts and reactions
+4e7e8ea0b5f4142d6a04b79310743621706c4a5c 2026-10-22T01:01:18+02:00 main locale afcc9c3: Refine corale intro motion and rebuild archer shot
+afcc9c36147fe515fc5a06ffe7bf30cb0254aeaa 2026-10-22T01:01:18+02:00 Refine corale intro motion and rebuild archer shot
+ad680e23d9fe4f5f33b0804cbdaa5f7fa21bd14c 2026-10-22T00:09:33+02:00 main locale ee8d584: Produce corale and illustrated intro alternatives with continuous animation and RIFE finishing
+ee8d584a67bb152464ac8088efe93b2d97e380bd 2026-10-22T00:09:33+02:00 Produce corale and illustrated intro alternatives with continuous animation and RIFE finishing
+fbf37469a7c1c9e5634bc35172a62b2432a31f36 2026-10-21T23:44:04+02:00 main locale f1e8653: Redo rejected intro trial with continuous character animation
+f1e8653fa11ade87b37b4d1b654736932c1ec59f 2026-10-21T23:44:04+02:00 Redo rejected intro trial with continuous character animation
+1f7b79d6a76ba8c0be44aae5087d3a0976cb8f2f 2026-10-21T23:11:04+02:00 main locale 4bae267: Crea la prima prova video della intro scultorea, conserva le altre direzioni
+4bae267a533856d75af2f24a61a23be4e86bb001 2026-10-21T23:10:32+02:00 Crea la prima prova video della intro scultorea, conserva le altre direzioni
+ac123936df11af48034d50cbcf2a77e911fd759a 2026-10-21T22:37:28+02:00 main locale 6eb57fc: Studia tre direzioni professionali per la nuova intro RAGEQUIT
+6eb57fc633c58aac16d6829c8ef673688dbdaa53 2026-10-21T22:37:28+02:00 Studia tre direzioni professionali per la nuova intro RAGEQUIT
+a4e375652632808126001ee3fcd51bb1d481bafd 2026-10-21T20:52:23+02:00 main locale b4e6767: Strato 3 (unreal a9f5cb62): menu come le figure (galleria 77/77), 34 battute dell'annunciatore riascoltate, suoni del menu e dei premi, canali audio coi loro cursori, MATCH FOUND, elenco uccisioni con l'abilità, fila dello spettatore; piano aggiornato
+b4e6767932595c411404fcdb78788804061c705b 2026-10-21T20:52:23+02:00 Strato 3 (unreal a9f5cb62): menu come le figure (galleria 77/77), 34 battute dell'annunciatore riascoltate, suoni del menu e dei premi, canali audio coi loro cursori, MATCH FOUND, elenco uccisioni con l'abilità, fila dello spettatore; piano aggiornato
+214e97dd91837256c8349b8927bb548d57fd879f 2026-10-10T23:37:03+02:00 main locale 00a34e1: Prelaunch review: verify 54 checks, align pack metadata and gate documentation
+00a34e1fc8bfb96b8200490357c486f0f2168cbb 2026-10-10T23:37:03+02:00 Prelaunch review: verify 54 checks, align pack metadata and gate documentation
+59b965f0bf6fb0ddf826bf0a59961d25dd9ab7b4 2026-10-10T16:34:30+02:00 main locale c8bd142: Voci announcer Video 1: sette WAV pronti per Unreal, anteprima e pack
+c8bd1427180c6615b6d68f65416ed70293469926 2026-10-10T16:34:18+02:00 Voci announcer Video 1: sette WAV pronti per Unreal, anteprima e pack
+c0197beea1f50253dbef46325b965e783a059181 2026-10-10T16:19:34+02:00 main locale caf96be: Intro Video 2: Warmaster contro Voidseer, tre tagli dinamici e Video 1 conservato
+caf96be17d5fdf2ad5401d79b14d5ef04b2d0bad 2026-10-10T16:19:34+02:00 Intro Video 2: Warmaster contro Voidseer, tre tagli dinamici e Video 1 conservato
+d15d68bc671bd4dd820810896355489973f65b52 2026-10-10T15:46:03+02:00 main locale d7c0183: Intro v3: Foley di combattimento sincronizzato e ingresso del logo curato
+d7c0183e89c0321c44291077068e12f09b24c38c 2026-10-10T15:46:03+02:00 Intro v3: Foley di combattimento sincronizzato e ingresso del logo curato
+2b19791cb8d5c9cfdbc3235456f07a63a6acb707 2026-10-10T15:04:21+02:00 main locale 25a08d3: Intro v2: nuovo stile cel, scontro rapido a 60 FPS e nuova voce gutturale
+25a08d3c3d5f454395a0183e5728c00dfa8bdd05 2026-10-10T15:04:21+02:00 Intro v2: nuovo stile cel, scontro rapido a 60 FPS e nuova voce gutturale
+5748822bde0c858445d0538f08683ee485fd777f 2026-10-10T14:36:42+02:00 main locale fa87986: Intro: mago contro guerriero in movimento, logo e voce grave
+fa8798605e4a8a114915c04d37b34e0340247010 2026-10-10T14:36:42+02:00 Intro: mago contro guerriero in movimento, logo e voce grave

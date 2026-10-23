@@ -1,0 +1,11 @@
+{
+  "status": "internal-review-rejected",
+  "acceptance": "No author acceptance; no game installation",
+  "attempts": [
+    {"seed":144713,"mode":"T2V","decision":"reject","reason":"Old game-like 3D appearance, foreground column obscures combat, hand glow"},
+    {"seed":113957,"mode":"T2V","decision":"reject","reason":"White sketch-like environment, unstable axe, weak action correspondence"},
+    {"seed":171991,"mode":"I2V","decision":"reject","reason":"Improved appearance and rapid motion, but implausible warrior fall and long idle tail"}
+  ],
+  "preservation":".verify/intro-ltx23-local/attempt-01 through attempt-03",
+  "note":"Incomplete-file decode attempted during third file write failed; retry after execution_success decoded successfully. This is not a media corruption conclusion. Fourth submission hit hostbuf_file_reader_read failed on text encoder reload; owned server restarted, request resubmitted."
+}

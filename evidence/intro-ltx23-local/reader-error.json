@@ -1,0 +1,538 @@
+{
+  "acf4218e-4a06-4282-b00d-ccc1d12e5abe": {
+    "prompt": [
+      3,
+      "acf4218e-4a06-4282-b00d-ccc1d12e5abe",
+      {
+        "1": {
+          "class_type": "CheckpointLoaderSimple",
+          "inputs": {
+            "ckpt_name": "ltx-2.3-22b-dev-fp8.safetensors"
+          }
+        },
+        "2": {
+          "class_type": "LTXAVTextEncoderLoader",
+          "inputs": {
+            "text_encoder": "gemma_3_12B_it_fp4_mixed.safetensors",
+            "ckpt_name": "ltx-2.3-22b-dev-fp8.safetensors",
+            "device": "default"
+          }
+        },
+        "3": {
+          "class_type": "CLIPTextEncode",
+          "inputs": {
+            "clip": [
+              "2",
+              0
+            ],
+            "text": "Dark fantasy anime film with the same detailed painted art and lighting as the reference. One continuous rapid combat exchange at normal speed. The armored warrior rushes forward two heavy steps and swings his axe diagonally DOWN toward the hooded mage. The mage quickly sidesteps to the right, narrowly evading the blade. The axe misses the mage and strikes the stone pavement hard, sending chips and dust flying. The warrior keeps both feet on the ground, pulls the axe out and immediately turns toward the mage. The mage slides low past the warrior's shield side, then drives his shoulder into the shield. The warrior staggers sideways one step from the hard collision and immediately pushes back with the shield. Both fighters remain upright, close together, engaged in continuous fast attack and evasion throughout the shot. Axe held firmly in warrior's right hand and shield fixed on left forearm throughout. Full-body movement, convincing weight and foot contact, continuous motion of the cape. Both fighters fully visible, clear foreground. Fast action, no slow motion. Sounds of an axe slicing air, hard stone impact, falling chips, boots scraping, metal shield crash, short exertion grunts. No words or music.\n"
+          }
+        },
+        "4": {
+          "class_type": "CLIPTextEncode",
+          "inputs": {
+            "clip": [
+              "2",
+              0
+            ],
+            "text": ""
+          }
+        },
+        "5": {
+          "class_type": "LTXVConditioning",
+          "inputs": {
+            "positive": [
+              "3",
+              0
+            ],
+            "negative": [
+              "4",
+              0
+            ],
+            "frame_rate": 24.0
+          }
+        },
+        "6": {
+          "class_type": "LoraLoaderModelOnly",
+          "inputs": {
+            "model": [
+              "1",
+              0
+            ],
+            "lora_name": "ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors",
+            "strength_model": 0.5
+          }
+        },
+        "7": {
+          "class_type": "LTXVAudioVAELoader",
+          "inputs": {
+            "ckpt_name": "ltx-2.3-22b-dev-fp8.safetensors"
+          }
+        },
+        "8": {
+          "class_type": "EmptyLTXVLatentVideo",
+          "inputs": {
+            "width": 512,
+            "height": 288,
+            "length": 97,
+            "batch_size": 1
+          }
+        },
+        "9": {
+          "class_type": "LTXVEmptyLatentAudio",
+          "inputs": {
+            "audio_vae": [
+              "7",
+              0
+            ],
+            "frames_number": 97,
+            "frame_rate": 24,
+            "batch_size": 1
+          }
+        },
+        "10": {
+          "class_type": "LTXVConcatAVLatent",
+          "inputs": {
+            "video_latent": [
+              "32",
+              0
+            ],
+            "audio_latent": [
+              "9",
+              0
+            ]
+          }
+        },
+        "11": {
+          "class_type": "RandomNoise",
+          "inputs": {
+            "noise_seed": 728341
+          }
+        },
+        "12": {
+          "class_type": "CFGGuider",
+          "inputs": {
+            "model": [
+              "6",
+              0
+            ],
+            "positive": [
+              "5",
+              0
+            ],
+            "negative": [
+              "5",
+              1
+            ],
+            "cfg": 1.0
+          }
+        },
+        "13": {
+          "class_type": "KSamplerSelect",
+          "inputs": {
+            "sampler_name": "euler"
+          }
+        },
+        "14": {
+          "class_type": "ManualSigmas",
+          "inputs": {
+            "sigmas": "1.0, 0.99375, 0.9875, 0.98125, 0.975, 0.909375, 0.725, 0.421875, 0.0"
+          }
+        },
+        "15": {
+          "class_type": "SamplerCustomAdvanced",
+          "inputs": {
+            "noise": [
+              "11",
+              0
+            ],
+            "guider": [
+              "12",
+              0
+            ],
+            "sampler": [
+              "13",
+              0
+            ],
+            "sigmas": [
+              "14",
+              0
+            ],
+            "latent_image": [
+              "10",
+              0
+            ]
+          }
+        },
+        "16": {
+          "class_type": "LTXVSeparateAVLatent",
+          "inputs": {
+            "av_latent": [
+              "15",
+              0
+            ]
+          }
+        },
+        "17": {
+          "class_type": "LTXVCropGuides",
+          "inputs": {
+            "positive": [
+              "5",
+              0
+            ],
+            "negative": [
+              "5",
+              1
+            ],
+            "latent": [
+              "16",
+              0
+            ]
+          }
+        },
+        "18": {
+          "class_type": "LatentUpscaleModelLoader",
+          "inputs": {
+            "model_name": "ltx-2.3-spatial-upscaler-x2-1.1.safetensors"
+          }
+        },
+        "19": {
+          "class_type": "LTXVLatentUpsampler",
+          "inputs": {
+            "samples": [
+              "16",
+              0
+            ],
+            "upscale_model": [
+              "18",
+              0
+            ],
+            "vae": [
+              "1",
+              2
+            ]
+          }
+        },
+        "20": {
+          "class_type": "LTXVConcatAVLatent",
+          "inputs": {
+            "video_latent": [
+              "33",
+              0
+            ],
+            "audio_latent": [
+              "16",
+              1
+            ]
+          }
+        },
+        "21": {
+          "class_type": "CFGGuider",
+          "inputs": {
+            "model": [
+              "6",
+              0
+            ],
+            "positive": [
+              "17",
+              0
+            ],
+            "negative": [
+              "17",
+              1
+            ],
+            "cfg": 1.0
+          }
+        },
+        "22": {
+          "class_type": "RandomNoise",
+          "inputs": {
+            "noise_seed": 42
+          }
+        },
+        "23": {
+          "class_type": "ManualSigmas",
+          "inputs": {
+            "sigmas": "0.85, 0.7250, 0.4219, 0.0"
+          }
+        },
+        "24": {
+          "class_type": "SamplerCustomAdvanced",
+          "inputs": {
+            "noise": [
+              "22",
+              0
+            ],
+            "guider": [
+              "21",
+              0
+            ],
+            "sampler": [
+              "13",
+              0
+            ],
+            "sigmas": [
+              "23",
+              0
+            ],
+            "latent_image": [
+              "20",
+              0
+            ]
+          }
+        },
+        "25": {
+          "class_type": "LTXVSeparateAVLatent",
+          "inputs": {
+            "av_latent": [
+              "24",
+              0
+            ]
+          }
+        },
+        "26": {
+          "class_type": "VAEDecodeTiled",
+          "inputs": {
+            "samples": [
+              "25",
+              0
+            ],
+            "vae": [
+              "1",
+              2
+            ],
+            "tile_size": 768,
+            "overlap": 64,
+            "temporal_size": 4096,
+            "temporal_overlap": 4
+          }
+        },
+        "27": {
+          "class_type": "LTXVAudioVAEDecode",
+          "inputs": {
+            "samples": [
+              "25",
+              1
+            ],
+            "audio_vae": [
+              "7",
+              0
+            ]
+          }
+        },
+        "28": {
+          "class_type": "CreateVideo",
+          "inputs": {
+            "images": [
+              "26",
+              0
+            ],
+            "audio": [
+              "27",
+              0
+            ],
+            "fps": 24.0
+          }
+        },
+        "29": {
+          "class_type": "SaveVideo",
+          "inputs": {
+            "video": [
+              "28",
+              0
+            ],
+            "filename_prefix": "RAGEQUIT_LTX23/duel-728341",
+            "format": "auto"
+          }
+        },
+        "30": {
+          "class_type": "LoadImage",
+          "inputs": {
+            "image": "ragequit-duel-guide.png"
+          }
+        },
+        "31": {
+          "class_type": "LTXVPreprocess",
+          "inputs": {
+            "image": [
+              "30",
+              0
+            ],
+            "img_compression": 18
+          }
+        },
+        "32": {
+          "class_type": "LTXVImgToVideoInplace",
+          "inputs": {
+            "vae": [
+              "1",
+              2
+            ],
+            "image": [
+              "31",
+              0
+            ],
+            "latent": [
+              "8",
+              0
+            ],
+            "strength": 0.7,
+            "bypass": false
+          }
+        },
+        "33": {
+          "class_type": "LTXVImgToVideoInplace",
+          "inputs": {
+            "vae": [
+              "1",
+              2
+            ],
+            "image": [
+              "31",
+              0
+            ],
+            "latent": [
+              "19",
+              0
+            ],
+            "strength": 1.0,
+            "bypass": false
+          }
+        }
+      },
+      {
+        "client_id": "ragequit-intro-ltx23",
+        "create_time": 1792650788157
+      },
+      [
+        "29"
+      ]
+    ],
+    "outputs": {},
+    "status": {
+      "status_str": "error",
+      "completed": false,
+      "messages": [
+        [
+          "execution_start",
+          {
+            "prompt_id": "acf4218e-4a06-4282-b00d-ccc1d12e5abe",
+            "timestamp": 1792650788160
+          }
+        ],
+        [
+          "execution_cached",
+          {
+            "nodes": [
+              "1",
+              "2",
+              "4",
+              "6",
+              "7",
+              "13",
+              "14",
+              "18",
+              "22",
+              "23",
+              "30",
+              "31"
+            ],
+            "prompt_id": "acf4218e-4a06-4282-b00d-ccc1d12e5abe",
+            "timestamp": 1792650788176
+          }
+        ],
+        [
+          "execution_error",
+          {
+            "prompt_id": "acf4218e-4a06-4282-b00d-ccc1d12e5abe",
+            "node_id": "3",
+            "node_type": "CLIPTextEncode",
+            "executed": [
+              "8",
+              "32",
+              "10",
+              "9"
+            ],
+            "exception_message": "hostbuf_file_reader_read failed\n",
+            "exception_type": "RuntimeError",
+            "traceback": [
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\execution.py\", line 548, in execute\n    output_data, output_ui, has_subgraph, has_pending_tasks = await get_output_data(prompt_id, unique_id, obj, input_data_all, execution_block_cb=execution_block_cb, pre_execute_cb=pre_execute_cb, v3_data=v3_data)\n                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\execution.py\", line 353, in get_output_data\n    return_values = await _async_map_node_over_list(prompt_id, unique_id, obj, input_data_all, obj.FUNCTION, allow_interrupt=True, execution_block_cb=execution_block_cb, pre_execute_cb=pre_execute_cb, v3_data=v3_data)\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\execution.py\", line 327, in _async_map_node_over_list\n    await process_inputs(input_dict, i)\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\execution.py\", line 315, in process_inputs\n    result = f(**inputs)\n             ^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\nodes.py\", line 79, in encode\n    return (clip.encode_from_tokens_scheduled(tokens), )\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\sd.py\", line 348, in encode_from_tokens_scheduled\n    pooled_dict = self.encode_from_tokens(tokens, return_pooled=return_pooled, return_dict=True)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\sd.py\", line 419, in encode_from_tokens\n    o = self.cond_stage_model.encode_token_weights(tokens)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\text_encoders\\lt.py\", line 185, in encode_token_weights\n    out, pooled, extra = self.gemma3_12b.encode_token_weights(token_weight_pairs)\n                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\sd1_clip.py\", line 45, in encode_token_weights\n    o = self.encode(to_encode)\n        ^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\sd1_clip.py\", line 306, in encode\n    return self(tokens)\n           ^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py\", line 1783, in _wrapped_call_impl\n    return self._call_impl(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py\", line 1794, in _call_impl\n    return forward_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\sd1_clip.py\", line 266, in forward\n    embeds, attention_mask, num_tokens, embeds_info = self.process_tokens(tokens, device)\n                                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\sd1_clip.py\", line 213, in process_tokens\n    tokens_embed = self.transformer.get_input_embeddings()(tokens_embed, out_dtype=torch.float32)\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py\", line 1783, in _wrapped_call_impl\n    return self._call_impl(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\.venv\\Lib\\site-packages\\torch\\nn\\modules\\module.py\", line 1794, in _call_impl\n    return forward_call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\text_encoders\\llama.py\", line 887, in forward\n    return super().forward(input_ids, out_dtype=out_dtype) * scale\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\ops.py\", line 833, in forward\n    return self.forward_comfy_cast_weights(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\ops.py\", line 1825, in forward_comfy_cast_weights\n    return super().forward_comfy_cast_weights(input, out_dtype=out_dtype)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\ops.py\", line 821, in forward_comfy_cast_weights\n    with CastBiasWeightContext(self, device=input.device, dtype=out_dtype, offloadable=True) as (weight, bias):\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\ops.py\", line 489, in __init__\n    self.state = (None, None) if self.slf is None else cast_bias_weight(*args, **kwargs)\n                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\ops.py\", line 400, in cast_bias_weight\n    offload_stream = cast_modules_with_vbar([s], dtype, device, bias_dtype, non_blocking)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\ops.py\", line 253, in cast_modules_with_vbar\n    handle_pin(s, pin, xfer_source, xfer_dest, subset=subset, size=dest_size)\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\ops.py\", line 251, in handle_pin\n    cast_maybe_lowvram_patch(source, pin, offload_stream, xfer_dest2=dest)\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\ops.py\", line 242, in cast_maybe_lowvram_patch\n    comfy.model_management.cast_to_gathered(xfer_source, xfer_dest, non_blocking=non_blocking, stream=stream, r2=xfer_dest2)\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\model_management.py\", line 1563, in cast_to_gathered\n    if comfy.memory_management.read_tensor_file_slice_into(tensor, dest_view, stream=stream, destination2=dest2_view):\n       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\comfy\\memory_management.py\", line 59, in read_tensor_file_slice_into\n    comfy_aimdo.host_buffer.read_file_to_device(file_obj, info.offset, info.size,\n",
+              "  File \"C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\.venv\\Lib\\site-packages\\comfy_aimdo\\host_buffer.py\", line 71, in read_file_to_device\n    raise RuntimeError(\"hostbuf_file_reader_read failed\")\n"
+            ],
+            "current_inputs": {
+              "clip": [
+                "<comfy.sd.CLIP object at 0x000001A9D33406E0>"
+              ],
+              "text": [
+                "Dark fantasy anime film with the same detailed painted art and lighting as the reference. One continuous rapid combat exchange at normal speed. The armored warrior rushes forward two heavy steps and swings his axe diagonally DOWN toward the hooded mage. The mage quickly sidesteps to the right, narrowly evading the blade. The axe misses the mage and strikes the stone pavement hard, sending chips and dust flying. The warrior keeps both feet on the ground, pulls the axe out and immediately turns toward the mage. The mage slides low past the warrior's shield side, then drives his shoulder into the shield. The warrior staggers sideways one step from the hard collision and immediately pushes back with the shield. Both fighters remain upright, close together, engaged in continuous fast attack and evasion throughout the shot. Axe held firmly in warrior's right hand and shield fixed on left forearm throughout. Full-body movement, convincing weight and foot contact, continuous motion of the cape. Both fighters fully visible, clear foreground. Fast action, no slow motion. Sounds of an axe slicing air, hard stone impact, falling chips, boots scraping, metal shield crash, short exertion grunts. No words or music.\n"
+              ]
+            },
+            "current_outputs": [
+              "8",
+              "17",
+              "33",
+              "16",
+              "30",
+              "11",
+              "20",
+              "25",
+              "24",
+              "29",
+              "15",
+              "9",
+              "26",
+              "27",
+              "31",
+              "3",
+              "12",
+              "6",
+              "1",
+              "28",
+              "19",
+              "23",
+              "10",
+              "7",
+              "13",
+              "18",
+              "22",
+              "32",
+              "5",
+              "14",
+              "4",
+              "21",
+              "2"
+            ],
+            "timestamp": 1792650789918
+          }
+        ]
+      ]
+    },
+    "meta": {}
+  }
+}

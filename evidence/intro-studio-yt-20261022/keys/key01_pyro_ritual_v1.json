@@ -1,0 +1,11 @@
+{
+ "name": "key01_pyro_ritual",
+ "prompt": "Use the arena of image 1 as the location, keeping its gothic colosseum architecture, red banners, chained pillars and wet dark stone floor. Make it deep night: almost black, only a single ritual fire burning in the middle of the arena floor lights the scene with blood-red and orange light, thick black smoke and floating embers.\nPlace the witch from image 2 crouching low on the stone floor right behind the ritual fire, exactly the same character: pale blue skin, big curved ram horns, long dark dreadlocks with bone and bead ornaments, dark tribal clothes, a small voodoo doll in one hand and a long needle in the other. She is seen from the front, half in silhouette, her face lit from below by the red fire, her eyes glowing, staring into the camera with a cruel smile.\nCamera: fixed wide shot at human height, 16:9, the fire in the foreground center, the witch behind it, the dark arena around.\nHigh-end video game cinematic render, detailed realistic materials, same style and proportions as the character in image 2, very dark and moody, strong contrast.",
+ "images": [
+  "E:/PROGETTI/ragequit/art/ui/menu/T_UI_Menu_Arena.png",
+  "refs/ref_pyromancer_bust.png"
+ ],
+ "seed": 41,
+ "steps": 40,
+ "cfg": 4.0
+}

@@ -1,0 +1,12 @@
+{
+  "method": "RIFE v4.6, per shot, no interpolation across cuts",
+  "source": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\a-native.mp4",
+  "source_sha256": "cc54c6d1e5c20409935fe18a99db775bb4c162cca34fd28a7b32fb2c21ce25a7",
+  "native_fps": 16.0,
+  "native_frames": 81,
+  "interpolated_frames": 304,
+  "output_fps": 60,
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\a-smooth.mp4",
+  "output_sha256": "b07ec1407f198a425f4d3a25019f17c1a961613d4eafb5f87344548f57cf24f0",
+  "quality_boundary": "Temporal interpolation does not correct choreography or guarantee artistic quality."
+}

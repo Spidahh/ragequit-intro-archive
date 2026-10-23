@@ -1,0 +1,80 @@
+[
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Draw_Weapon_Metal_1-1.wav",
+    "seconds": 0.02,
+    "level": 0.18,
+    "rate": 1.0
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Whoosh_1-1.wav",
+    "seconds": 0.22,
+    "level": 0.48,
+    "rate": 1.15
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Shield_Wood_Impact_2-1.wav",
+    "seconds": 0.5,
+    "level": 0.57,
+    "rate": 0.91
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Shield_Metal_Impact_1-3.wav",
+    "seconds": 0.5,
+    "level": 0.7,
+    "rate": 0.94
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Punch_2-1.wav",
+    "seconds": 0.51,
+    "level": 0.26,
+    "rate": 1.0
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Whoosh_4-1.wav",
+    "seconds": 0.81,
+    "level": 0.44,
+    "rate": 1.18
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Shield_Metal_Impact_1-3.wav",
+    "seconds": 1.1,
+    "level": 0.59,
+    "rate": 1.16
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Wood_Chop_1-4.wav",
+    "seconds": 1.1,
+    "level": 0.44,
+    "rate": 0.88
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Rock_Impact_37.wav",
+    "seconds": 1.13,
+    "level": 0.28,
+    "rate": 1.0
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Whoosh_1-1.wav",
+    "seconds": 1.48,
+    "level": 0.32,
+    "rate": 0.82
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Whoosh_4-1.wav",
+    "seconds": 1.56,
+    "level": 0.33,
+    "rate": 0.8
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Rock_Impact_11.wav",
+    "seconds": 1.8,
+    "level": 0.66,
+    "rate": 0.72
+  },
+  {
+    "source": ".verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Blacksmithing_1-1.wav",
+    "seconds": 1.8,
+    "level": 0.4,
+    "rate": 0.76
+  }
+]

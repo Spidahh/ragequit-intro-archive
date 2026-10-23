@@ -1,0 +1,50 @@
+{
+  "request": "D0936",
+  "model": "jayn7/WAN2.2-I2V_A14B-DISTILL-LIGHTX2V-4STEP-GGUF",
+  "base": "Wan-AI/Wan2.2-I2V-A14B-Diffusers",
+  "license": "Apache-2.0, inherited from LightX2V/Wan",
+  "files": [
+    "high_noise_260412/wan2.2_i2v_A14b_high_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+    "low_noise_260412/wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf"
+  ],
+  "seed": 834,
+  "prompt": "A painterly cinematic shot in a gothic stone arena. The red-haired woman archer holds a fully drawn recurve bow aimed right. She releases one arrow crisply within the first second. The string snaps forward, her right hand follows back beside her neck and her left arm absorbs a small natural recoil. She keeps the same balanced stance, then smoothly lowers the intact bow slightly while watching the arrow. Her body remains upright and anatomically stable. Hair and cloth move subtly in the wind. The distant hooded figure stays in the background. A restrained camera push accompanies the action. Preserve identity, costume, weapon geometry, hands, shoulders and lighting. No cuts, slow motion, jumps, twisting, magic or extra weapons.\n",
+  "image_sha256": "bf9e77edc1dd197a924df259b2f2774c6bb99064493e3b56b16a6efe23b4e530",
+  "steps": 4,
+  "expert_steps": [
+    2,
+    2
+  ],
+  "guidance_scale": 1.0,
+  "scheduler": "LightX2V WanStepDistill schedule [1000,750,500,250], shift=5; Euler step",
+  "size": [
+    1024,
+    576
+  ],
+  "frames": 81,
+  "fps": 24,
+  "spend": 0,
+  "status": "completed",
+  "errors": [],
+  "checkpoint_files": [
+    {
+      "file": "high_noise_260412/wan2.2_i2v_A14b_high_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+      "bytes": 8757992064,
+      "revision": "338fb8eedd8f485c9188cf1b1de541721fc81d66"
+    },
+    {
+      "file": "low_noise_260412/wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+      "bytes": 8757992064,
+      "revision": "338fb8eedd8f485c9188cf1b1de541721fc81d66"
+    }
+  ],
+  "last_step": 4,
+  "timesteps": [
+    1000.0,
+    937.5,
+    833.3333129882812,
+    625.0
+  ],
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\v2\\archer-native.mp4",
+  "sha256": "9e2c2d0025d515bdaaf1c2ff52930171ba8877de4944c7ae106049a10e0cff0a"
+}

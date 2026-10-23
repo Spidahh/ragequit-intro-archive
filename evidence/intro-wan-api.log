@@ -1,0 +1,24 @@
+Client.predict() Usage Info
+---------------------------
+Named API endpoints: 2
+
+ - predict(image_b64, prompt, steps, negative_prompt, duration_seconds, guidance_scale, guidance_scale_2, seed, randomize_seed, api_name="/generate_video") -> 1st
+    Parameters:
+     - [Api] image_b64: str (required)  
+     - [Api] prompt: str (required)  
+     - [Api] steps: int (required)  
+     - [Api] negative_prompt: str (required)  
+     - [Api] duration_seconds: float (required)  
+     - [Api] guidance_scale: float (required)  
+     - [Api] guidance_scale_2: float (required)  
+     - [Api] seed: int (required)  
+     - [Api] randomize_seed: bool (required)  
+    Returns:
+     - [Api] 1st: dict(str, Any) 
+
+ - predict(idx, api_name="/load_example") -> 1st
+    Parameters:
+     - [Api] idx: float (required)  
+    Returns:
+     - [Api] 1st: dict(str, Any) 
+

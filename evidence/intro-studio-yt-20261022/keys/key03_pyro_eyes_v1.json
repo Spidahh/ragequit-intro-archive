@@ -1,0 +1,11 @@
+{
+ "name": "key03_pyro_eyes",
+ "prompt": "Extreme close-up of the face of the horned witch from the references (pale blue skin, big curved ram horns, long dark dreadlocks with bone ornaments, dark tribal clothes, a small voodoo doll and a long needle), framed from the eyes to the chin, the ritual fire reflected in her glowing eyes, embers floating in front of her face, a cruel grin. Same burning gothic arena at night, blurred in the background. High-end video game cinematic render, detailed realistic materials, same characters, style and proportions as the references, night, the only light comes from fire (blood red and orange) and from the blue wind energy, deep shadows, strong contrast, sharp focus, 16:9.",
+ "images": [
+  "keys/key01_pyro_ritual.png",
+  "refs/ref_pyromancer_bust.png"
+ ],
+ "seed": 51,
+ "steps": 40,
+ "cfg": 4.0
+}

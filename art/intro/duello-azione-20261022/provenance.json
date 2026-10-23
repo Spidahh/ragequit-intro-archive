@@ -1,0 +1,357 @@
+{
+  "request": "D0938",
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\duello-azione-20261022\\ragequit-duello.mp4",
+  "sha256": "0d1becbb9e5192c9998b929f25689d90b8840160c2d8b1c791795463b74c99e0",
+  "duration": 5.2,
+  "shots": [
+    {
+      "name": "contact",
+      "source_sha256": "da786ce930729cf20fc864988d768b26716bd7246c48885a25cd10ba4adf2b70",
+      "source_frames": 81,
+      "source_fps": 24,
+      "retime_frames_before_trim": 120,
+      "output_frames": 120,
+      "output_fps": 60,
+      "duration": 2.0,
+      "speed": 1.6875,
+      "trim_reason": null,
+      "generation": {
+        "request": "D0938 action verification, not final intro",
+        "model": "jayn7/WAN2.2-I2V_A14B-DISTILL-LIGHTX2V-4STEP-GGUF",
+        "base": "Wan-AI/Wan2.2-I2V-A14B-Diffusers",
+        "license": "Apache-2.0, inherited from LightX2V/Wan",
+        "files": [
+          "high_noise_260412/wan2.2_i2v_A14b_high_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+          "low_noise_260412/wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf"
+        ],
+        "seed": 1295,
+        "prompt": "Fast violent shield bash. The warrior drives his shield forcefully into the mage's chest. The impact hurls the mage backwards through the air and he crashes onto his back on the stone floor. The warrior takes two quick steps forward after him. Dust and broken stone scatter from the landing. Both fighters remain fully visible in the same side-on wide shot. Continuous rapid physical movement at real fighting speed.\n",
+        "image_sha256": "e22421b1c3be7eee164ad506550f01dc27d0182c224c7d24f56241b865e74e35",
+        "steps": 4,
+        "expert_steps": [
+          2,
+          2
+        ],
+        "guidance_scale": 1.0,
+        "scheduler": "LightX2V WanStepDistill schedule [1000,750,500,250], shift=5; Euler step",
+        "size": [
+          1024,
+          576
+        ],
+        "frames": 81,
+        "fps": 24,
+        "spend": 0,
+        "status": "completed",
+        "errors": [],
+        "checkpoint_files": [
+          {
+            "file": "high_noise_260412/wan2.2_i2v_A14b_high_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+            "bytes": 8757992064,
+            "revision": "338fb8eedd8f485c9188cf1b1de541721fc81d66"
+          },
+          {
+            "file": "low_noise_260412/wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+            "bytes": 8757992064,
+            "revision": "338fb8eedd8f485c9188cf1b1de541721fc81d66"
+          }
+        ],
+        "last_step": 4,
+        "timesteps": [
+          1000.0,
+          937.5,
+          833.3333129882812,
+          625.0
+        ],
+        "output": "E:\\PROGETTI\\ragequit\\.verify\\intro-action-20261022\\contact-native.mp4",
+        "sha256": "da786ce930729cf20fc864988d768b26716bd7246c48885a25cd10ba4adf2b70"
+      }
+    },
+    {
+      "name": "counter",
+      "source_sha256": "6347d181003074406507ca5994438ba10bd2cbf7506fe9f0e687de0ede23c829",
+      "source_frames": 81,
+      "source_fps": 24,
+      "retime_frames_before_trim": 120,
+      "output_frames": 66,
+      "output_fps": 60,
+      "duration": 1.1,
+      "speed": 1.6875,
+      "trim_reason": "Remove idle tail after landing",
+      "generation": {
+        "request": "D0938 action verification, not final intro",
+        "model": "jayn7/WAN2.2-I2V_A14B-DISTILL-LIGHTX2V-4STEP-GGUF",
+        "base": "Wan-AI/Wan2.2-I2V-A14B-Diffusers",
+        "license": "Apache-2.0, inherited from LightX2V/Wan",
+        "files": [
+          "high_noise_260412/wan2.2_i2v_A14b_high_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+          "low_noise_260412/wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf"
+        ],
+        "seed": 6614,
+        "prompt": "The mage stays kneeling with his palm pressed firmly against the stone floor. A single forceful shockwave tears through the paving stones from right to left. It knocks the warrior off his feet onto his back. His shield remains attached to his forearm and his axe stays gripped in his other hand. He lands heavily on the ground and braces his shield across his chest. Dust and stones scatter from the landing. The mage holds his low stance throughout. Both bodies stay visible in this wide side-on shot. Rapid grounded physical action at full speed.\n",
+        "image_sha256": "dd3c341be2df41b537e8e3119513d53db173d540ad8683d9e55fc1e83be254da",
+        "steps": 4,
+        "expert_steps": [
+          2,
+          2
+        ],
+        "guidance_scale": 1.0,
+        "scheduler": "LightX2V WanStepDistill schedule [1000,750,500,250], shift=5; Euler step",
+        "size": [
+          1024,
+          576
+        ],
+        "frames": 81,
+        "fps": 24,
+        "spend": 0,
+        "status": "completed",
+        "errors": [],
+        "checkpoint_files": [
+          {
+            "file": "high_noise_260412/wan2.2_i2v_A14b_high_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+            "bytes": 8757992064,
+            "revision": "338fb8eedd8f485c9188cf1b1de541721fc81d66"
+          },
+          {
+            "file": "low_noise_260412/wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+            "bytes": 8757992064,
+            "revision": "338fb8eedd8f485c9188cf1b1de541721fc81d66"
+          }
+        ],
+        "last_step": 4,
+        "timesteps": [
+          1000.0,
+          937.5,
+          833.3333129882812,
+          625.0
+        ],
+        "output": "E:\\PROGETTI\\ragequit\\.verify\\intro-action-20261022\\counter-native.mp4",
+        "sha256": "6347d181003074406507ca5994438ba10bd2cbf7506fe9f0e687de0ede23c829"
+      }
+    }
+  ],
+  "action": "Shield contact displaces mage; mage counterattacks from a low position; warrior reacts.",
+  "audio": {
+    "events": [
+      {
+        "source": "Shield_Metal_Impact_1-3",
+        "at": 0.02,
+        "gain": 0.38,
+        "speed": 0.95,
+        "sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+      },
+      {
+        "source": "Punch_2-1",
+        "at": 0.02,
+        "gain": 0.28,
+        "speed": 0.9,
+        "sha256": "80b625a00e81dfaaab2cdd25f9674dd7656387a9b0b1c43da277235ae7c1b115"
+      },
+      {
+        "source": "Whoosh_4-1",
+        "at": 0.15,
+        "gain": 0.14,
+        "speed": 1.25,
+        "sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+      },
+      {
+        "source": "Rock_Impact_37",
+        "at": 1.03,
+        "gain": 0.25,
+        "speed": 0.85,
+        "sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+      },
+      {
+        "source": "Hit_Generic_5-1",
+        "at": 1.05,
+        "gain": 0.2,
+        "speed": 0.9,
+        "sha256": "e6051ef4ef0b40e0433e5a69ba772c018d2f310ab9f5460d6787015f38c331fd"
+      },
+      {
+        "source": "Rock_Impact_11",
+        "at": 2.03,
+        "gain": 0.19,
+        "speed": 0.85,
+        "sha256": "01f1ae3bcb06593ded87cadf859614a7e8a7537e7be04e9447760e7d39010519"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 2.17,
+        "gain": 0.23,
+        "speed": 0.8,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Rock_Impact_37",
+        "at": 2.56,
+        "gain": 0.26,
+        "speed": 0.8,
+        "sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+      },
+      {
+        "source": "Blacksmithing_1-1",
+        "at": 3.1,
+        "gain": 0.19,
+        "speed": 0.75,
+        "sha256": "2833ab64bd0b531776bdeb49a5038b415f88b5b057c1c9e4a6012ddd5ace1dcc"
+      },
+      {
+        "source": "Rock_Impact_37",
+        "at": 3.1,
+        "gain": 0.13,
+        "speed": 0.7,
+        "sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+      }
+    ],
+    "voice_at": 1.12,
+    "voice_sha256": "557e9425ae6b795d48eab032983b23ff86fc4306e175aed7443bab84878e9de4",
+    "peak": 0.6142385375195388,
+    "samples_at_or_above_1": 0
+  },
+  "decode": "Full FFmpeg decode passed",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "color_range": "tv",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 79872,
+        "duration": "5.200000",
+        "bit_rate": "20844103",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "312",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc62.11.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 249600,
+        "duration": "5.200000",
+        "bit_rate": "213876",
+        "nb_frames": "245",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "E:\\PROGETTI\\ragequit\\art\\intro\\duello-azione-20261022\\ragequit-duello.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "5.200000",
+      "size": "13697897",
+      "bit_rate": "21073687",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.3.100"
+      }
+    }
+  },
+  "artistic_approval": "Rejected by author D0947: incorrect combat, perceived as a scrolling frame; stop repeating this production approach.",
+  "native_boundary": "1024x576 at 24 fps; retimed 1.6875x and interpolated per shot, then upscaled.",
+  "installed": false,
+  "installed_movie_sha256": "007da5f972d870e42f74f9c0163aab5b2c4d9c5ef53a9bc7adde3188fd3c187d",
+  "script_sha256": "4a0285c1e37464a7d1d059c287de57c51760cc548cee71f09b20988ccf9f61a4"
+}

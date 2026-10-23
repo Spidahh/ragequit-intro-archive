@@ -1,0 +1,28 @@
+"sox" non è riconosciuto come comando interno o esterno,
+ un programma eseguibile o un file batch.
+SoX could not be found!
+
+    If you do not have SoX, proceed here:
+     - - - http://sox.sourceforge.net/ - - -
+
+    If you do (or think that you should) have SoX, double-check your
+    path variables.
+    
+
+********
+Warning: flash-attn is not installed. Will only run the manual PyTorch version. Please install flash-attn for faster inference.
+********
+ 
+
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]
+Fetching 4 files: 100%|██████████| 4/4 [00:00<?, ?it/s]
+Creating reference from original Video 1 speaker
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+{"file": "VO_RQ_FIGHT.wav", "text": "FIGHT!", "event": "match_start", "audience": "All players", "seed": 433, "seconds": 0.6390416666666666, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.345662572711096, "rms_dbfs": -20.428193600593474, "sha256": "4e5bfce01a9a3194429fedd06bebd7c180a71b7565f0717dc29fb833620cdfb6"}
+{"file": "VO_RQ_PLAYER_ELIMINATED.wav", "text": "PLAYER ELIMINATED!", "event": "other_player_killed", "audience": "Spectators or uninvolved players", "seed": 334, "seconds": 1.4315, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -7.058820559917266, "rms_dbfs": -20.18595540417069, "sha256": "5e0879796d5dc0236bcb58e883ab274ce7bef444fc35d6e93d681d9e2be64a1b"}
+{"file": "VO_RQ_ENEMY_SLAIN.wav", "text": "ENEMY SLAIN!", "event": "local_player_kill", "audience": "Killer only", "seed": 335, "seconds": 1.6131458333333333, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.278636716379841, "rms_dbfs": -20.164613947968387, "sha256": "84b6ec02ae571ebb75a4cb2ce69d254f31206e21cbb569fda9c1f258f9447614"}
+{"file": "VO_RQ_YOU_DIED.wav", "text": "YOU DIED!", "event": "local_player_death", "audience": "Victim only", "seed": 336, "seconds": 1.1947916666666667, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -8.523685240036283, "rms_dbfs": -20.223760469641544, "sha256": "d02a8eb09db4828b92c11001d1bf522e10f566beb755e4043a89f50efd8df730"}
+{"file": "VO_RQ_MATCH_OVER.wav", "text": "MATCH OVER!", "event": "match_end", "audience": "All players", "seed": 337, "seconds": 1.0894583333333334, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.5649922111155306, "rms_dbfs": -20.246018516560206, "sha256": "9990fc0070666182165d13fa778179ae9fb136c56685f2739eb97b3f753ee3f3"}
+{"file": "VO_RQ_VICTORY.wav", "text": "VICTORY!", "event": "local_player_victory", "audience": "Winning player or team", "seed": 338, "seconds": 1.2140416666666667, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -3.9215664276529107, "rms_dbfs": -20.220121029501676, "sha256": "03d9a89cc6a649a0cf3de997f76918e47e6087439b09bf107ce8d878cf9893f6"}
+{"file": "VO_RQ_DEFEAT.wav", "text": "DEFEAT!", "event": "local_player_defeat", "audience": "Losing player or team", "seed": 339, "seconds": 0.8593333333333333, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.166859038172392, "rms_dbfs": -20.314337342545542, "sha256": "044ae1f8576e98ab5097fbc51f77f4b7f4120818b1bd09a1f9e5a1e2c8aab7a8"}
+PACK COMPLETE

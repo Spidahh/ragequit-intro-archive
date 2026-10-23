@@ -1,0 +1,365 @@
+{
+  "source_sha256": "9e2c2d0025d515bdaaf1c2ff52930171ba8877de4944c7ae106049a10e0cff0a",
+  "output_sha256": "3fd67ea4d6daf20a2d6e828f6f52b667767398687d90ebc393cf5efa50b9ae6e",
+  "method": "SIFT/RANSAC clean-plate registration and feathered regional compositing",
+  "plate_frames": [
+    0,
+    40
+  ],
+  "plate_switch_at": 14,
+  "plate_arrowhead_inpaint_bounds": [
+    560,
+    160,
+    617,
+    209
+  ],
+  "edited_frames": [
+    4,
+    34
+  ],
+  "body_or_bow_edited": false,
+  "tracking": [
+    {
+      "frame": 4,
+      "matches": 377,
+      "inliers": 338,
+      "bounds": [
+        570,
+        168,
+        765,
+        217
+      ]
+    },
+    {
+      "frame": 5,
+      "matches": 345,
+      "inliers": 302,
+      "bounds": [
+        580,
+        168,
+        768,
+        219
+      ]
+    },
+    {
+      "frame": 6,
+      "matches": 310,
+      "inliers": 272,
+      "bounds": [
+        590,
+        168,
+        770,
+        221
+      ]
+    },
+    {
+      "frame": 7,
+      "matches": 287,
+      "inliers": 261,
+      "bounds": [
+        592,
+        170,
+        780,
+        223
+      ]
+    },
+    {
+      "frame": 8,
+      "matches": 295,
+      "inliers": 263,
+      "bounds": [
+        595,
+        172,
+        790,
+        225
+      ]
+    },
+    {
+      "frame": 9,
+      "matches": 274,
+      "inliers": 247,
+      "bounds": [
+        615,
+        175,
+        802,
+        228
+      ]
+    },
+    {
+      "frame": 10,
+      "matches": 250,
+      "inliers": 227,
+      "bounds": [
+        635,
+        178,
+        815,
+        231
+      ]
+    },
+    {
+      "frame": 11,
+      "matches": 252,
+      "inliers": 232,
+      "bounds": [
+        672,
+        183,
+        825,
+        235
+      ]
+    },
+    {
+      "frame": 12,
+      "matches": 254,
+      "inliers": 229,
+      "bounds": [
+        710,
+        188,
+        835,
+        239
+      ]
+    },
+    {
+      "frame": 13,
+      "matches": 249,
+      "inliers": 226,
+      "bounds": [
+        735,
+        190,
+        852,
+        266
+      ]
+    },
+    {
+      "frame": 14,
+      "matches": 192,
+      "inliers": 147,
+      "bounds": [
+        760,
+        191,
+        870,
+        292
+      ]
+    },
+    {
+      "frame": 15,
+      "matches": 200,
+      "inliers": 163,
+      "bounds": [
+        782,
+        194,
+        894,
+        296
+      ]
+    },
+    {
+      "frame": 16,
+      "matches": 200,
+      "inliers": 132,
+      "bounds": [
+        805,
+        196,
+        918,
+        300
+      ]
+    },
+    {
+      "frame": 17,
+      "matches": 210,
+      "inliers": 169,
+      "bounds": [
+        828,
+        198,
+        938,
+        304
+      ]
+    },
+    {
+      "frame": 18,
+      "matches": 200,
+      "inliers": 156,
+      "bounds": [
+        851,
+        201,
+        958,
+        309
+      ]
+    },
+    {
+      "frame": 19,
+      "matches": 200,
+      "inliers": 170,
+      "bounds": [
+        870,
+        204,
+        982,
+        312
+      ]
+    },
+    {
+      "frame": 20,
+      "matches": 207,
+      "inliers": 179,
+      "bounds": [
+        888,
+        207,
+        1006,
+        315
+      ]
+    },
+    {
+      "frame": 21,
+      "matches": 229,
+      "inliers": 185,
+      "bounds": [
+        909,
+        210,
+        1015,
+        321
+      ]
+    },
+    {
+      "frame": 22,
+      "matches": 237,
+      "inliers": 164,
+      "bounds": [
+        930,
+        213,
+        1024,
+        327
+      ]
+    },
+    {
+      "frame": 23,
+      "matches": 235,
+      "inliers": 205,
+      "bounds": [
+        945,
+        220,
+        1024,
+        331
+      ]
+    },
+    {
+      "frame": 24,
+      "matches": 245,
+      "inliers": 216,
+      "bounds": [
+        960,
+        227,
+        1024,
+        335
+      ]
+    },
+    {
+      "frame": 25,
+      "matches": 267,
+      "inliers": 215,
+      "bounds": [
+        965,
+        231,
+        1024,
+        338
+      ]
+    },
+    {
+      "frame": 26,
+      "matches": 267,
+      "inliers": 238,
+      "bounds": [
+        970,
+        235,
+        1024,
+        341
+      ]
+    },
+    {
+      "frame": 27,
+      "matches": 295,
+      "inliers": 267,
+      "bounds": [
+        972,
+        235,
+        1024,
+        343
+      ]
+    },
+    {
+      "frame": 28,
+      "matches": 280,
+      "inliers": 260,
+      "bounds": [
+        975,
+        235,
+        1024,
+        346
+      ]
+    },
+    {
+      "frame": 29,
+      "matches": 333,
+      "inliers": 310,
+      "bounds": [
+        978,
+        235,
+        1024,
+        348
+      ]
+    },
+    {
+      "frame": 30,
+      "matches": 327,
+      "inliers": 308,
+      "bounds": [
+        980,
+        235,
+        1024,
+        350
+      ]
+    },
+    {
+      "frame": 31,
+      "matches": 335,
+      "inliers": 319,
+      "bounds": [
+        988,
+        239,
+        1024,
+        350
+      ]
+    },
+    {
+      "frame": 32,
+      "matches": 347,
+      "inliers": 330,
+      "bounds": [
+        995,
+        242,
+        1024,
+        350
+      ]
+    },
+    {
+      "frame": 33,
+      "matches": 391,
+      "inliers": 379,
+      "bounds": [
+        1002,
+        246,
+        1024,
+        350
+      ]
+    },
+    {
+      "frame": 34,
+      "matches": 410,
+      "inliers": 396,
+      "bounds": [
+        1010,
+        250,
+        1024,
+        350
+      ]
+    }
+  ],
+  "reason": "Generated arrow faced backwards, drifted too slowly and split fletching."
+}

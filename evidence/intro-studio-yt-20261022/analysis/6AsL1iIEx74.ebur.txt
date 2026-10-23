@@ -1,0 +1,910 @@
+frame:0    pts:0       pts_time:0
+lavfi.r128.M=-120.691
+frame:1    pts:4410    pts_time:0.1
+lavfi.r128.M=-120.691
+frame:2    pts:8820    pts_time:0.2
+lavfi.r128.M=-120.691
+frame:3    pts:13230   pts_time:0.3
+lavfi.r128.M=-163.156
+frame:4    pts:17640   pts_time:0.4
+lavfi.r128.M=-163.156
+frame:5    pts:22050   pts_time:0.5
+lavfi.r128.M=-163.156
+frame:6    pts:26460   pts_time:0.6
+lavfi.r128.M=-163.156
+frame:7    pts:30870   pts_time:0.7
+lavfi.r128.M=-163.156
+frame:8    pts:35280   pts_time:0.8
+lavfi.r128.M=-163.156
+frame:9    pts:39690   pts_time:0.9
+lavfi.r128.M=-163.156
+frame:10   pts:44100   pts_time:1
+lavfi.r128.M=-163.156
+frame:11   pts:48510   pts_time:1.1
+lavfi.r128.M=-163.156
+frame:12   pts:52920   pts_time:1.2
+lavfi.r128.M=-163.156
+frame:13   pts:57330   pts_time:1.3
+lavfi.r128.M=-163.156
+frame:14   pts:61740   pts_time:1.4
+lavfi.r128.M=-163.156
+frame:15   pts:66150   pts_time:1.5
+lavfi.r128.M=-163.156
+frame:16   pts:70560   pts_time:1.6
+lavfi.r128.M=-163.156
+frame:17   pts:74970   pts_time:1.7
+lavfi.r128.M=-163.156
+frame:18   pts:79380   pts_time:1.8
+lavfi.r128.M=-163.156
+frame:19   pts:83790   pts_time:1.9
+lavfi.r128.M=-163.156
+frame:20   pts:88200   pts_time:2
+lavfi.r128.M=-163.156
+frame:21   pts:92610   pts_time:2.1
+lavfi.r128.M=-104.763
+frame:22   pts:97020   pts_time:2.2
+lavfi.r128.M=-79.618
+frame:23   pts:101430  pts_time:2.3
+lavfi.r128.M=-66.513
+frame:24   pts:105840  pts_time:2.4
+lavfi.r128.M=-56.624
+frame:25   pts:110250  pts_time:2.5
+lavfi.r128.M=-52.243
+frame:26   pts:114660  pts_time:2.6
+lavfi.r128.M=-49.297
+frame:27   pts:119070  pts_time:2.7
+lavfi.r128.M=-46.604
+frame:28   pts:123480  pts_time:2.8
+lavfi.r128.M=-44.723
+frame:29   pts:127890  pts_time:2.9
+lavfi.r128.M=-39.580
+frame:30   pts:132300  pts_time:3
+lavfi.r128.M=-37.292
+frame:31   pts:136710  pts_time:3.1
+lavfi.r128.M=-36.200
+frame:32   pts:141120  pts_time:3.2
+lavfi.r128.M=-35.541
+frame:33   pts:145530  pts_time:3.3
+lavfi.r128.M=-35.392
+frame:34   pts:149940  pts_time:3.4
+lavfi.r128.M=-34.774
+frame:35   pts:154350  pts_time:3.5
+lavfi.r128.M=-32.815
+frame:36   pts:158760  pts_time:3.6
+lavfi.r128.M=-31.075
+frame:37   pts:163170  pts_time:3.7
+lavfi.r128.M=-30.244
+frame:38   pts:167580  pts_time:3.8
+lavfi.r128.M=-29.410
+frame:39   pts:171990  pts_time:3.9
+lavfi.r128.M=-28.514
+frame:40   pts:176400  pts_time:4
+lavfi.r128.M=-28.296
+frame:41   pts:180810  pts_time:4.1
+lavfi.r128.M=-27.388
+frame:42   pts:185220  pts_time:4.2
+lavfi.r128.M=-26.969
+frame:43   pts:189630  pts_time:4.3
+lavfi.r128.M=-26.414
+frame:44   pts:194040  pts_time:4.4
+lavfi.r128.M=-24.890
+frame:45   pts:198450  pts_time:4.5
+lavfi.r128.M=-23.746
+frame:46   pts:202860  pts_time:4.6
+lavfi.r128.M=-22.069
+frame:47   pts:207270  pts_time:4.7
+lavfi.r128.M=-21.075
+frame:48   pts:211680  pts_time:4.8
+lavfi.r128.M=-19.502
+frame:49   pts:216090  pts_time:4.9
+lavfi.r128.M=-18.641
+frame:50   pts:220500  pts_time:5
+lavfi.r128.M=-18.095
+frame:51   pts:224910  pts_time:5.1
+lavfi.r128.M=-15.738
+frame:52   pts:229320  pts_time:5.2
+lavfi.r128.M=-13.470
+frame:53   pts:233730  pts_time:5.3
+lavfi.r128.M=-12.094
+frame:54   pts:238140  pts_time:5.4
+lavfi.r128.M=-11.468
+frame:55   pts:242550  pts_time:5.5
+lavfi.r128.M=-11.357
+frame:56   pts:246960  pts_time:5.6
+lavfi.r128.M=-12.318
+frame:57   pts:251370  pts_time:5.7
+lavfi.r128.M=-13.426
+frame:58   pts:255780  pts_time:5.8
+lavfi.r128.M=-14.329
+frame:59   pts:260190  pts_time:5.9
+lavfi.r128.M=-15.647
+frame:60   pts:264600  pts_time:6
+lavfi.r128.M=-16.107
+frame:61   pts:269010  pts_time:6.1
+lavfi.r128.M=-16.147
+frame:62   pts:273420  pts_time:6.2
+lavfi.r128.M=-15.717
+frame:63   pts:277830  pts_time:6.3
+lavfi.r128.M=-15.239
+frame:64   pts:282240  pts_time:6.4
+lavfi.r128.M=-14.437
+frame:65   pts:286650  pts_time:6.5
+lavfi.r128.M=-14.501
+frame:66   pts:291060  pts_time:6.6
+lavfi.r128.M=-13.994
+frame:67   pts:295470  pts_time:6.7
+lavfi.r128.M=-13.700
+frame:68   pts:299880  pts_time:6.8
+lavfi.r128.M=-13.491
+frame:69   pts:304290  pts_time:6.9
+lavfi.r128.M=-12.532
+frame:70   pts:308700  pts_time:7
+lavfi.r128.M=-11.520
+frame:71   pts:313110  pts_time:7.1
+lavfi.r128.M=-10.692
+frame:72   pts:317520  pts_time:7.2
+lavfi.r128.M=-10.549
+frame:73   pts:321930  pts_time:7.3
+lavfi.r128.M=-10.186
+frame:74   pts:326340  pts_time:7.4
+lavfi.r128.M=-10.252
+frame:75   pts:330750  pts_time:7.5
+lavfi.r128.M=-10.252
+frame:76   pts:335160  pts_time:7.6
+lavfi.r128.M=-10.276
+frame:77   pts:339570  pts_time:7.7
+lavfi.r128.M=-10.333
+frame:78   pts:343980  pts_time:7.8
+lavfi.r128.M=-10.842
+frame:79   pts:348390  pts_time:7.9
+lavfi.r128.M=-11.578
+frame:80   pts:352800  pts_time:8
+lavfi.r128.M=-11.820
+frame:81   pts:357210  pts_time:8.1
+lavfi.r128.M=-12.894
+frame:82   pts:361620  pts_time:8.2
+lavfi.r128.M=-12.990
+frame:83   pts:366030  pts_time:8.3
+lavfi.r128.M=-13.573
+frame:84   pts:370440  pts_time:8.4
+lavfi.r128.M=-13.386
+frame:85   pts:374850  pts_time:8.5
+lavfi.r128.M=-12.749
+frame:86   pts:379260  pts_time:8.6
+lavfi.r128.M=-12.836
+frame:87   pts:383670  pts_time:8.7
+lavfi.r128.M=-12.400
+frame:88   pts:388080  pts_time:8.8
+lavfi.r128.M=-12.532
+frame:89   pts:392490  pts_time:8.9
+lavfi.r128.M=-13.074
+frame:90   pts:396900  pts_time:9
+lavfi.r128.M=-13.651
+frame:91   pts:401310  pts_time:9.1
+lavfi.r128.M=-13.883
+frame:92   pts:405720  pts_time:9.2
+lavfi.r128.M=-13.812
+frame:93   pts:410130  pts_time:9.3
+lavfi.r128.M=-13.913
+frame:94   pts:414540  pts_time:9.4
+lavfi.r128.M=-13.737
+frame:95   pts:418950  pts_time:9.5
+lavfi.r128.M=-13.771
+frame:96   pts:423360  pts_time:9.6
+lavfi.r128.M=-14.411
+frame:97   pts:427770  pts_time:9.7
+lavfi.r128.M=-14.663
+frame:98   pts:432180  pts_time:9.8
+lavfi.r128.M=-14.347
+frame:99   pts:436590  pts_time:9.9
+lavfi.r128.M=-14.469
+frame:100  pts:441000  pts_time:10
+lavfi.r128.M=-14.452
+frame:101  pts:445410  pts_time:10.1
+lavfi.r128.M=-14.546
+frame:102  pts:449820  pts_time:10.2
+lavfi.r128.M=-14.891
+frame:103  pts:454230  pts_time:10.3
+lavfi.r128.M=-15.011
+frame:104  pts:458640  pts_time:10.4
+lavfi.r128.M=-15.098
+frame:105  pts:463050  pts_time:10.5
+lavfi.r128.M=-14.801
+frame:106  pts:467460  pts_time:10.6
+lavfi.r128.M=-14.664
+frame:107  pts:471870  pts_time:10.7
+lavfi.r128.M=-14.451
+frame:108  pts:476280  pts_time:10.8
+lavfi.r128.M=-13.861
+frame:109  pts:480690  pts_time:10.9
+lavfi.r128.M=-14.077
+frame:110  pts:485100  pts_time:11
+lavfi.r128.M=-14.588
+frame:111  pts:489510  pts_time:11.1
+lavfi.r128.M=-15.584
+frame:112  pts:493920  pts_time:11.2
+lavfi.r128.M=-17.390
+frame:113  pts:498330  pts_time:11.3
+lavfi.r128.M=-17.956
+frame:114  pts:502740  pts_time:11.4
+lavfi.r128.M=-17.334
+frame:115  pts:507150  pts_time:11.5
+lavfi.r128.M=-16.336
+frame:116  pts:511560  pts_time:11.6
+lavfi.r128.M=-15.101
+frame:117  pts:515970  pts_time:11.7
+lavfi.r128.M=-13.415
+frame:118  pts:520380  pts_time:11.8
+lavfi.r128.M=-12.232
+frame:119  pts:524790  pts_time:11.9
+lavfi.r128.M=-11.022
+frame:120  pts:529200  pts_time:12
+lavfi.r128.M=-10.092
+frame:121  pts:533610  pts_time:12.1
+lavfi.r128.M=-10.021
+frame:122  pts:538020  pts_time:12.2
+lavfi.r128.M=-10.148
+frame:123  pts:542430  pts_time:12.3
+lavfi.r128.M=-10.275
+frame:124  pts:546840  pts_time:12.4
+lavfi.r128.M=-10.184
+frame:125  pts:551250  pts_time:12.5
+lavfi.r128.M=-10.192
+frame:126  pts:555660  pts_time:12.6
+lavfi.r128.M=-10.249
+frame:127  pts:560070  pts_time:12.7
+lavfi.r128.M=-10.441
+frame:128  pts:564480  pts_time:12.8
+lavfi.r128.M=-11.291
+frame:129  pts:568890  pts_time:12.9
+lavfi.r128.M=-11.851
+frame:130  pts:573300  pts_time:13
+lavfi.r128.M=-12.437
+frame:131  pts:577710  pts_time:13.1
+lavfi.r128.M=-13.100
+frame:132  pts:582120  pts_time:13.2
+lavfi.r128.M=-12.863
+frame:133  pts:586530  pts_time:13.3
+lavfi.r128.M=-12.735
+frame:134  pts:590940  pts_time:13.4
+lavfi.r128.M=-12.470
+frame:135  pts:595350  pts_time:13.5
+lavfi.r128.M=-12.479
+frame:136  pts:599760  pts_time:13.6
+lavfi.r128.M=-12.619
+frame:137  pts:604170  pts_time:13.7
+lavfi.r128.M=-12.216
+frame:138  pts:608580  pts_time:13.8
+lavfi.r128.M=-11.834
+frame:139  pts:612990  pts_time:13.9
+lavfi.r128.M=-11.658
+frame:140  pts:617400  pts_time:14
+lavfi.r128.M=-11.974
+frame:141  pts:621810  pts_time:14.1
+lavfi.r128.M=-12.348
+frame:142  pts:626220  pts_time:14.2
+lavfi.r128.M=-11.797
+frame:143  pts:630630  pts_time:14.3
+lavfi.r128.M=-12.064
+frame:144  pts:635040  pts_time:14.4
+lavfi.r128.M=-12.107
+frame:145  pts:639450  pts_time:14.5
+lavfi.r128.M=-12.213
+frame:146  pts:643860  pts_time:14.6
+lavfi.r128.M=-13.512
+frame:147  pts:648270  pts_time:14.7
+lavfi.r128.M=-13.882
+frame:148  pts:652680  pts_time:14.8
+lavfi.r128.M=-14.143
+frame:149  pts:657090  pts_time:14.9
+lavfi.r128.M=-14.186
+frame:150  pts:661500  pts_time:15
+lavfi.r128.M=-14.009
+frame:151  pts:665910  pts_time:15.1
+lavfi.r128.M=-13.322
+frame:152  pts:670320  pts_time:15.2
+lavfi.r128.M=-12.563
+frame:153  pts:674730  pts_time:15.3
+lavfi.r128.M=-12.186
+frame:154  pts:679140  pts_time:15.4
+lavfi.r128.M=-12.113
+frame:155  pts:683550  pts_time:15.5
+lavfi.r128.M=-12.148
+frame:156  pts:687960  pts_time:15.6
+lavfi.r128.M=-12.302
+frame:157  pts:692370  pts_time:15.7
+lavfi.r128.M=-12.735
+frame:158  pts:696780  pts_time:15.8
+lavfi.r128.M=-13.014
+frame:159  pts:701190  pts_time:15.9
+lavfi.r128.M=-13.387
+frame:160  pts:705600  pts_time:16
+lavfi.r128.M=-14.200
+frame:161  pts:710010  pts_time:16.1
+lavfi.r128.M=-14.728
+frame:162  pts:714420  pts_time:16.2
+lavfi.r128.M=-15.053
+frame:163  pts:718830  pts_time:16.3
+lavfi.r128.M=-15.238
+frame:164  pts:723240  pts_time:16.4
+lavfi.r128.M=-15.213
+frame:165  pts:727650  pts_time:16.5
+lavfi.r128.M=-14.999
+frame:166  pts:732060  pts_time:16.6
+lavfi.r128.M=-14.931
+frame:167  pts:736470  pts_time:16.7
+lavfi.r128.M=-15.001
+frame:168  pts:740880  pts_time:16.8
+lavfi.r128.M=-14.990
+frame:169  pts:745290  pts_time:16.9
+lavfi.r128.M=-15.117
+frame:170  pts:749700  pts_time:17
+lavfi.r128.M=-14.798
+frame:171  pts:754110  pts_time:17.1
+lavfi.r128.M=-14.643
+frame:172  pts:758520  pts_time:17.2
+lavfi.r128.M=-14.858
+frame:173  pts:762930  pts_time:17.3
+lavfi.r128.M=-14.444
+frame:174  pts:767340  pts_time:17.4
+lavfi.r128.M=-14.402
+frame:175  pts:771750  pts_time:17.5
+lavfi.r128.M=-14.139
+frame:176  pts:776160  pts_time:17.6
+lavfi.r128.M=-13.906
+frame:177  pts:780570  pts_time:17.7
+lavfi.r128.M=-13.791
+frame:178  pts:784980  pts_time:17.8
+lavfi.r128.M=-13.018
+frame:179  pts:789390  pts_time:17.9
+lavfi.r128.M=-12.167
+frame:180  pts:793800  pts_time:18
+lavfi.r128.M=-11.340
+frame:181  pts:798210  pts_time:18.1
+lavfi.r128.M=-10.810
+frame:182  pts:802620  pts_time:18.2
+lavfi.r128.M=-10.913
+frame:183  pts:807030  pts_time:18.3
+lavfi.r128.M=-11.393
+frame:184  pts:811440  pts_time:18.4
+lavfi.r128.M=-11.880
+frame:185  pts:815850  pts_time:18.5
+lavfi.r128.M=-12.607
+frame:186  pts:820260  pts_time:18.6
+lavfi.r128.M=-13.217
+frame:187  pts:824670  pts_time:18.7
+lavfi.r128.M=-13.284
+frame:188  pts:829080  pts_time:18.8
+lavfi.r128.M=-13.111
+frame:189  pts:833490  pts_time:18.9
+lavfi.r128.M=-12.713
+frame:190  pts:837900  pts_time:19
+lavfi.r128.M=-12.003
+frame:191  pts:842310  pts_time:19.1
+lavfi.r128.M=-11.079
+frame:192  pts:846720  pts_time:19.2
+lavfi.r128.M=-10.515
+frame:193  pts:851130  pts_time:19.3
+lavfi.r128.M=-10.151
+frame:194  pts:855540  pts_time:19.4
+lavfi.r128.M=-9.984
+frame:195  pts:859950  pts_time:19.5
+lavfi.r128.M=-10.365
+frame:196  pts:864360  pts_time:19.6
+lavfi.r128.M=-10.787
+frame:197  pts:868770  pts_time:19.7
+lavfi.r128.M=-11.192
+frame:198  pts:873180  pts_time:19.8
+lavfi.r128.M=-11.550
+frame:199  pts:877590  pts_time:19.9
+lavfi.r128.M=-11.584
+frame:200  pts:882000  pts_time:20
+lavfi.r128.M=-11.624
+frame:201  pts:886410  pts_time:20.1
+lavfi.r128.M=-11.504
+frame:202  pts:890820  pts_time:20.2
+lavfi.r128.M=-11.616
+frame:203  pts:895230  pts_time:20.3
+lavfi.r128.M=-11.691
+frame:204  pts:899640  pts_time:20.4
+lavfi.r128.M=-11.860
+frame:205  pts:904050  pts_time:20.5
+lavfi.r128.M=-11.943
+frame:206  pts:908460  pts_time:20.6
+lavfi.r128.M=-11.792
+frame:207  pts:912870  pts_time:20.7
+lavfi.r128.M=-11.904
+frame:208  pts:917280  pts_time:20.8
+lavfi.r128.M=-11.710
+frame:209  pts:921690  pts_time:20.9
+lavfi.r128.M=-11.709
+frame:210  pts:926100  pts_time:21
+lavfi.r128.M=-11.876
+frame:211  pts:930510  pts_time:21.1
+lavfi.r128.M=-11.714
+frame:212  pts:934920  pts_time:21.2
+lavfi.r128.M=-11.768
+frame:213  pts:939330  pts_time:21.3
+lavfi.r128.M=-11.549
+frame:214  pts:943740  pts_time:21.4
+lavfi.r128.M=-11.663
+frame:215  pts:948150  pts_time:21.5
+lavfi.r128.M=-11.989
+frame:216  pts:952560  pts_time:21.6
+lavfi.r128.M=-12.062
+frame:217  pts:956970  pts_time:21.7
+lavfi.r128.M=-12.728
+frame:218  pts:961380  pts_time:21.8
+lavfi.r128.M=-12.678
+frame:219  pts:965790  pts_time:21.9
+lavfi.r128.M=-11.605
+frame:220  pts:970200  pts_time:22
+lavfi.r128.M=-11.360
+frame:221  pts:974610  pts_time:22.1
+lavfi.r128.M=-11.188
+frame:222  pts:979020  pts_time:22.2
+lavfi.r128.M=-11.115
+frame:223  pts:983430  pts_time:22.3
+lavfi.r128.M=-12.127
+frame:224  pts:987840  pts_time:22.4
+lavfi.r128.M=-12.964
+frame:225  pts:992250  pts_time:22.5
+lavfi.r128.M=-13.606
+frame:226  pts:996660  pts_time:22.6
+lavfi.r128.M=-14.408
+frame:227  pts:1001070 pts_time:22.7
+lavfi.r128.M=-15.393
+frame:228  pts:1005480 pts_time:22.8
+lavfi.r128.M=-15.379
+frame:229  pts:1009890 pts_time:22.9
+lavfi.r128.M=-15.988
+frame:230  pts:1014300 pts_time:23
+lavfi.r128.M=-15.834
+frame:231  pts:1018710 pts_time:23.1
+lavfi.r128.M=-15.346
+frame:232  pts:1023120 pts_time:23.2
+lavfi.r128.M=-15.752
+frame:233  pts:1027530 pts_time:23.3
+lavfi.r128.M=-15.556
+frame:234  pts:1031940 pts_time:23.4
+lavfi.r128.M=-15.575
+frame:235  pts:1036350 pts_time:23.5
+lavfi.r128.M=-15.958
+frame:236  pts:1040760 pts_time:23.6
+lavfi.r128.M=-15.923
+frame:237  pts:1045170 pts_time:23.7
+lavfi.r128.M=-15.858
+frame:238  pts:1049580 pts_time:23.8
+lavfi.r128.M=-15.224
+frame:239  pts:1053990 pts_time:23.9
+lavfi.r128.M=-14.492
+frame:240  pts:1058400 pts_time:24
+lavfi.r128.M=-11.893
+frame:241  pts:1062810 pts_time:24.1
+lavfi.r128.M=-10.875
+frame:242  pts:1067220 pts_time:24.2
+lavfi.r128.M=-10.520
+frame:243  pts:1071630 pts_time:24.3
+lavfi.r128.M=-10.260
+frame:244  pts:1076040 pts_time:24.4
+lavfi.r128.M=-11.306
+frame:245  pts:1080450 pts_time:24.5
+lavfi.r128.M=-11.707
+frame:246  pts:1084860 pts_time:24.6
+lavfi.r128.M=-11.994
+frame:247  pts:1089270 pts_time:24.7
+lavfi.r128.M=-12.018
+frame:248  pts:1093680 pts_time:24.8
+lavfi.r128.M=-12.106
+frame:249  pts:1098090 pts_time:24.9
+lavfi.r128.M=-12.010
+frame:250  pts:1102500 pts_time:25
+lavfi.r128.M=-11.847
+frame:251  pts:1106910 pts_time:25.1
+lavfi.r128.M=-11.763
+frame:252  pts:1111320 pts_time:25.2
+lavfi.r128.M=-11.493
+frame:253  pts:1115730 pts_time:25.3
+lavfi.r128.M=-11.574
+frame:254  pts:1120140 pts_time:25.4
+lavfi.r128.M=-11.622
+frame:255  pts:1124550 pts_time:25.5
+lavfi.r128.M=-11.732
+frame:256  pts:1128960 pts_time:25.6
+lavfi.r128.M=-11.318
+frame:257  pts:1133370 pts_time:25.7
+lavfi.r128.M=-11.149
+frame:258  pts:1137780 pts_time:25.8
+lavfi.r128.M=-10.972
+frame:259  pts:1142190 pts_time:25.9
+lavfi.r128.M=-10.780
+frame:260  pts:1146600 pts_time:26
+lavfi.r128.M=-11.045
+frame:261  pts:1151010 pts_time:26.1
+lavfi.r128.M=-10.894
+frame:262  pts:1155420 pts_time:26.2
+lavfi.r128.M=-10.855
+frame:263  pts:1159830 pts_time:26.3
+lavfi.r128.M=-10.769
+frame:264  pts:1164240 pts_time:26.4
+lavfi.r128.M=-10.934
+frame:265  pts:1168650 pts_time:26.5
+lavfi.r128.M=-11.005
+frame:266  pts:1173060 pts_time:26.6
+lavfi.r128.M=-11.093
+frame:267  pts:1177470 pts_time:26.7
+lavfi.r128.M=-10.960
+frame:268  pts:1181880 pts_time:26.8
+lavfi.r128.M=-10.831
+frame:269  pts:1186290 pts_time:26.9
+lavfi.r128.M=-11.156
+frame:270  pts:1190700 pts_time:27
+lavfi.r128.M=-11.250
+frame:271  pts:1195110 pts_time:27.1
+lavfi.r128.M=-11.347
+frame:272  pts:1199520 pts_time:27.2
+lavfi.r128.M=-11.127
+frame:273  pts:1203930 pts_time:27.3
+lavfi.r128.M=-10.764
+frame:274  pts:1208340 pts_time:27.4
+lavfi.r128.M=-10.663
+frame:275  pts:1212750 pts_time:27.5
+lavfi.r128.M=-10.809
+frame:276  pts:1217160 pts_time:27.6
+lavfi.r128.M=-11.029
+frame:277  pts:1221570 pts_time:27.7
+lavfi.r128.M=-11.226
+frame:278  pts:1225980 pts_time:27.8
+lavfi.r128.M=-10.999
+frame:279  pts:1230390 pts_time:27.9
+lavfi.r128.M=-10.948
+frame:280  pts:1234800 pts_time:28
+lavfi.r128.M=-11.138
+frame:281  pts:1239210 pts_time:28.1
+lavfi.r128.M=-10.978
+frame:282  pts:1243620 pts_time:28.2
+lavfi.r128.M=-11.040
+frame:283  pts:1248030 pts_time:28.3
+lavfi.r128.M=-10.916
+frame:284  pts:1252440 pts_time:28.4
+lavfi.r128.M=-10.519
+frame:285  pts:1256850 pts_time:28.5
+lavfi.r128.M=-10.174
+frame:286  pts:1261260 pts_time:28.6
+lavfi.r128.M=-10.181
+frame:287  pts:1265670 pts_time:28.7
+lavfi.r128.M=-10.059
+frame:288  pts:1270080 pts_time:28.8
+lavfi.r128.M=-9.879
+frame:289  pts:1274490 pts_time:28.9
+lavfi.r128.M=-10.256
+frame:290  pts:1278900 pts_time:29
+lavfi.r128.M=-10.398
+frame:291  pts:1283310 pts_time:29.1
+lavfi.r128.M=-10.816
+frame:292  pts:1287720 pts_time:29.2
+lavfi.r128.M=-11.310
+frame:293  pts:1292130 pts_time:29.3
+lavfi.r128.M=-11.394
+frame:294  pts:1296540 pts_time:29.4
+lavfi.r128.M=-11.688
+frame:295  pts:1300950 pts_time:29.5
+lavfi.r128.M=-11.793
+frame:296  pts:1305360 pts_time:29.6
+lavfi.r128.M=-12.020
+frame:297  pts:1309770 pts_time:29.7
+lavfi.r128.M=-12.365
+frame:298  pts:1314180 pts_time:29.8
+lavfi.r128.M=-12.561
+frame:299  pts:1318590 pts_time:29.9
+lavfi.r128.M=-12.836
+frame:300  pts:1323000 pts_time:30
+lavfi.r128.M=-12.808
+frame:301  pts:1327410 pts_time:30.1
+lavfi.r128.M=-12.867
+frame:302  pts:1331820 pts_time:30.2
+lavfi.r128.M=-12.896
+frame:303  pts:1336230 pts_time:30.3
+lavfi.r128.M=-12.962
+frame:304  pts:1340640 pts_time:30.4
+lavfi.r128.M=-13.242
+frame:305  pts:1345050 pts_time:30.5
+lavfi.r128.M=-13.292
+frame:306  pts:1349460 pts_time:30.6
+lavfi.r128.M=-12.944
+frame:307  pts:1353870 pts_time:30.7
+lavfi.r128.M=-12.650
+frame:308  pts:1358280 pts_time:30.8
+lavfi.r128.M=-12.182
+frame:309  pts:1362690 pts_time:30.9
+lavfi.r128.M=-11.855
+frame:310  pts:1367100 pts_time:31
+lavfi.r128.M=-11.921
+frame:311  pts:1371510 pts_time:31.1
+lavfi.r128.M=-11.860
+frame:312  pts:1375920 pts_time:31.2
+lavfi.r128.M=-12.161
+frame:313  pts:1380330 pts_time:31.3
+lavfi.r128.M=-12.489
+frame:314  pts:1384740 pts_time:31.4
+lavfi.r128.M=-12.489
+frame:315  pts:1389150 pts_time:31.5
+lavfi.r128.M=-12.532
+frame:316  pts:1393560 pts_time:31.6
+lavfi.r128.M=-12.746
+frame:317  pts:1397970 pts_time:31.7
+lavfi.r128.M=-12.692
+frame:318  pts:1402380 pts_time:31.8
+lavfi.r128.M=-12.472
+frame:319  pts:1406790 pts_time:31.9
+lavfi.r128.M=-11.987
+frame:320  pts:1411200 pts_time:32
+lavfi.r128.M=-11.753
+frame:321  pts:1415610 pts_time:32.1
+lavfi.r128.M=-11.545
+frame:322  pts:1420020 pts_time:32.2
+lavfi.r128.M=-11.647
+frame:323  pts:1424430 pts_time:32.3
+lavfi.r128.M=-12.093
+frame:324  pts:1428840 pts_time:32.4
+lavfi.r128.M=-12.275
+frame:325  pts:1433250 pts_time:32.5
+lavfi.r128.M=-12.652
+frame:326  pts:1437660 pts_time:32.6
+lavfi.r128.M=-13.156
+frame:327  pts:1442070 pts_time:32.7
+lavfi.r128.M=-13.679
+frame:328  pts:1446480 pts_time:32.8
+lavfi.r128.M=-13.610
+frame:329  pts:1450890 pts_time:32.9
+lavfi.r128.M=-13.654
+frame:330  pts:1455300 pts_time:33
+lavfi.r128.M=-13.424
+frame:331  pts:1459710 pts_time:33.1
+lavfi.r128.M=-13.245
+frame:332  pts:1464120 pts_time:33.2
+lavfi.r128.M=-13.520
+frame:333  pts:1468530 pts_time:33.3
+lavfi.r128.M=-13.352
+frame:334  pts:1472940 pts_time:33.4
+lavfi.r128.M=-13.435
+frame:335  pts:1477350 pts_time:33.5
+lavfi.r128.M=-13.022
+frame:336  pts:1481760 pts_time:33.6
+lavfi.r128.M=-12.796
+frame:337  pts:1486170 pts_time:33.7
+lavfi.r128.M=-13.039
+frame:338  pts:1490580 pts_time:33.8
+lavfi.r128.M=-13.162
+frame:339  pts:1494990 pts_time:33.9
+lavfi.r128.M=-13.544
+frame:340  pts:1499400 pts_time:34
+lavfi.r128.M=-13.845
+frame:341  pts:1503810 pts_time:34.1
+lavfi.r128.M=-13.952
+frame:342  pts:1508220 pts_time:34.2
+lavfi.r128.M=-13.695
+frame:343  pts:1512630 pts_time:34.3
+lavfi.r128.M=-13.770
+frame:344  pts:1517040 pts_time:34.4
+lavfi.r128.M=-13.762
+frame:345  pts:1521450 pts_time:34.5
+lavfi.r128.M=-13.647
+frame:346  pts:1525860 pts_time:34.6
+lavfi.r128.M=-13.910
+frame:347  pts:1530270 pts_time:34.7
+lavfi.r128.M=-14.055
+frame:348  pts:1534680 pts_time:34.8
+lavfi.r128.M=-13.964
+frame:349  pts:1539090 pts_time:34.9
+lavfi.r128.M=-13.589
+frame:350  pts:1543500 pts_time:35
+lavfi.r128.M=-12.634
+frame:351  pts:1547910 pts_time:35.1
+lavfi.r128.M=-11.908
+frame:352  pts:1552320 pts_time:35.2
+lavfi.r128.M=-11.373
+frame:353  pts:1556730 pts_time:35.3
+lavfi.r128.M=-10.975
+frame:354  pts:1561140 pts_time:35.4
+lavfi.r128.M=-11.021
+frame:355  pts:1565550 pts_time:35.5
+lavfi.r128.M=-10.940
+frame:356  pts:1569960 pts_time:35.6
+lavfi.r128.M=-11.020
+frame:357  pts:1574370 pts_time:35.7
+lavfi.r128.M=-11.160
+frame:358  pts:1578780 pts_time:35.8
+lavfi.r128.M=-11.496
+frame:359  pts:1583190 pts_time:35.9
+lavfi.r128.M=-12.030
+frame:360  pts:1587600 pts_time:36
+lavfi.r128.M=-12.313
+frame:361  pts:1592010 pts_time:36.1
+lavfi.r128.M=-12.739
+frame:362  pts:1596420 pts_time:36.2
+lavfi.r128.M=-12.646
+frame:363  pts:1600830 pts_time:36.3
+lavfi.r128.M=-11.715
+frame:364  pts:1605240 pts_time:36.4
+lavfi.r128.M=-11.297
+frame:365  pts:1609650 pts_time:36.5
+lavfi.r128.M=-11.138
+frame:366  pts:1614060 pts_time:36.6
+lavfi.r128.M=-11.319
+frame:367  pts:1618470 pts_time:36.7
+lavfi.r128.M=-12.151
+frame:368  pts:1622880 pts_time:36.8
+lavfi.r128.M=-12.824
+frame:369  pts:1627290 pts_time:36.9
+lavfi.r128.M=-13.189
+frame:370  pts:1631700 pts_time:37
+lavfi.r128.M=-13.414
+frame:371  pts:1636110 pts_time:37.1
+lavfi.r128.M=-13.789
+frame:372  pts:1640520 pts_time:37.2
+lavfi.r128.M=-14.137
+frame:373  pts:1644930 pts_time:37.3
+lavfi.r128.M=-14.091
+frame:374  pts:1649340 pts_time:37.4
+lavfi.r128.M=-13.967
+frame:375  pts:1653750 pts_time:37.5
+lavfi.r128.M=-13.829
+frame:376  pts:1658160 pts_time:37.6
+lavfi.r128.M=-13.791
+frame:377  pts:1662570 pts_time:37.7
+lavfi.r128.M=-13.984
+frame:378  pts:1666980 pts_time:37.8
+lavfi.r128.M=-14.011
+frame:379  pts:1671390 pts_time:37.9
+lavfi.r128.M=-14.011
+frame:380  pts:1675800 pts_time:38
+lavfi.r128.M=-13.997
+frame:381  pts:1680210 pts_time:38.1
+lavfi.r128.M=-13.890
+frame:382  pts:1684620 pts_time:38.2
+lavfi.r128.M=-14.195
+frame:383  pts:1689030 pts_time:38.3
+lavfi.r128.M=-14.408
+frame:384  pts:1693440 pts_time:38.4
+lavfi.r128.M=-14.708
+frame:385  pts:1697850 pts_time:38.5
+lavfi.r128.M=-14.332
+frame:386  pts:1702260 pts_time:38.6
+lavfi.r128.M=-13.736
+frame:387  pts:1706670 pts_time:38.7
+lavfi.r128.M=-13.984
+frame:388  pts:1711080 pts_time:38.8
+lavfi.r128.M=-14.020
+frame:389  pts:1715490 pts_time:38.9
+lavfi.r128.M=-14.896
+frame:390  pts:1719900 pts_time:39
+lavfi.r128.M=-15.905
+frame:391  pts:1724310 pts_time:39.1
+lavfi.r128.M=-15.614
+frame:392  pts:1728720 pts_time:39.2
+lavfi.r128.M=-15.323
+frame:393  pts:1733130 pts_time:39.3
+lavfi.r128.M=-14.904
+frame:394  pts:1737540 pts_time:39.4
+lavfi.r128.M=-15.011
+frame:395  pts:1741950 pts_time:39.5
+lavfi.r128.M=-15.656
+frame:396  pts:1746360 pts_time:39.6
+lavfi.r128.M=-16.408
+frame:397  pts:1750770 pts_time:39.7
+lavfi.r128.M=-17.673
+frame:398  pts:1755180 pts_time:39.8
+lavfi.r128.M=-17.845
+frame:399  pts:1759590 pts_time:39.9
+lavfi.r128.M=-17.294
+frame:400  pts:1764000 pts_time:40
+lavfi.r128.M=-16.559
+frame:401  pts:1768410 pts_time:40.1
+lavfi.r128.M=-16.717
+frame:402  pts:1772820 pts_time:40.2
+lavfi.r128.M=-16.307
+frame:403  pts:1777230 pts_time:40.3
+lavfi.r128.M=-16.839
+frame:404  pts:1781640 pts_time:40.4
+lavfi.r128.M=-17.688
+frame:405  pts:1786050 pts_time:40.5
+lavfi.r128.M=-17.591
+frame:406  pts:1790460 pts_time:40.6
+lavfi.r128.M=-19.028
+frame:407  pts:1794870 pts_time:40.7
+lavfi.r128.M=-18.855
+frame:408  pts:1799280 pts_time:40.8
+lavfi.r128.M=-18.988
+frame:409  pts:1803690 pts_time:40.9
+lavfi.r128.M=-18.788
+frame:410  pts:1808100 pts_time:41
+lavfi.r128.M=-18.832
+frame:411  pts:1812510 pts_time:41.1
+lavfi.r128.M=-18.862
+frame:412  pts:1816920 pts_time:41.2
+lavfi.r128.M=-18.665
+frame:413  pts:1821330 pts_time:41.3
+lavfi.r128.M=-18.334
+frame:414  pts:1825740 pts_time:41.4
+lavfi.r128.M=-17.836
+frame:415  pts:1830150 pts_time:41.5
+lavfi.r128.M=-17.754
+frame:416  pts:1834560 pts_time:41.6
+lavfi.r128.M=-18.241
+frame:417  pts:1838970 pts_time:41.7
+lavfi.r128.M=-18.663
+frame:418  pts:1843380 pts_time:41.8
+lavfi.r128.M=-19.206
+frame:419  pts:1847790 pts_time:41.9
+lavfi.r128.M=-19.279
+frame:420  pts:1852200 pts_time:42
+lavfi.r128.M=-18.958
+frame:421  pts:1856610 pts_time:42.1
+lavfi.r128.M=-19.366
+frame:422  pts:1861020 pts_time:42.2
+lavfi.r128.M=-19.472
+frame:423  pts:1865430 pts_time:42.3
+lavfi.r128.M=-19.979
+frame:424  pts:1869840 pts_time:42.4
+lavfi.r128.M=-20.698
+frame:425  pts:1874250 pts_time:42.5
+lavfi.r128.M=-20.677
+frame:426  pts:1878660 pts_time:42.6
+lavfi.r128.M=-20.330
+frame:427  pts:1883070 pts_time:42.7
+lavfi.r128.M=-20.243
+frame:428  pts:1887480 pts_time:42.8
+lavfi.r128.M=-19.949
+frame:429  pts:1891890 pts_time:42.9
+lavfi.r128.M=-19.935
+frame:430  pts:1896300 pts_time:43
+lavfi.r128.M=-20.179
+frame:431  pts:1900710 pts_time:43.1
+lavfi.r128.M=-20.373
+frame:432  pts:1905120 pts_time:43.2
+lavfi.r128.M=-20.098
+frame:433  pts:1909530 pts_time:43.3
+lavfi.r128.M=-19.990
+frame:434  pts:1913940 pts_time:43.4
+lavfi.r128.M=-19.347
+frame:435  pts:1918350 pts_time:43.5
+lavfi.r128.M=-19.433
+frame:436  pts:1922760 pts_time:43.6
+lavfi.r128.M=-19.895
+frame:437  pts:1927170 pts_time:43.7
+lavfi.r128.M=-19.745
+frame:438  pts:1931580 pts_time:43.8
+lavfi.r128.M=-20.737
+frame:439  pts:1935990 pts_time:43.9
+lavfi.r128.M=-21.029
+frame:440  pts:1940400 pts_time:44
+lavfi.r128.M=-21.019
+frame:441  pts:1944810 pts_time:44.1
+lavfi.r128.M=-22.086
+frame:442  pts:1949220 pts_time:44.2
+lavfi.r128.M=-21.583
+frame:443  pts:1953630 pts_time:44.3
+lavfi.r128.M=-21.557
+frame:444  pts:1958040 pts_time:44.4
+lavfi.r128.M=-22.389
+frame:445  pts:1962450 pts_time:44.5
+lavfi.r128.M=-23.243
+frame:446  pts:1966860 pts_time:44.6
+lavfi.r128.M=-25.797
+frame:447  pts:1971270 pts_time:44.7
+lavfi.r128.M=-28.175
+frame:448  pts:1975680 pts_time:44.8
+lavfi.r128.M=-29.637
+frame:449  pts:1980090 pts_time:44.9
+lavfi.r128.M=-31.454
+frame:450  pts:1984500 pts_time:45
+lavfi.r128.M=-34.210
+frame:451  pts:1988910 pts_time:45.1
+lavfi.r128.M=-39.395
+frame:452  pts:1993320 pts_time:45.2
+lavfi.r128.M=-45.435
+frame:453  pts:1997730 pts_time:45.3
+lavfi.r128.M=-48.913
+frame:454  pts:2002140 pts_time:45.4
+lavfi.r128.M=-57.888

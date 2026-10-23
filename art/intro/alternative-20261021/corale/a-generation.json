@@ -1,0 +1,19 @@
+{
+  "request": "D0934",
+  "provider": "prithivMLmods/Wan2.2-Fast",
+  "model": "Wan2.2 I2V 14B, Lightning LoRA",
+  "spend": 0,
+  "image": "art\\intro\\alternative-20261021\\corale\\keyframe-a.png",
+  "image_sha256": "2a2986d5c60849e40165be97c50a04ccd2854f9768879ee2154ae7ed34f18ba1",
+  "prompt": "A continuous professionally animated dark fantasy film shot, preserving the exact hand-painted characters, weapons, colors and arena from the image. Smooth natural movement with weight and coherent anatomy, played in real time. The purple hooded mage on the right swings his forearm forward and launches one compact violet projectile leftward. The armored blond guardian on the left steps into it, raises her large shield, blocks it with a sharp brief violet spark on the SHIELD and visibly recoils through her shoulder and bent knees. She recovers and advances two grounded steps toward the mage while lifting her axe for a counterattack. In the distant background the red-haired archer releases her fully drawn bow once and lowers it; the tall black hooded scythe fighter moves laterally one step. Secondary figures remain in the background and never duplicate. The camera smoothly tracks a small distance right with the guardian, keeping both main fighters and their weapons visible. Cloth and hair trail the movement naturally. One readable complete action with anticipation, contact and follow-through. Restrained dust, no large explosion, no light on hands, no slow motion, no static opening, no freeze frames, no cuts, no camera shakes, no text. Maintain the painted cinematic aesthetic throughout.\n",
+  "steps": 4,
+  "seconds_requested": 5.0,
+  "seed": 721,
+  "status": "completed",
+  "time": "2026-10-21T23:49:44",
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\a-native.mp4",
+  "sha256": "cc54c6d1e5c20409935fe18a99db775bb4c162cca34fd28a7b32fb2c21ce25a7",
+  "provider_metadata": {
+    "seed": 721
+  }
+}

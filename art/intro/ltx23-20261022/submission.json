@@ -1,0 +1,25 @@
+{
+  "request": "D0949/D0955",
+  "result": {
+    "prompt_id": "e4192f15-1674-4d3e-ba9e-c990b6f556f0",
+    "number": 3,
+    "node_errors": {}
+  },
+  "http_status": 200,
+  "seed": 728341,
+  "seconds": 2,
+  "size": [
+    960,
+    544
+  ],
+  "spend": 0,
+  "time": "2026-10-22T08:50:37",
+  "source": "Comfy-Org official LTX-2.3 T2V workflow",
+  "changes": "Dev first stage: no distilled LoRA, 30-step LTX scheduler, dual CFG 3/7, STG 1 on block 29; distilled second stage unchanged. Prompt enhancement omitted.",
+  "image_guide": "ragequit-duel-guide-v2.png",
+  "dev_guidance": true,
+  "single_stage_native": true,
+  "vbvr_strength": 0.75,
+  "image_guide_sha256": "9e533cf7ee2ae2951497977494f2aeda920b2d7f6dc170d4969e2300aaffdfca",
+  "prompt_sha256": "1df5debc3dd0946366295361855026122d49a01824c78dae75ad4eda63ccf40a"
+}

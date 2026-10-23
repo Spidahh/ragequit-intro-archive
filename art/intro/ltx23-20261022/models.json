@@ -1,0 +1,62 @@
+{
+  "request": "D0949/D0955",
+  "spend": 0,
+  "source": "Official Comfy-Org LTX-2.3 T2V template",
+  "status": "complete",
+  "files": [
+    {
+      "repo": "Lightricks/LTX-2.3-fp8",
+      "revision": "1d756cd27fa11c0896c4dfee093cd1bf36c7f7a1",
+      "file": "ltx-2.3-22b-dev-fp8.safetensors",
+      "directory": "checkpoints",
+      "bytes": 29145431166,
+      "sha256": "28606c5b5a06ce56f896d4dfcb20f212739e07a68fbe48e53638188449d26450",
+      "status": "complete",
+      "path": "C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\models\\checkpoints\\ltx-2.3-22b-dev-fp8.safetensors",
+      "finished": "2026-10-22T08:16:48"
+    },
+    {
+      "repo": "Comfy-Org/ltx-2",
+      "revision": "ccde4ba417d7900669fd56dd292a883cee11ff37",
+      "file": "split_files/text_encoders/gemma_3_12B_it_fp4_mixed.safetensors",
+      "directory": "text_encoders",
+      "bytes": 9447702218,
+      "sha256": "aaca463d11e6d8d2a4bdb0d6299214c15ef78a3f73e0ef8113d5a9d0219b3f6d",
+      "status": "complete",
+      "path": "C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\models\\text_encoders\\gemma_3_12B_it_fp4_mixed.safetensors",
+      "finished": "2026-10-22T08:15:35"
+    },
+    {
+      "repo": "Comfy-Org/ltx-2.3",
+      "revision": "f20f3a54378001e5e6d642acc84719cc78addf4b",
+      "file": "split_files/loras/ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors",
+      "directory": "loras",
+      "bytes": 2741024390,
+      "sha256": "31e0c0195fb841bf31af78e8b60858f489e87ddcea4a5239abc80943da65e3ac",
+      "status": "complete",
+      "path": "C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\models\\loras\\ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors",
+      "finished": "2026-10-22T08:13:26"
+    },
+    {
+      "repo": "Lightricks/LTX-2.3",
+      "revision": "3c6a4e66e5d0a684231950b9c74dd4ded7b6fadc",
+      "file": "ltx-2.3-spatial-upscaler-x2-1.1.safetensors",
+      "directory": "latent_upscale_models",
+      "bytes": 995743560,
+      "sha256": "5f416311fa8172b65af67530758964708d29a317b830d689a51143b7f91913ed",
+      "status": "complete",
+      "path": "C:\\Users\\magis\\.codex\\tools\\comfyui-ltx\\models\\latent_upscale_models\\ltx-2.3-spatial-upscaler-x2-1.1.safetensors",
+      "finished": "2026-10-22T08:14:16"
+    },
+    {
+      "repo": "LiconStudio/Ltx2.3-VBVR-lora-I2V",
+      "revision": "584c96e3dd5b211670e6b573b37fdd09d75d9aa4",
+      "file": "Ltx2.3-Licon-VBVR-I2V-390K-R32.safetensors",
+      "bytes": 554006432,
+      "sha256": "4cb77bc088b04fd69fe5a711356aec05e1a9d503b47e6e252a7f2577c7716a18",
+      "sha256_verified": true,
+      "license": "LTX-2 Community",
+      "strength": 0.75
+    }
+  ]
+}

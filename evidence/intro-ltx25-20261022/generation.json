@@ -1,0 +1,21 @@
+{
+  "request": "D0949",
+  "provider": "Lightricks/LTX-2.5 official Hugging Face Space",
+  "space_revision": "c42e4cd512ec0a861024699f031538eb7bf093a7",
+  "mode": "text-to-video, no starting still image",
+  "prompt": "A fully animated 2D dark fantasy action scene, expressive ink outlines and richly painted shadows. A blond warrior in black bronze armor with a red cape fights a bearded mage in a dark purple hood in a ruined stone arena. The fight is already moving at full speed in the first frame. The warrior rushes forward and swings his axe horizontally at the mage. The mage ducks sharply under the blade, and the axe strikes a stone pillar behind him, showering them with chips. The mage immediately counterattacks with a short violet burst that strikes the warrior's raised bronze shield. The warrior recoils one step from the impact and surges forward again while the mage dodges sideways. The camera tracks alongside both fighters in a clear medium-wide shot, following their fast footwork and connected attacks. Forceful weight shifts, sharp weapon arcs, fabric whipping with the motion, coherent faces and bodies throughout. Real-time rapid fighting, continuous physical action. Synchronized sound of boots, axe striking stone and a heavy shield clang. Wordless combat.",
+  "seed": 144713,
+  "size": [
+    1024,
+    576
+  ],
+  "duration_requested": 5.0,
+  "fps": 24,
+  "decoder": "conv",
+  "auto_len": false,
+  "prompt_enhancement": false,
+  "spend": 0,
+  "status": "failed",
+  "time": "2026-10-22T07:59:02",
+  "error": "You have exceeded your ZeroGPU quota (170s requested vs. -10s left). Try again in 15:50:40. Authenticate with a Hugging Face token for more quota - https://huggingface.co/settings/tokens"
+}

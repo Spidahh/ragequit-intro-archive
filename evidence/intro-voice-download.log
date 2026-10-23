@@ -1,0 +1,10 @@
+
+Fetching 13 files:   0%|          | 0/13 [00:00<?, ?it/s]C:\Python312\Lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\magis\.cache\huggingface\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+
+Fetching 13 files:   8%|7         | 1/13 [00:00<00:03,  3.82it/s]
+Fetching 13 files:  23%|##3       | 3/13 [00:00<00:01,  5.34it/s]
+Fetching 13 files:  46%|####6     | 6/13 [02:07<03:02, 26.09s/it]
+Fetching 13 files: 100%|##########| 13/13 [02:07<00:00,  9.83s/it]
+C:\Users\magis\.cache\huggingface\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign\snapshots\5ecdb67327fd37bb2e042aab12ff7391903235d3

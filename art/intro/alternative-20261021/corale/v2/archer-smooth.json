@@ -1,0 +1,9 @@
+{
+  "source_sha256": "3fd67ea4d6daf20a2d6e828f6f52b667767398687d90ebc393cf5efa50b9ae6e",
+  "sha256": "72f1fe6a6cece067737cc522e85c3e11b47348c76144973eacdbcb0f28236dfd",
+  "native_frames": 81,
+  "native_fps": 24,
+  "output_frames": 203,
+  "output_fps": 60,
+  "method": "RIFE v4.6 per shot; no interpolation across the editorial cut"
+}

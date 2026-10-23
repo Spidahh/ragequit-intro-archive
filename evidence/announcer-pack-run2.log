@@ -1,0 +1,94 @@
+"sox" non � riconosciuto come comando interno o esterno,
+ un programma eseguibile o un file batch.
+SoX could not be found!
+
+    If you do not have SoX, proceed here:
+     - - - http://sox.sourceforge.net/ - - -
+
+    If you do (or think that you should) have SoX, double-check your
+    path variables.
+    
+
+********
+Warning: flash-attn is not installed. Will only run the manual PyTorch version. Please install flash-attn for faster inference.
+********
+ 
+
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]
+Fetching 4 files: 100%|##########| 4/4 [00:00<?, ?it/s]
+Creating reference from original Video 1 speaker
+  fight seed 433 heard 'Fight!'
+{"file": "VO_RQ_FIGHT.wav", "text": "FIGHT!", "event": "match_start", "audience": "All players", "seed": 433, "heard": "Fight!", "seconds": 0.6390416666666666, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.345662572711096, "rms_dbfs": -20.428193600593474, "sha256": "4e5bfce01a9a3194429fedd06bebd7c180a71b7565f0717dc29fb833620cdfb6"}
+  player_eliminated seed 334 heard 'Player eliminated.'
+{"file": "VO_RQ_PLAYER_ELIMINATED.wav", "text": "PLAYER ELIMINATED!", "event": "other_player_killed", "audience": "Spectators or uninvolved players", "seed": 334, "heard": "Player eliminated.", "seconds": 1.4315, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -7.058820559917266, "rms_dbfs": -20.18595540417069, "sha256": "5e0879796d5dc0236bcb58e883ab274ce7bef444fc35d6e93d681d9e2be64a1b"}
+  enemy_slain seed 335 heard 'Enemy slain!'
+{"file": "VO_RQ_ENEMY_SLAIN.wav", "text": "ENEMY SLAIN!", "event": "local_player_kill", "audience": "Killer only", "seed": 335, "heard": "Enemy slain!", "seconds": 1.6131458333333333, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.278636716379841, "rms_dbfs": -20.164613947968387, "sha256": "84b6ec02ae571ebb75a4cb2ce69d254f31206e21cbb569fda9c1f258f9447614"}
+  you_died seed 336 heard 'You died.'
+{"file": "VO_RQ_YOU_DIED.wav", "text": "YOU DIED!", "event": "local_player_death", "audience": "Victim only", "seed": 336, "heard": "You died.", "seconds": 1.1947916666666667, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -8.523685240036283, "rms_dbfs": -20.223760469641544, "sha256": "d02a8eb09db4828b92c11001d1bf522e10f566beb755e4043a89f50efd8df730"}
+  match_over seed 337 heard 'match over'
+{"file": "VO_RQ_MATCH_OVER.wav", "text": "MATCH OVER!", "event": "match_end", "audience": "All players", "seed": 337, "heard": "match over", "seconds": 1.0894583333333334, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.5649922111155306, "rms_dbfs": -20.246018516560206, "sha256": "9990fc0070666182165d13fa778179ae9fb136c56685f2739eb97b3f753ee3f3"}
+  victory seed 338 heard 'Victory!'
+{"file": "VO_RQ_VICTORY.wav", "text": "VICTORY!", "event": "local_player_victory", "audience": "Winning player or team", "seed": 338, "heard": "Victory!", "seconds": 1.2140416666666667, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -3.9215664276529107, "rms_dbfs": -20.220121029501676, "sha256": "03d9a89cc6a649a0cf3de997f76918e47e6087439b09bf107ce8d878cf9893f6"}
+  defeat seed 339 heard 'DEFEAT!'
+{"file": "VO_RQ_DEFEAT.wav", "text": "DEFEAT!", "event": "local_player_defeat", "audience": "Losing player or team", "seed": 339, "heard": "DEFEAT!", "seconds": 0.8593333333333333, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.166859038172392, "rms_dbfs": -20.314337342545542, "sha256": "044ae1f8576e98ab5097fbc51f77f4b7f4120818b1bd09a1f9e5a1e2c8aab7a8"}
+  three seed 340 heard 'Fine.'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  three seed 1340 heard '3'
+{"file": "VO_RQ_THREE.wav", "text": "THREE!", "event": "countdown_3", "audience": "All players", "seed": 1340, "heard": "3", "seconds": 0.77975, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.772768960989205, "rms_dbfs": -20.347737098790617, "sha256": "faf13ee871053f9c68622ede07c05d1afb7adc28b04acececa9046c83b69a4dc"}
+  two seed 341 heard 'too.'
+{"file": "VO_RQ_TWO.wav", "text": "TWO!", "event": "countdown_2", "audience": "All players", "seed": 341, "heard": "too.", "seconds": 0.5357916666666667, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.397057909474469, "rms_dbfs": -20.51579123364497, "sha256": "4294deb255268d4aa08720cc7333903a5d9c502376fe542a41e636fc0a33ffdb"}
+  one seed 342 heard 'One.'
+{"file": "VO_RQ_ONE.wav", "text": "ONE!", "event": "countdown_1", "audience": "All players", "seed": 342, "heard": "One.", "seconds": 0.9632083333333333, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.264994885082293, "rms_dbfs": -20.279322953937058, "sha256": "251a36f2e179a2f5cf4c611fa867a1a849fca06a28da5cecbb88cee824769615"}
+  round_one seed 343 heard 'LONG LONG'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  round_one seed 1343 heard 'Run Yank!'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  round_one seed 2343 heard 'ROAD ONE'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  round_one seed 3343 heard 'Round one.'
+{"file": "VO_RQ_ROUND_ONE.wav", "text": "ROUND ONE!", "event": "round_start", "audience": "Both fighters of a duel in rounds", "seed": 3343, "heard": "Round one.", "seconds": 1.34075, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -7.448442589500704, "rms_dbfs": -20.198834410867267, "sha256": "533b68ebee71657046fb3d3d0b3a28d81eed46e500391ff79ac3e856dc3942e2"}
+  round_two seed 344 heard 'Round two.'
+{"file": "VO_RQ_ROUND_TWO.wav", "text": "ROUND TWO!", "event": "round_start", "audience": "Both fighters of a duel in rounds", "seed": 344, "heard": "Round two.", "seconds": 1.0757916666666667, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -7.836037592589972, "rms_dbfs": -20.24923530162473, "sha256": "fd80d997ff515ef5df1ec55655d44a78006ef55917e10b409953c0d6a8338d5f"}
+  round_three seed 345 heard 'Round 3'
+{"file": "VO_RQ_ROUND_THREE.wav", "text": "ROUND THREE!", "event": "round_start", "audience": "Both fighters of a duel in rounds", "seed": 345, "heard": "Round 3", "seconds": 1.2752083333333333, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -6.429481987318917, "rms_dbfs": -20.209304030691722, "sha256": "256bc067e4b4067037952fe888aa35c2690a721d82b683022d8d4aea4f43a9a6"}
+  round_four seed 346 heard 'Round four.'
+{"file": "VO_RQ_ROUND_FOUR.wav", "text": "ROUND FOUR!", "event": "round_start", "audience": "Both fighters of a duel in rounds", "seed": 346, "heard": "Round four.", "seconds": 1.0473333333333332, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -2.8726842371794743, "rms_dbfs": -20.25621126518765, "sha256": "5961dd680789ae09b838d99bd90307389147922fd399ecbf00bec97d68b24730"}
+  final_round seed 347 heard 'Final round!'
+{"file": "VO_RQ_FINAL_ROUND.wav", "text": "FINAL ROUND!", "event": "round_start_last", "audience": "Both fighters of a duel in rounds", "seed": 347, "heard": "Final round!", "seconds": 1.2710416666666666, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -8.771225508635824, "rms_dbfs": -20.210007020359996, "sha256": "c52eaa2bdf8433ee58e4ab3ea47af56df09beff41fe116c870c992b2da29dd59"}
+  match_point seed 348 heard 'Match point!'
+{"file": "VO_RQ_MATCH_POINT.wav", "text": "MATCH POINT!", "event": "round_start_match_point", "audience": "Both fighters of a duel in rounds", "seed": 348, "heard": "Match point!", "seconds": 1.1231666666666666, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -5.681524020722422, "rms_dbfs": -20.238428542212418, "sha256": "df52cf650b0bda18dd2d383d2f8b64895585029fa6a43479602e57791805c584"}
+  round_won seed 349 heard 'Round one.'
+{"file": "VO_RQ_ROUND_WON.wav", "text": "ROUND WON!", "event": "round_end_won", "audience": "The round winner", "seed": 349, "heard": "Round one.", "seconds": 1.68775, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -8.033674286490458, "rms_dbfs": -20.15720412641923, "sha256": "4eaf6bfff4046658c3962710474933964f11105b81ebbc89daa9271be600b6a8"}
+  round_lost seed 350 heard 'Round lost.'
+{"file": "VO_RQ_ROUND_LOST.wav", "text": "ROUND LOST!", "event": "round_end_lost", "audience": "The round loser", "seed": 350, "heard": "Round lost.", "seconds": 1.27325, "sample_rate": 48000, "channels": 1, "subtype": "PCM_16", "peak_dbfs": -7.329612957565295, "rms_dbfs": -20.209633848608924, "sha256": "42e969872ad72a611c303079642477091de3f04436f9b90cf74faa89565e0874"}
+  draw seed 351 heard 'Hooray!'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 1351 heard 'Well'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 2351 heard 'Well'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 3351 heard 'Grrrr!'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 4351 heard 'Hey!'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 5351 heard 'All right.'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 6351 heard 'How are you?'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 7351 heard 'Yeah'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 8351 heard "C'mere!"
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 9351 heard 'Hey!'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 10351 heard 'Oh'
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+  draw seed 11351 heard 'Clear!'
+Traceback (most recent call last):
+  File "E:\PROGETTI\ragequit\tools\create-announcer-pack.py", line 122, in <module>
+    if __name__=='__main__': main()
+                             ^^^^^^
+  File "E:\PROGETTI\ragequit\tools\create-announcer-pack.py", line 109, in main
+    else: raise ValueError('%s: never heard as %r in %d seeds' % (key,text,TRIES))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: draw: never heard as 'DRAW!' in 12 seeds

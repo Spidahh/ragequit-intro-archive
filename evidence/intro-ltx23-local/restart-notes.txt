@@ -1,0 +1,1 @@
+Fourth generation stalled before first sampling step under RAM/VRAM pressure with two unrelated Shipping processes active. Own server only stopped; unrelated processes preserved. Restart with vram-headroom 3 and cache-ram 8 12; restore previously successful 121-frame shape.

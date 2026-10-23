@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "E:\PROGETTI\ragequit\tools\create-intro-media.py", line 205, in <module>
+    else: wan_video(args.image, args.seed, args.seconds)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PROGETTI\ragequit\tools\create-intro-media.py", line 103, in wan_video
+    result = client.predict(
+             ^^^^^^^^^^^^^^^
+  File "E:\PROGETTI\ragequit\.verify\intro-runtime\Lib\site-packages\gradio_client\client.py", line 513, in predict
+    ).result()
+      ^^^^^^^^
+  File "E:\PROGETTI\ragequit\.verify\intro-runtime\Lib\site-packages\gradio_client\client.py", line 1622, in result
+    return super().result(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PROGETTI\ragequit\.verify\intro-runtime\Lib\site-packages\gradio_client\client.py", line 1226, in _inner
+    predictions = _predict(*data, **kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PROGETTI\ragequit\.verify\intro-runtime\Lib\site-packages\gradio_client\client.py", line 1346, in _predict
+    raise AppError(message=message, **result)
+gradio_client.exceptions.AppError: You have exceeded your ZeroGPU runs limit. Authenticate with a Hugging Face token for more quota - https://huggingface.co/settings/tokens

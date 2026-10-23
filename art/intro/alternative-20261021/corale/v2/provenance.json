@@ -1,0 +1,777 @@
+{
+  "request": "D0936",
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\v2\\ragequit-corale-v2.mp4",
+  "sha256": "0127c6cb73822c58511a3b4d72e15c606d6b6cfcc4c1e655dc6b601bc764690c",
+  "duration": 10.509999999999998,
+  "a_seconds": 2.9,
+  "b_seconds": 3.3,
+  "body_retime": {
+    "request": "D0936",
+    "method": "Continuous PCHIP source-time to output-time mapping; no internal cuts",
+    "source": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\a-native.mp4",
+    "source_sha256": "cc54c6d1e5c20409935fe18a99db775bb4c162cca34fd28a7b32fb2c21ce25a7",
+    "source_seconds": 5.0625,
+    "source_knots": [
+      0.0,
+      0.65,
+      1.25,
+      1.8,
+      3.4,
+      4.95,
+      5.0625
+    ],
+    "output_knots": [
+      0.0,
+      0.46,
+      0.96,
+      1.27,
+      2.04,
+      2.83,
+      2.9
+    ],
+    "interpolation": "RIFE v4.6 120 Hz before remapping, final 60 Hz",
+    "speed_min": 1.1184259606613092,
+    "speed_max": 2.149359159796174,
+    "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\v2\\a-retimed.mp4",
+    "sha256": "abaed3f750c17b7c420f9b2e69049319cfd52ebc51dbe708246548d1d8987fab",
+    "artistic_approval": "pending"
+  },
+  "new_archer": {
+    "request": "D0936",
+    "model": "jayn7/WAN2.2-I2V_A14B-DISTILL-LIGHTX2V-4STEP-GGUF",
+    "base": "Wan-AI/Wan2.2-I2V-A14B-Diffusers",
+    "license": "Apache-2.0, inherited from LightX2V/Wan",
+    "files": [
+      "high_noise_260412/wan2.2_i2v_A14b_high_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+      "low_noise_260412/wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf"
+    ],
+    "seed": 834,
+    "prompt": "A painterly cinematic shot in a gothic stone arena. The red-haired woman archer holds a fully drawn recurve bow aimed right. She releases one arrow crisply within the first second. The string snaps forward, her right hand follows back beside her neck and her left arm absorbs a small natural recoil. She keeps the same balanced stance, then smoothly lowers the intact bow slightly while watching the arrow. Her body remains upright and anatomically stable. Hair and cloth move subtly in the wind. The distant hooded figure stays in the background. A restrained camera push accompanies the action. Preserve identity, costume, weapon geometry, hands, shoulders and lighting. No cuts, slow motion, jumps, twisting, magic or extra weapons.\n",
+    "image_sha256": "bf9e77edc1dd197a924df259b2f2774c6bb99064493e3b56b16a6efe23b4e530",
+    "steps": 4,
+    "expert_steps": [
+      2,
+      2
+    ],
+    "guidance_scale": 1.0,
+    "scheduler": "LightX2V WanStepDistill schedule [1000,750,500,250], shift=5; Euler step",
+    "size": [
+      1024,
+      576
+    ],
+    "frames": 81,
+    "fps": 24,
+    "spend": 0,
+    "status": "completed",
+    "errors": [],
+    "checkpoint_files": [
+      {
+        "file": "high_noise_260412/wan2.2_i2v_A14b_high_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+        "bytes": 8757992064,
+        "revision": "338fb8eedd8f485c9188cf1b1de541721fc81d66"
+      },
+      {
+        "file": "low_noise_260412/wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q4_K_S.gguf",
+        "bytes": 8757992064,
+        "revision": "338fb8eedd8f485c9188cf1b1de541721fc81d66"
+      }
+    ],
+    "last_step": 4,
+    "timesteps": [
+      1000.0,
+      937.5,
+      833.3333129882812,
+      625.0
+    ],
+    "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\v2\\archer-native.mp4",
+    "sha256": "9e2c2d0025d515bdaaf1c2ff52930171ba8877de4944c7ae106049a10e0cff0a"
+  },
+  "archer_interpolation": {
+    "source_sha256": "3fd67ea4d6daf20a2d6e828f6f52b667767398687d90ebc393cf5efa50b9ae6e",
+    "sha256": "72f1fe6a6cece067737cc522e85c3e11b47348c76144973eacdbcb0f28236dfd",
+    "native_frames": 81,
+    "native_fps": 24,
+    "output_frames": 203,
+    "output_fps": 60,
+    "method": "RIFE v4.6 per shot; no interpolation across the editorial cut"
+  },
+  "audio_events": [
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Whoosh_4-1.wav",
+      "source_sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5",
+      "at": 0.13,
+      "gain": 0.18,
+      "pan": 0.25,
+      "speed": 1.1,
+      "length": 0.8
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Shield_Metal_Impact_1-3.wav",
+      "source_sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c",
+      "at": 0.5,
+      "gain": 0.46,
+      "pan": -0.25,
+      "speed": 0.96,
+      "length": 0.8
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Rock_Impact_11.wav",
+      "source_sha256": "01f1ae3bcb06593ded87cadf859614a7e8a7537e7be04e9447760e7d39010519",
+      "at": 0.5,
+      "gain": 0.1,
+      "pan": -0.25,
+      "speed": 1.1,
+      "length": 0.8
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Draw_Weapon_Metal_1-1.wav",
+      "source_sha256": "55fd0d463884116604e60bdf411dab2febde07126db696328eec15b1409e6b0f",
+      "at": 1.12,
+      "gain": 0.12,
+      "pan": -0.25,
+      "speed": 1.2,
+      "length": 0.8
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Whoosh_1-1.wav",
+      "source_sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645",
+      "at": 1.7,
+      "gain": 0.18,
+      "pan": -0.2,
+      "speed": 1.05,
+      "length": 0.8
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Whoosh_1-1.wav",
+      "source_sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645",
+      "at": 2.47,
+      "gain": 0.22,
+      "pan": 0.1,
+      "speed": 1.2,
+      "length": 0.8
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\verify-fab-mat-20261020-234029\\waves\\SFX_Essentials_FREE_SAMPLE\\FEETHmn_InsJ_Footsteps_Stones_Running_Trainers_01-01_Single-01_56867.wav",
+      "source_sha256": "bd120125de1737a90e280cde7806945c6f4011bfc9d5de805d72e0f8af48ffad",
+      "at": 1.52,
+      "gain": 0.09,
+      "pan": -0.25,
+      "speed": 0.9,
+      "length": 0.4
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\verify-fab-mat-20261020-234029\\waves\\SFX_Essentials_FREE_SAMPLE\\FEETHmn_InsJ_Footsteps_Stones_Running_Trainers_01-01_Single-02_81003.wav",
+      "source_sha256": "b4dd4c16a26d8a912a31c52ea9dcf16e3c7e497c2206e764942c78908fdb8a7d",
+      "at": 1.91,
+      "gain": 0.09,
+      "pan": -0.25,
+      "speed": 0.9,
+      "length": 0.4
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\verify-fab-mat-20261020-234029\\waves\\SFX_Essentials_FREE_SAMPLE\\FEETHmn_InsJ_Footsteps_Stones_Running_Trainers_01-01_Single-01_56867.wav",
+      "source_sha256": "bd120125de1737a90e280cde7806945c6f4011bfc9d5de805d72e0f8af48ffad",
+      "at": 2.32,
+      "gain": 0.09,
+      "pan": -0.25,
+      "speed": 0.9,
+      "length": 0.4
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\verify-fab-mat-20261020-234029\\waves\\SFX_Essentials_FREE_SAMPLE\\FEETHmn_InsJ_Footsteps_Stones_Running_Trainers_01-01_Single-02_81003.wav",
+      "source_sha256": "b4dd4c16a26d8a912a31c52ea9dcf16e3c7e497c2206e764942c78908fdb8a7d",
+      "at": 2.7,
+      "gain": 0.09,
+      "pan": -0.25,
+      "speed": 0.9,
+      "length": 0.4
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\verify-fab-mat-20261020-234029\\waves\\SmallSoundKit\\Leather_001_84677.wav",
+      "source_sha256": "552d229a606b2e283de480fcbf3c9510e98311f48f1decc116cd1f0de982a525",
+      "at": 3.02,
+      "gain": 0.1,
+      "pan": -0.2,
+      "speed": 1.0,
+      "length": 0.6
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\action-feel-wav-20261010-014639\\wav\\SW_MagicCast_HeavyArrowShoot_1.wav",
+      "source_sha256": "2794b503f62b23c391212e61bfac196af231f6a0c70e75385faef69b6b39efba",
+      "at": 3.1,
+      "gain": 0.24,
+      "pan": 0.0,
+      "speed": 1.1,
+      "length": 0.5
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Whoosh_4-1.wav",
+      "source_sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5",
+      "at": 3.13,
+      "gain": 0.12,
+      "pan": 0.25,
+      "speed": 1.3,
+      "length": 0.4
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\verify-fab-mat-20261020-234029\\waves\\SmallSoundKit\\Leather_002_544.wav",
+      "source_sha256": "c3ad8bc53a60c05ab8e9ddbb16d1a84d4270e1872c49d7d11c4a76d56043a34d",
+      "at": 3.5500000000000003,
+      "gain": 0.06,
+      "pan": 0.0,
+      "speed": 0.9,
+      "length": 0.5
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\verify-fab-mat-20261020-234029\\waves\\SmallSoundKit\\Amb_Wind_96882.wav",
+      "source_sha256": "6aa976ad08f5c44f568ad6f01b0261f8e9fc709bc3a2e7a296ab63bb7457fe44",
+      "at": 0.0,
+      "gain": 0.018,
+      "pan": 0.0,
+      "speed": 1.0,
+      "length": 6.3999999999999995
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Blacksmithing_1-1.wav",
+      "source_sha256": "2833ab64bd0b531776bdeb49a5038b415f88b5b057c1c9e4a6012ddd5ace1dcc",
+      "at": 6.259999999999999,
+      "gain": 0.27,
+      "pan": 0.0,
+      "speed": 0.72,
+      "length": 1.2
+    },
+    {
+      "source": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\hit-feel-wav-20261010-010346\\wav\\Rock_Impact_37.wav",
+      "source_sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4",
+      "at": 6.259999999999999,
+      "gain": 0.2,
+      "pan": 0.0,
+      "speed": 0.62,
+      "length": 1.25
+    }
+  ],
+  "projectile_cleanup": {
+    "source_sha256": "9e2c2d0025d515bdaaf1c2ff52930171ba8877de4944c7ae106049a10e0cff0a",
+    "output_sha256": "3fd67ea4d6daf20a2d6e828f6f52b667767398687d90ebc393cf5efa50b9ae6e",
+    "method": "SIFT/RANSAC clean-plate registration and feathered regional compositing",
+    "plate_frames": [
+      0,
+      40
+    ],
+    "plate_switch_at": 14,
+    "plate_arrowhead_inpaint_bounds": [
+      560,
+      160,
+      617,
+      209
+    ],
+    "edited_frames": [
+      4,
+      34
+    ],
+    "body_or_bow_edited": false,
+    "tracking": [
+      {
+        "frame": 4,
+        "matches": 377,
+        "inliers": 338,
+        "bounds": [
+          570,
+          168,
+          765,
+          217
+        ]
+      },
+      {
+        "frame": 5,
+        "matches": 345,
+        "inliers": 302,
+        "bounds": [
+          580,
+          168,
+          768,
+          219
+        ]
+      },
+      {
+        "frame": 6,
+        "matches": 310,
+        "inliers": 272,
+        "bounds": [
+          590,
+          168,
+          770,
+          221
+        ]
+      },
+      {
+        "frame": 7,
+        "matches": 287,
+        "inliers": 261,
+        "bounds": [
+          592,
+          170,
+          780,
+          223
+        ]
+      },
+      {
+        "frame": 8,
+        "matches": 295,
+        "inliers": 263,
+        "bounds": [
+          595,
+          172,
+          790,
+          225
+        ]
+      },
+      {
+        "frame": 9,
+        "matches": 274,
+        "inliers": 247,
+        "bounds": [
+          615,
+          175,
+          802,
+          228
+        ]
+      },
+      {
+        "frame": 10,
+        "matches": 250,
+        "inliers": 227,
+        "bounds": [
+          635,
+          178,
+          815,
+          231
+        ]
+      },
+      {
+        "frame": 11,
+        "matches": 252,
+        "inliers": 232,
+        "bounds": [
+          672,
+          183,
+          825,
+          235
+        ]
+      },
+      {
+        "frame": 12,
+        "matches": 254,
+        "inliers": 229,
+        "bounds": [
+          710,
+          188,
+          835,
+          239
+        ]
+      },
+      {
+        "frame": 13,
+        "matches": 249,
+        "inliers": 226,
+        "bounds": [
+          735,
+          190,
+          852,
+          266
+        ]
+      },
+      {
+        "frame": 14,
+        "matches": 192,
+        "inliers": 147,
+        "bounds": [
+          760,
+          191,
+          870,
+          292
+        ]
+      },
+      {
+        "frame": 15,
+        "matches": 200,
+        "inliers": 163,
+        "bounds": [
+          782,
+          194,
+          894,
+          296
+        ]
+      },
+      {
+        "frame": 16,
+        "matches": 200,
+        "inliers": 132,
+        "bounds": [
+          805,
+          196,
+          918,
+          300
+        ]
+      },
+      {
+        "frame": 17,
+        "matches": 210,
+        "inliers": 169,
+        "bounds": [
+          828,
+          198,
+          938,
+          304
+        ]
+      },
+      {
+        "frame": 18,
+        "matches": 200,
+        "inliers": 156,
+        "bounds": [
+          851,
+          201,
+          958,
+          309
+        ]
+      },
+      {
+        "frame": 19,
+        "matches": 200,
+        "inliers": 170,
+        "bounds": [
+          870,
+          204,
+          982,
+          312
+        ]
+      },
+      {
+        "frame": 20,
+        "matches": 207,
+        "inliers": 179,
+        "bounds": [
+          888,
+          207,
+          1006,
+          315
+        ]
+      },
+      {
+        "frame": 21,
+        "matches": 229,
+        "inliers": 185,
+        "bounds": [
+          909,
+          210,
+          1015,
+          321
+        ]
+      },
+      {
+        "frame": 22,
+        "matches": 237,
+        "inliers": 164,
+        "bounds": [
+          930,
+          213,
+          1024,
+          327
+        ]
+      },
+      {
+        "frame": 23,
+        "matches": 235,
+        "inliers": 205,
+        "bounds": [
+          945,
+          220,
+          1024,
+          331
+        ]
+      },
+      {
+        "frame": 24,
+        "matches": 245,
+        "inliers": 216,
+        "bounds": [
+          960,
+          227,
+          1024,
+          335
+        ]
+      },
+      {
+        "frame": 25,
+        "matches": 267,
+        "inliers": 215,
+        "bounds": [
+          965,
+          231,
+          1024,
+          338
+        ]
+      },
+      {
+        "frame": 26,
+        "matches": 267,
+        "inliers": 238,
+        "bounds": [
+          970,
+          235,
+          1024,
+          341
+        ]
+      },
+      {
+        "frame": 27,
+        "matches": 295,
+        "inliers": 267,
+        "bounds": [
+          972,
+          235,
+          1024,
+          343
+        ]
+      },
+      {
+        "frame": 28,
+        "matches": 280,
+        "inliers": 260,
+        "bounds": [
+          975,
+          235,
+          1024,
+          346
+        ]
+      },
+      {
+        "frame": 29,
+        "matches": 333,
+        "inliers": 310,
+        "bounds": [
+          978,
+          235,
+          1024,
+          348
+        ]
+      },
+      {
+        "frame": 30,
+        "matches": 327,
+        "inliers": 308,
+        "bounds": [
+          980,
+          235,
+          1024,
+          350
+        ]
+      },
+      {
+        "frame": 31,
+        "matches": 335,
+        "inliers": 319,
+        "bounds": [
+          988,
+          239,
+          1024,
+          350
+        ]
+      },
+      {
+        "frame": 32,
+        "matches": 347,
+        "inliers": 330,
+        "bounds": [
+          995,
+          242,
+          1024,
+          350
+        ]
+      },
+      {
+        "frame": 33,
+        "matches": 391,
+        "inliers": 379,
+        "bounds": [
+          1002,
+          246,
+          1024,
+          350
+        ]
+      },
+      {
+        "frame": 34,
+        "matches": 410,
+        "inliers": 396,
+        "bounds": [
+          1010,
+          250,
+          1024,
+          350
+        ]
+      }
+    ],
+    "reason": "Generated arrow faced backwards, drifted too slowly and split fletching."
+  },
+  "projectile_composite": {
+    "source_sha256": "72f1fe6a6cece067737cc522e85c3e11b47348c76144973eacdbcb0f28236dfd",
+    "asset_sha256": "83d094136cdd340c123d48857680ef3f9281ccedccbb8185c4e8394866d3c28e",
+    "output_sha256": "e61c7c227c7557944a382b51223193f5d09af5a9949ea85f2865285fd4f8fdd3",
+    "release_seconds": 0.2,
+    "native_pixels_per_second": 2500,
+    "method": "Physical arrow alpha composite after interpolation; four temporal samples for projectile only",
+    "frames": 203,
+    "figure_source": "Built-in imagegen, saved original transparent arrow asset"
+  },
+  "voice_sha256": "557e9425ae6b795d48eab032983b23ff86fc4306e175aed7443bab84878e9de4",
+  "audio_peak": 0.6109379938108256,
+  "audio_samples_at_or_above_1": 0,
+  "decode": "Full FFmpeg decode passed",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "color_range": "tv",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 161536,
+        "duration": "10.516667",
+        "bit_rate": "11630876",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "631",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc62.11.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 504480,
+        "duration": "10.510000",
+        "bit_rate": "239158",
+        "nb_frames": "494",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\v2\\ragequit-corale-v2.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "10.516667",
+      "size": "15622777",
+      "bit_rate": "11884203",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.3.100"
+      }
+    }
+  },
+  "artistic_approval": "Rejected by author D0938: slow, empty action, archer shoots into nothing; technical checks do not satisfy the request.",
+  "installed": false,
+  "installed_movie_sha256": "007da5f972d870e42f74f9c0163aab5b2c4d9c5ef53a9bc7adde3188fd3c187d",
+  "boundary": "Native sources 832x480 and 1024x576; interpolation and upscale do not constitute native 1080p.",
+  "script_sha256": "1d8866616d27e4fec387ea9c549eee78dd9c28c9fa9b936b57b102d747b791f2"
+}

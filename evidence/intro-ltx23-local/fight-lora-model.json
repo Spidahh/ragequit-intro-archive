@@ -1,0 +1,716 @@
+{
+  "id": 2489766,
+  "name": "LTX-2.3-fight",
+  "description": "<p>V3.0版本：本次更新主要针对动作和视角进行了初步补强，希望能为大家提供更多选择。</p><ul><li><p><strong>动作与视角</strong>：补充了部分战斗招式，稍微拓展了多角度的视觉呈现。</p></li><li><p><strong>数据集扩充</strong>：数据集增至 <strong>241 帧</strong>，尝试提升动态画面的连贯性。</p></li><li><p><strong>无需触发词</strong></p></li><li><p><strong>提示词</strong>：描述角色特征并搭配具体动作与环境描写，适当增加音效描写或者使用Lora加载节点屏蔽Lora的audio强度。</p></li><li><p><strong>Lora Strength</strong>：1.0</p></li><li><p><strong>frame rate</strong>：30~50 fps</p></li></ul><p>模型仍有诸多不足，欢迎大家尝试并多提宝贵意见。</p><p></p><p><span style=\"color:rgb(130, 201, 30)\"><strong>Prompt 1:</strong></span></p><p><span style=\"color:rgb(253, 126, 20)\">[Character A] and [Character B] are engaged in an intense [fighting/action style] duel in [scene]. [Detailed description of Character A, including clothing style, colors, and intricate details], [Detailed description of Character B, including clothing style, colors, and intricate details]. Their movements are [action rhythm description], unleashing a rapid and fierce exchange of blows. [Core Action 1], [Core Action 2], [Core Action 3], and [Core Action 4]...</span></p><p><span style=\"color:rgb(253, 126, 20)\">Cinematic [shooting angles and camera movement style], with [visual elements of the background environment, key props, weather/lighting effects, and overall color tone]. [Core artistic style and aesthetic atmosphere].</span></p><p></p><p><span style=\"color:rgb(130, 201, 30)\"><strong>Prompt 2:</strong></span></p><p><span style=\"color:rgb(253, 126, 20)\">[Video Style], [Aspect Ratio], [Time of Day], [Location/Environment].<br />The entire scene is filled with [Lighting Atmosphere], [Environmental Details], [Air/Particle Effects], and [Overall Color Tone].</span></p><p><span style=\"color:rgb(253, 126, 20)\">The left-side fighter wears [Left Character Outfit Description] with “[Left Character Name/Logo]” printed on the clothing. Their appearance features [Left Character Appearance], standing in [Left Character Fighting Stance].<br />The right-side fighter wears [Right Character Outfit Description] with “[Right Character Name/Logo]” printed on the clothing. Their appearance features [Right Character Appearance], standing in [Right Character Fighting Stance].<br />Both fighters face each other at [Core Scene Position], creating a feeling of [Scene Tension / Emotional Atmosphere].</span></p><p><span style=\"color:rgb(253, 126, 20)\">【Opening Shot】<br />The camera begins from [Opening Camera Angle], slowly revealing [Environment Details].<br />The camera then [Camera Movement] toward the center between both fighters.<br />Cut to close-up shots of [Character Detail], [Clothing Detail], [Body Movement Detail], and [Environmental Reactions].<br />In the background, [Background Elements] can be seen clearly.</span></p><p><span style=\"color:rgb(253, 126, 20)\">【Camera Cuts】<br />Extreme close-up of [Left Character Facial Detail / Expression].<br />Cut to [Right Character Facial Detail / Expression].<br />Rapid editing showcases [Pre-Fight Movement Details].<br />The camera suddenly [Dynamic Camera Motion] to transition into combat.</span></p><p><span style=\"color:rgb(253, 126, 20)\">【Fight Choreography】<br />[Left Character Name/Logo] launches the first attack with [Attack Move 1].<br />[Right Character Name/Logo] performs [Defensive Move] before countering with [Counterattack Move].<br />The fighters continuously exchange [Combat Style / Fighting Techniques].<br />Add [Impact Effects / Visual Effects].<br />Combat actions include: [Move 1], [Move 2], [Move 3], [Move 4].<br />Elements in the environment such as [Environmental Objects] react dynamically to the battle.</span></p><p><span style=\"color:rgb(253, 126, 20)\">【Cinematography &amp; Camera Movement】<br />Use [Camera Style 1], [Camera Style 2], and [Camera Style 3].<br />Add [Visual Effect] during attack impacts.<br />The camera circles around the fighters with [Camera Rotation Description].<br />On impact moments, switch to [Slow Motion / Speed Ramp Effect].<br />Overall editing rhythm should feel [Editing Pace / Energy Level].</span></p><p><span style=\"color:rgb(253, 126, 20)\">【Ending Shot】<br />Both fighters [Ending Character Action].<br />The camera [Ending Camera Movement].<br />The final frame includes [Final Scene Elements].<br />Freeze frame on [Final Pose / Final Composition].<br />The overall visual style should feel [Final Visual Style], with [Image Quality Description], [Lighting Quality], and [Motion Fluidity Description].</span></p>",
+  "allowNoCredit": false,
+  "allowCommercialUse": [
+    "RentCivit"
+  ],
+  "allowDerivatives": false,
+  "allowDifferentLicense": true,
+  "type": "LORA",
+  "minor": false,
+  "sfwOnly": false,
+  "poi": false,
+  "nsfw": false,
+  "nsfwLevel": 30,
+  "availability": "Public",
+  "userId": 7885367,
+  "hasActivePaidAccess": false,
+  "baseModels": [
+    "LTXV 2.3"
+  ],
+  "cosmetic": null,
+  "eventDecoration": null,
+  "supportsGeneration": true,
+  "stats": {
+    "downloadCount": 6897,
+    "thumbsUpCount": 363,
+    "thumbsDownCount": 0,
+    "commentCount": 0,
+    "tippedAmountCount": 60
+  },
+  "creator": {
+    "username": "NGC_2237_",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec296535-14db-4f4f-b2e4-b6cb3f8a78f1/width=96/NGC_2237_.jpeg"
+  },
+  "tags": [
+    "action",
+    "功夫",
+    "fight"
+  ],
+  "modelVersions": [
+    {
+      "id": 2958295,
+      "index": 0,
+      "name": "v3.0",
+      "baseModel": "LTXV 2.3",
+      "baseModelType": "Standard",
+      "createdAt": "2026-05-19T08:11:44.218Z",
+      "publishedAt": "2026-05-19T08:18:34.426Z",
+      "status": "Published",
+      "flags": 0,
+      "availability": "Public",
+      "nsfwLevel": 14,
+      "description": "<p>Twice the training time of the preview version.</p>",
+      "covered": true,
+      "coveredNext": true,
+      "stats": {
+        "downloadCount": 3313,
+        "thumbsUpCount": 207,
+        "thumbsDownCount": 0
+      },
+      "files": [
+        {
+          "id": 2837682,
+          "sizeKB": 418118.1484375,
+          "name": "LTX-2.3-fightV3.0.safetensors",
+          "overrideName": null,
+          "type": "Model",
+          "pickleScanResult": "Success",
+          "pickleScanMessage": null,
+          "virusScanResult": "Success",
+          "virusScanMessage": null,
+          "scannedAt": "2026-05-19T08:14:03.978Z",
+          "metadata": {
+            "format": "SafeTensor",
+            "isRequired": false
+          },
+          "hashes": {
+            "AutoV1": "BFB8EBB7",
+            "AutoV2": "01C3645236",
+            "SHA256": "01C3645236E89546624830B5186AEBF5F0051613B4AC05E4981DD9D147BBF03E",
+            "CRC32": "C48B2766",
+            "BLAKE3": "4F02D3A20C71D029CC70FD324B7F38186592EC39483809581BE2BCB513D2CD3A",
+            "AutoV3": "45C324E91AC6",
+            "SHA256_12": "01C3645236E8",
+            "SSHS_12": "b9b5664ea51b"
+          },
+          "downloadUrl": "https://civitai.com/api/download/models/2958295?fileId=2837682",
+          "primary": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26939447-a496-4d47-8b91-54554edcf892/original=true/131251480.mp4",
+          "nsfwLevel": 2,
+          "width": 1994,
+          "height": 1080,
+          "hash": "U48gXA0j56?F0KWG?bS0~X%g9ZV@0JWT?Hbc",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1be68081-7250-46d8-8c20-05e38ea2812c/original=true/131178440.mp4",
+          "nsfwLevel": 2,
+          "width": 1536,
+          "height": 832,
+          "hash": "U8C$.g0000~p~V?b9F4nD%%MxtM{8_oM-;oz",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/396aa757-4c24-44fa-ad95-b93dc6062e0a/original=true/131178437.mp4",
+          "nsfwLevel": 4,
+          "width": 1536,
+          "height": 832,
+          "hash": "U7CsQ=Io_ND%^*M{ELof00IpIA?GK6%2?GkB",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cf17d355-0396-4d9c-8b42-6ec014bd20f7/original=true/131179700.mp4",
+          "nsfwLevel": 2,
+          "width": 1536,
+          "height": 832,
+          "hash": "U856n+ROMc*0jDpIpIR4L~oztSWAVtj]oMo}",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f345628c-a1d7-43ea-9015-9e7be1210794/original=true/131181941.mp4",
+          "nsfwLevel": 8,
+          "width": 1280,
+          "height": 704,
+          "hash": "USMiJ,rrV?-p?v$z9b-o-;s-M{o#~VRjw]oz",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07505c13-7154-439a-8f97-ae4c4eb4a7d3/original=true/131181940.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "UK6BActTO]b_X;aMX9b_Pqbcngb_o~aJXSjv",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/58396127-b774-488a-b876-fa9b11ab235f/original=true/131215740.mp4",
+          "nsfwLevel": 2,
+          "width": 1280,
+          "height": 704,
+          "hash": "UFD07J00t7xa00_NRjn$~qITogjZV@Ipxtxu",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        }
+      ],
+      "downloadUrl": "https://civitai.com/api/download/models/2958295"
+    },
+    {
+      "id": 2979907,
+      "index": 1,
+      "name": "测试",
+      "baseModel": "LTXV 2.3",
+      "baseModelType": "Standard",
+      "createdAt": "2026-05-26T20:46:38.887Z",
+      "publishedAt": "2026-05-26T21:06:47.895Z",
+      "status": "Published",
+      "flags": 0,
+      "availability": "Public",
+      "nsfwLevel": 6,
+      "description": "<p>完全重新训练，增加了角色受到攻击后的反应。</p>",
+      "covered": true,
+      "coveredNext": true,
+      "stats": {
+        "downloadCount": 248,
+        "thumbsUpCount": 25,
+        "thumbsDownCount": 0
+      },
+      "files": [
+        {
+          "id": 2859458,
+          "sizeKB": 209220.9921875,
+          "name": "LTX-2.3-fightV4.0.safetensors",
+          "overrideName": null,
+          "type": "Model",
+          "pickleScanResult": "Success",
+          "pickleScanMessage": null,
+          "virusScanResult": "Success",
+          "virusScanMessage": null,
+          "scannedAt": "2026-05-26T20:48:03.002Z",
+          "metadata": {
+            "format": "SafeTensor",
+            "isRequired": false
+          },
+          "hashes": {
+            "AutoV1": "EFEA0DE7",
+            "AutoV2": "4C1FD99193",
+            "SHA256": "4C1FD99193871E2993161F02E3B04C523C9E4DDB674060936FA86D3D36B3E267",
+            "CRC32": "D8A71733",
+            "BLAKE3": "9BB569AE899A94FC9C49A1BA2CF5146822F2800F93B9CE35583F460520E4BCB3",
+            "AutoV3": "81BC9BD42F01",
+            "SHA256_12": "4C1FD9919387",
+            "SSHS_12": "d0cb42756b6c"
+          },
+          "downloadUrl": "https://civitai.com/api/download/models/2979907?fileId=2859458",
+          "primary": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0c57c556-e9c2-4835-a8ee-ad6806f06165/original=true/131930324.mp4",
+          "nsfwLevel": 2,
+          "width": 1280,
+          "height": 704,
+          "hash": "U29%w_NG01z?^nIUX8-iT_4o?F0004jY~V01",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f98caed1-f254-4ce9-b41c-4dc5754a2ed5/original=true/131930331.mp4",
+          "nsfwLevel": 2,
+          "width": 1280,
+          "height": 704,
+          "hash": "UNMkFK0LD%M|%~W=%MbI_Mt7Rkx[?vkCRQoK",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9bacffe2-3864-4ffa-8dc3-6540c4b59fe4/original=true/131932125.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "U6Ey6T~P01b=06IWMyWGNIIX-ma$~j?FM|xp",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f525c4af-bd1f-4845-a874-2d81b2d4182e/original=true/131934349.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "ULI;*J00%LM_~pM{t7jYWq%2s:Rj$*xuRkkW",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": false,
+          "hasPositivePrompt": false,
+          "onSite": false,
+          "remixOfId": null
+        }
+      ],
+      "downloadUrl": "https://civitai.com/api/download/models/2979907"
+    },
+    {
+      "id": 2953045,
+      "index": 2,
+      "name": "v3.0 preview",
+      "baseModel": "LTXV 2.3",
+      "baseModelType": "Standard",
+      "createdAt": "2026-05-17T12:10:52.388Z",
+      "publishedAt": "2026-05-17T12:16:34.025Z",
+      "status": "Published",
+      "flags": 0,
+      "availability": "Public",
+      "nsfwLevel": 22,
+      "description": "<p>本次更新主要针对动作和视角进行了初步补强，希望能为大家提供更多选择。</p><ul><li><p><strong>动作与视角</strong>：补充了部分战斗招式，稍微拓展了多角度的视觉呈现。</p></li><li><p><strong>数据集扩充</strong>：数据集增至 <strong>241 帧</strong>，尝试提升动态画面的连贯性。</p></li><li><p><strong>触发词</strong>：<code>ltx-fight</code></p></li><li><p><strong>提示词</strong>：描述角色特征并搭配具体动作与环境描写，适当增加音效描写或者使用Lora加载节点屏蔽Lora的audio强度。</p></li><li><p><strong>Lora Strength</strong>：1.0~1.5</p></li><li><p><strong>frame rate</strong>：50 fps</p></li></ul><p>模型仍有诸多不足，欢迎大家尝试并多提宝贵意见。</p>",
+      "covered": true,
+      "coveredNext": true,
+      "stats": {
+        "downloadCount": 310,
+        "thumbsUpCount": 54,
+        "thumbsDownCount": 0
+      },
+      "files": [
+        {
+          "id": 2834063,
+          "sizeKB": 418118.1484375,
+          "name": "LTX-2.3-fightV3.0.safetensors",
+          "overrideName": null,
+          "type": "Model",
+          "pickleScanResult": "Success",
+          "pickleScanMessage": null,
+          "virusScanResult": "Success",
+          "virusScanMessage": null,
+          "scannedAt": "2026-05-18T01:28:58.915Z",
+          "metadata": {
+            "format": "SafeTensor",
+            "isRequired": false
+          },
+          "hashes": {
+            "AutoV1": "B36576DD",
+            "AutoV2": "28079DB18B",
+            "SHA256": "28079DB18B9E609C2362E9EAC48B7628CB82B67175380B63F666CEEA026EC2FD",
+            "CRC32": "3CE47EE1",
+            "BLAKE3": "C60A18B8B14A6246DAB180CE242F914929BBDF2710F893B5204876FE802163BF",
+            "AutoV3": "37C10EEAE956",
+            "SHA256_12": "28079DB18B9E",
+            "SSHS_12": "c486f3e8191a"
+          },
+          "downloadUrl": "https://civitai.com/api/download/models/2953045?fileId=2834063",
+          "primary": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3f4bc4e1-d468-4358-978e-feff49840f7c/original=true/130986342.mp4",
+          "nsfwLevel": 2,
+          "width": 1280,
+          "height": 704,
+          "hash": "UF9sq}-:~U?Gr=E2RjRj4:NG9aM|tR^*x]%2",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2dd0db12-feaf-4713-b70f-be8f9b38fb2e/original=true/130986343.mp4",
+          "nsfwLevel": 16,
+          "width": 1280,
+          "height": 704,
+          "hash": "UAD9n^-U.9#,00E20KNtIBt6-p%M_N-V^QDi",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b91de3f-402b-4a43-b23f-88e8f113b52a/original=true/130986359.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "UKGuH^4:0M=u.7RPMyo}.TxDZ}I=IVs-xtV[",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": false,
+          "hasPositivePrompt": false,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8691b55e-2925-4ab6-9961-4e2e60d99268/original=true/130986353.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "UBHe{;00k9TvHYOW?u9G?[9uxu#.yo4p-o=_",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": false,
+          "hasPositivePrompt": false,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6a759fb5-2453-454a-aa0e-bcd7f143b383/original=true/130986360.mp4",
+          "nsfwLevel": 4,
+          "width": 1536,
+          "height": 832,
+          "hash": "UCB:~h.SEl~p4TR5v~E2R5$%xZIV$+kDxExF",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": false,
+          "hasPositivePrompt": false,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a404845-8dd7-4e0b-b8a0-9dc061dd2bb3/original=true/131065844.mp4",
+          "nsfwLevel": 4,
+          "width": 1536,
+          "height": 832,
+          "hash": "UBAJvFxt9aaKDjxZt7S4~oayM{WB0MX8xas.",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        }
+      ],
+      "downloadUrl": "https://civitai.com/api/download/models/2953045"
+    },
+    {
+      "id": 2818231,
+      "index": 3,
+      "name": "v2.0",
+      "baseModel": "LTXV 2.3",
+      "baseModelType": "Standard",
+      "createdAt": "2026-03-31T03:28:38.641Z",
+      "publishedAt": "2026-03-31T03:35:14.056Z",
+      "status": "Published",
+      "flags": 0,
+      "availability": "Public",
+      "nsfwLevel": 14,
+      "covered": true,
+      "coveredNext": true,
+      "stats": {
+        "downloadCount": 2033,
+        "thumbsUpCount": 140,
+        "thumbsDownCount": 0
+      },
+      "files": [
+        {
+          "id": 2704234,
+          "sizeKB": 393321.2265625,
+          "name": "LTX-2.3-fightV2.safetensors",
+          "overrideName": null,
+          "type": "Model",
+          "pickleScanResult": "Success",
+          "pickleScanMessage": "No Pickle imports",
+          "virusScanResult": "Success",
+          "virusScanMessage": null,
+          "scannedAt": "2026-03-31T03:31:08.311Z",
+          "metadata": {
+            "format": "SafeTensor"
+          },
+          "hashes": {
+            "AutoV1": "3374039D",
+            "AutoV2": "D5264A28DD",
+            "SHA256": "D5264A28DDA1219FA9E881174AE5C581174F88B8321757473AFB9346A1E4CFA8",
+            "CRC32": "A3CD4A42",
+            "BLAKE3": "0DCC28C3C750654C490EF8834BCFC8F0C3F30CD0FBBFA37F61E2FE5E93073A45",
+            "AutoV3": "C61EE3CC45A3",
+            "SHA256_12": "D5264A28DDA1",
+            "SSHS_12": "d0bea9dcf583"
+          },
+          "downloadUrl": "https://civitai.com/api/download/models/2818231?fileId=2704234",
+          "primary": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d9ec3577-2a23-4bd6-bcfb-503efbe6cee8/original=true/125938479.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "U4C6ol-:TyIt01IAjI4.9tpIw]-U0e~p$%%g",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c8637069-136a-4128-b8d3-4576a1fefccb/original=true/126253675.mp4",
+          "nsfwLevel": 2,
+          "width": 1280,
+          "height": 704,
+          "hash": "U7Ac;:xZM|NG8_r=S4t7~qs:RjoLMwoJkC%2",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e3aaa05b-cd3a-4a20-9fee-eb2335310f3b/original=true/125938480.mp4",
+          "nsfwLevel": 2,
+          "width": 1280,
+          "height": 704,
+          "hash": "U4AARB4o00?w9G?GoyIU%3aJ-:Is00RO_4-;",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ee642510-592c-47ca-9258-5310ae9e9d2c/original=true/125938477.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "U2AA5b?v0eNH00r?-Wae00IB^Qs.kEXmNX%2",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53d6cc1f-989d-4501-ba23-25739d111b0d/original=true/125938478.mp4",
+          "nsfwLevel": 8,
+          "width": 1280,
+          "height": 704,
+          "hash": "U3ATG?t600~q}?-:%g9F00xt^+Io0gRjnN%M",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0596eb92-5bb0-4677-b728-ae644240e64b/original=true/125938481.mp4",
+          "nsfwLevel": 8,
+          "width": 1280,
+          "height": 704,
+          "hash": "U4CPt-x]Di%#~WIpxuWB009F?aR5yEr=D*xu",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dac80795-757b-4065-8c3c-62de9af78823/original=true/126158186.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "UEB:skjcNGo|git8V[j]_NWYaeo2%MM{W;j?",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca7e899a-f0b0-49ef-84d0-09be24b43e70/original=true/126158187.mp4",
+          "nsfwLevel": 2,
+          "width": 1280,
+          "height": 704,
+          "hash": "UID07Gt6tQxu_MbbkCkC?ukCjbof%2RjofWU",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        }
+      ],
+      "downloadUrl": "https://civitai.com/api/download/models/2818231"
+    },
+    {
+      "id": 2799028,
+      "index": 4,
+      "name": "v1.0",
+      "baseModel": "LTXV 2.3",
+      "baseModelType": "Standard",
+      "createdAt": "2026-03-24T06:39:34.661Z",
+      "publishedAt": "2026-03-24T06:49:30.432Z",
+      "status": "Published",
+      "flags": 0,
+      "availability": "Public",
+      "nsfwLevel": 14,
+      "covered": true,
+      "coveredNext": true,
+      "stats": {
+        "downloadCount": 993,
+        "thumbsUpCount": 87,
+        "thumbsDownCount": 0
+      },
+      "files": [
+        {
+          "id": 2684990,
+          "sizeKB": 393321.2421875,
+          "name": "LTX-2.3-fight.safetensors",
+          "overrideName": null,
+          "type": "Model",
+          "pickleScanResult": "Success",
+          "pickleScanMessage": "No Pickle imports",
+          "virusScanResult": "Success",
+          "virusScanMessage": null,
+          "scannedAt": "2026-03-24T06:45:47.482Z",
+          "metadata": {
+            "format": "SafeTensor"
+          },
+          "hashes": {
+            "AutoV1": "E6B54493",
+            "AutoV2": "F9E6CB4A1E",
+            "SHA256": "F9E6CB4A1EB9437B55ECD21A7C29895B977CF9A1CC67E47259D2C885D069E8B3",
+            "CRC32": "7D985F5A",
+            "BLAKE3": "BE51202770022CF3D4C159759ECE782533FACE43FF42F3341AE806108AB59420",
+            "AutoV3": "C309FBEF271E",
+            "SHA256_12": "F9E6CB4A1EB9",
+            "SSHS_12": "dc87a45883de"
+          },
+          "downloadUrl": "https://civitai.com/api/download/models/2799028?fileId=2684990",
+          "primary": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44009a7a-d8ac-4c65-8932-e3c1c9e945df/original=true/125214406.mp4",
+          "nsfwLevel": 4,
+          "width": 1920,
+          "height": 1056,
+          "hash": "UBCG0:9ZENMx~WNGNGs:58%1i^xtI;xZV@R+",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/18c02a4a-4d8e-4654-9e19-4671048b54b4/original=true/125214407.mp4",
+          "nsfwLevel": 2,
+          "width": 1280,
+          "height": 704,
+          "hash": "U39a1}S4D%%3mk9FIVM{.8IVkBoz_MaeRjt7",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1acad23-3d6c-46f0-9b7a-2b83d14e5de9/original=true/125215629.mp4",
+          "nsfwLevel": 4,
+          "width": 1280,
+          "height": 704,
+          "hash": "UAC6Z6IUT0RP~WRPNGt69^xZIUxuI;tRnNxu",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        },
+        {
+          "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5e9f5cc5-fda3-4d4f-99e8-7387756fccc0/original=true/125214408.mp4",
+          "nsfwLevel": 8,
+          "width": 1280,
+          "height": 704,
+          "hash": "U3Ac}F9Z%#?G008_E2$*~Wx^9Zxu_3s.kDbb",
+          "type": "video",
+          "minor": false,
+          "poi": false,
+          "hasMeta": true,
+          "hasPositivePrompt": true,
+          "onSite": false,
+          "remixOfId": null
+        }
+      ],
+      "downloadUrl": "https://civitai.com/api/download/models/2799028"
+    }
+  ]
+}

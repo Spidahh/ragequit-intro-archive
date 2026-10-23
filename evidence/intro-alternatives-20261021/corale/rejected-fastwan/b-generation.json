@@ -1,0 +1,22 @@
+{
+  "request": "D0934",
+  "provider": "local, existing cached model",
+  "model": "FastVideo/FastWan2.2-TI2V-5B-FullAttn-Diffusers",
+  "image": "art\\intro\\alternative-20261021\\corale\\keyframe-b.png",
+  "image_sha256": "2a4fbad33d1f841a7d035d3d347558d3ad4995f6f4196cbaf2e8c4cec434531d",
+  "prompt": "A continuous animated dark fantasy cinematic shot with smooth real-time movement and coherent anatomy. Preserve the exact archer on the left, hooded scythe fighter on the right, their weapons and the same stone arena from the reference. The red-haired archer releases her fully drawn bow ONCE. The arrow flies rightward. The hooded fighter immediately ducks under the arrow, dashes two quick low steps left toward her and sweeps his long scythe in a clear horizontal arc. The archer sees it coming, leaps one step backward to escape the blade and lands balanced, keeping hold of the bow. The scythe passes in front of her, misses, and the hooded fighter recovers his stance. One clear exchange with anticipation, attack, evade and follow-through, natural cloth motion and grounded feet. The camera slides smoothly left following the approaching fighter while keeping both opponents and the scythe visible. Preserve identity, scale, grip and weapon geometry throughout. Background figures remain far away and unobtrusive. No slow motion, no freeze, no static picture, no cuts, no explosions, no glowing hands, no new characters, no weapon morphing, no text or logo. Painterly animated cinematic materials, rich but restrained lighting.\n",
+  "seed": 733,
+  "steps": 3,
+  "frames": 81,
+  "native_fps": 16,
+  "size": [
+    832,
+    480
+  ],
+  "spend": 0,
+  "status": "completed",
+  "reason": "Hosted ZeroGPU quota exhausted after two completed shots.",
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\b-native.mp4",
+  "sha256": "7e7d6b425ccde414cd61e94ea804759ec89f8fd508624b6d6956c7c8354c7c60",
+  "editorial_review": "Rejected by assistant: scythe duplicated and strong visual drift; excluded from final."
+}

@@ -1,0 +1,4988 @@
+{
+  "status": "Rejected by author D0934; do not integrate",
+  "author_request": "D0930; correction D0931",
+  "direction": "02 \u2014 L\u2019istante prima",
+  "other_directions": "01 and 03 retained, on hold",
+  "film": "ragequit-istante-prima-v2.mp4",
+  "sha256": "db8c4556e7d7b50c6bb4a9376e8296b4864fc6ebf4c81619d76a5f395c2e1d95",
+  "native_render": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134",
+  "native_method": {
+    "success": true,
+    "mode": "final",
+    "fps": 24,
+    "size": [
+      1920,
+      1080
+    ],
+    "author_request": "D0930, correction D0931",
+    "version": 2,
+    "game_assets_saved": false,
+    "errors": [],
+    "frames": [
+      {
+        "frame": 0,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0000.png"
+      },
+      {
+        "frame": 1,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0001.png"
+      },
+      {
+        "frame": 2,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0002.png"
+      },
+      {
+        "frame": 3,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0003.png"
+      },
+      {
+        "frame": 4,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0004.png"
+      },
+      {
+        "frame": 5,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0005.png"
+      },
+      {
+        "frame": 6,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0006.png"
+      },
+      {
+        "frame": 7,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0007.png"
+      },
+      {
+        "frame": 8,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0008.png"
+      },
+      {
+        "frame": 9,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0009.png"
+      },
+      {
+        "frame": 10,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0010.png"
+      },
+      {
+        "frame": 11,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0011.png"
+      },
+      {
+        "frame": 12,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0012.png"
+      },
+      {
+        "frame": 13,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0013.png"
+      },
+      {
+        "frame": 14,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0014.png"
+      },
+      {
+        "frame": 15,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0015.png"
+      },
+      {
+        "frame": 16,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0016.png"
+      },
+      {
+        "frame": 17,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0017.png"
+      },
+      {
+        "frame": 18,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0018.png"
+      },
+      {
+        "frame": 19,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0019.png"
+      },
+      {
+        "frame": 20,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0020.png"
+      },
+      {
+        "frame": 21,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0021.png"
+      },
+      {
+        "frame": 22,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0022.png"
+      },
+      {
+        "frame": 23,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0023.png"
+      },
+      {
+        "frame": 24,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0024.png"
+      },
+      {
+        "frame": 25,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0025.png"
+      },
+      {
+        "frame": 26,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0026.png"
+      },
+      {
+        "frame": 27,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0027.png"
+      },
+      {
+        "frame": 28,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0028.png"
+      },
+      {
+        "frame": 29,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0029.png"
+      },
+      {
+        "frame": 30,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0030.png"
+      },
+      {
+        "frame": 31,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0031.png"
+      },
+      {
+        "frame": 32,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0032.png"
+      },
+      {
+        "frame": 33,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0033.png"
+      },
+      {
+        "frame": 34,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0034.png"
+      },
+      {
+        "frame": 35,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0035.png"
+      },
+      {
+        "frame": 36,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0036.png"
+      },
+      {
+        "frame": 37,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0037.png"
+      },
+      {
+        "frame": 38,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0038.png"
+      },
+      {
+        "frame": 39,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0039.png"
+      },
+      {
+        "frame": 40,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0040.png"
+      },
+      {
+        "frame": 41,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0041.png"
+      },
+      {
+        "frame": 42,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0042.png"
+      },
+      {
+        "frame": 43,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0043.png"
+      },
+      {
+        "frame": 44,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0044.png"
+      },
+      {
+        "frame": 45,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0045.png"
+      },
+      {
+        "frame": 46,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0046.png"
+      },
+      {
+        "frame": 47,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0047.png"
+      },
+      {
+        "frame": 48,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0048.png"
+      },
+      {
+        "frame": 49,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0049.png"
+      },
+      {
+        "frame": 50,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0050.png"
+      },
+      {
+        "frame": 51,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0051.png"
+      },
+      {
+        "frame": 52,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0052.png"
+      },
+      {
+        "frame": 53,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0053.png"
+      },
+      {
+        "frame": 54,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0054.png"
+      },
+      {
+        "frame": 55,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0055.png"
+      },
+      {
+        "frame": 56,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0056.png"
+      },
+      {
+        "frame": 57,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0057.png"
+      },
+      {
+        "frame": 58,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0058.png"
+      },
+      {
+        "frame": 59,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0059.png"
+      },
+      {
+        "frame": 60,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0060.png"
+      },
+      {
+        "frame": 61,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0061.png"
+      },
+      {
+        "frame": 62,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0062.png"
+      },
+      {
+        "frame": 63,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0063.png"
+      },
+      {
+        "frame": 64,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0064.png"
+      },
+      {
+        "frame": 65,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0065.png"
+      },
+      {
+        "frame": 66,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0066.png"
+      },
+      {
+        "frame": 67,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0067.png"
+      },
+      {
+        "frame": 68,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0068.png"
+      },
+      {
+        "frame": 69,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0069.png"
+      },
+      {
+        "frame": 70,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0070.png"
+      },
+      {
+        "frame": 71,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0071.png"
+      },
+      {
+        "frame": 72,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0072.png"
+      },
+      {
+        "frame": 73,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0073.png"
+      },
+      {
+        "frame": 74,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0074.png"
+      },
+      {
+        "frame": 75,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0075.png"
+      },
+      {
+        "frame": 76,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0076.png"
+      },
+      {
+        "frame": 77,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0077.png"
+      },
+      {
+        "frame": 78,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0078.png"
+      },
+      {
+        "frame": 79,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0079.png"
+      },
+      {
+        "frame": 80,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0080.png"
+      },
+      {
+        "frame": 81,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0081.png"
+      },
+      {
+        "frame": 82,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0082.png"
+      },
+      {
+        "frame": 83,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0083.png"
+      },
+      {
+        "frame": 84,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0084.png"
+      },
+      {
+        "frame": 85,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0085.png"
+      },
+      {
+        "frame": 86,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0086.png"
+      },
+      {
+        "frame": 87,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0087.png"
+      },
+      {
+        "frame": 88,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0088.png"
+      },
+      {
+        "frame": 89,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0089.png"
+      },
+      {
+        "frame": 90,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0090.png"
+      },
+      {
+        "frame": 91,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0091.png"
+      },
+      {
+        "frame": 92,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0092.png"
+      },
+      {
+        "frame": 93,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0093.png"
+      },
+      {
+        "frame": 94,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0094.png"
+      },
+      {
+        "frame": 95,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0095.png"
+      },
+      {
+        "frame": 96,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0096.png"
+      },
+      {
+        "frame": 97,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0097.png"
+      },
+      {
+        "frame": 98,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0098.png"
+      },
+      {
+        "frame": 99,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0099.png"
+      },
+      {
+        "frame": 100,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0100.png"
+      },
+      {
+        "frame": 101,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0101.png"
+      },
+      {
+        "frame": 102,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0102.png"
+      },
+      {
+        "frame": 103,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0103.png"
+      },
+      {
+        "frame": 104,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0104.png"
+      },
+      {
+        "frame": 105,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0105.png"
+      },
+      {
+        "frame": 106,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0106.png"
+      },
+      {
+        "frame": 107,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0107.png"
+      },
+      {
+        "frame": 108,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0108.png"
+      },
+      {
+        "frame": 109,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0109.png"
+      },
+      {
+        "frame": 110,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0110.png"
+      },
+      {
+        "frame": 111,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0111.png"
+      },
+      {
+        "frame": 112,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0112.png"
+      },
+      {
+        "frame": 113,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0113.png"
+      },
+      {
+        "frame": 114,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0114.png"
+      },
+      {
+        "frame": 115,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0115.png"
+      },
+      {
+        "frame": 116,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0116.png"
+      },
+      {
+        "frame": 117,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0117.png"
+      },
+      {
+        "frame": 118,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0118.png"
+      },
+      {
+        "frame": 119,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0119.png"
+      },
+      {
+        "frame": 120,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0120.png"
+      },
+      {
+        "frame": 121,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0121.png"
+      },
+      {
+        "frame": 122,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0122.png"
+      },
+      {
+        "frame": 123,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0123.png"
+      },
+      {
+        "frame": 124,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0124.png"
+      },
+      {
+        "frame": 125,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0125.png"
+      },
+      {
+        "frame": 126,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0126.png"
+      },
+      {
+        "frame": 127,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0127.png"
+      },
+      {
+        "frame": 128,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0128.png"
+      },
+      {
+        "frame": 129,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0129.png"
+      },
+      {
+        "frame": 130,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0130.png"
+      },
+      {
+        "frame": 131,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0131.png"
+      },
+      {
+        "frame": 132,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0132.png"
+      },
+      {
+        "frame": 133,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0133.png"
+      },
+      {
+        "frame": 134,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0134.png"
+      },
+      {
+        "frame": 135,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0135.png"
+      },
+      {
+        "frame": 136,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0136.png"
+      },
+      {
+        "frame": 137,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0137.png"
+      },
+      {
+        "frame": 138,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0138.png"
+      },
+      {
+        "frame": 139,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0139.png"
+      },
+      {
+        "frame": 140,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0140.png"
+      },
+      {
+        "frame": 141,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0141.png"
+      },
+      {
+        "frame": 142,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0142.png"
+      },
+      {
+        "frame": 143,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0143.png"
+      },
+      {
+        "frame": 144,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0144.png"
+      },
+      {
+        "frame": 145,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0145.png"
+      },
+      {
+        "frame": 146,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0146.png"
+      },
+      {
+        "frame": 147,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0147.png"
+      },
+      {
+        "frame": 148,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0148.png"
+      },
+      {
+        "frame": 149,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0149.png"
+      },
+      {
+        "frame": 150,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0150.png"
+      },
+      {
+        "frame": 151,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0151.png"
+      },
+      {
+        "frame": 152,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0152.png"
+      },
+      {
+        "frame": 153,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0153.png"
+      },
+      {
+        "frame": 154,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0154.png"
+      },
+      {
+        "frame": 155,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0155.png"
+      },
+      {
+        "frame": 156,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0156.png"
+      },
+      {
+        "frame": 157,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0157.png"
+      },
+      {
+        "frame": 158,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0158.png"
+      },
+      {
+        "frame": 159,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0159.png"
+      },
+      {
+        "frame": 160,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0160.png"
+      },
+      {
+        "frame": 161,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0161.png"
+      },
+      {
+        "frame": 162,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0162.png"
+      },
+      {
+        "frame": 163,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0163.png"
+      },
+      {
+        "frame": 164,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0164.png"
+      },
+      {
+        "frame": 165,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0165.png"
+      },
+      {
+        "frame": 166,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0166.png"
+      },
+      {
+        "frame": 167,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0167.png"
+      },
+      {
+        "frame": 168,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0168.png"
+      },
+      {
+        "frame": 169,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0169.png"
+      },
+      {
+        "frame": 170,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0170.png"
+      },
+      {
+        "frame": 171,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0171.png"
+      },
+      {
+        "frame": 172,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0172.png"
+      },
+      {
+        "frame": 173,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0173.png"
+      },
+      {
+        "frame": 174,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0174.png"
+      },
+      {
+        "frame": 175,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0175.png"
+      },
+      {
+        "frame": 176,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0176.png"
+      },
+      {
+        "frame": 177,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0177.png"
+      },
+      {
+        "frame": 178,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0178.png"
+      },
+      {
+        "frame": 179,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0179.png"
+      },
+      {
+        "frame": 180,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0180.png"
+      },
+      {
+        "frame": 181,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0181.png"
+      },
+      {
+        "frame": 182,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0182.png"
+      },
+      {
+        "frame": 183,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0183.png"
+      },
+      {
+        "frame": 184,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0184.png"
+      },
+      {
+        "frame": 185,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0185.png"
+      },
+      {
+        "frame": 186,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0186.png"
+      },
+      {
+        "frame": 187,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0187.png"
+      },
+      {
+        "frame": 188,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0188.png"
+      },
+      {
+        "frame": 189,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0189.png"
+      },
+      {
+        "frame": 190,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0190.png"
+      },
+      {
+        "frame": 191,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0191.png"
+      },
+      {
+        "frame": 192,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0192.png"
+      },
+      {
+        "frame": 193,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0193.png"
+      },
+      {
+        "frame": 194,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0194.png"
+      },
+      {
+        "frame": 195,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0195.png"
+      },
+      {
+        "frame": 196,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0196.png"
+      },
+      {
+        "frame": 197,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0197.png"
+      },
+      {
+        "frame": 198,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0198.png"
+      },
+      {
+        "frame": 199,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0199.png"
+      },
+      {
+        "frame": 200,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0200.png"
+      },
+      {
+        "frame": 201,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0201.png"
+      },
+      {
+        "frame": 202,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0202.png"
+      },
+      {
+        "frame": 203,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0203.png"
+      },
+      {
+        "frame": 204,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0204.png"
+      },
+      {
+        "frame": 205,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0205.png"
+      },
+      {
+        "frame": 206,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0206.png"
+      },
+      {
+        "frame": 207,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0207.png"
+      },
+      {
+        "frame": 208,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0208.png"
+      },
+      {
+        "frame": 209,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0209.png"
+      },
+      {
+        "frame": 210,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0210.png"
+      },
+      {
+        "frame": 211,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0211.png"
+      },
+      {
+        "frame": 212,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0212.png"
+      },
+      {
+        "frame": 213,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0213.png"
+      },
+      {
+        "frame": 214,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0214.png"
+      },
+      {
+        "frame": 215,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0215.png"
+      },
+      {
+        "frame": 216,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0216.png"
+      },
+      {
+        "frame": 217,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0217.png"
+      },
+      {
+        "frame": 218,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0218.png"
+      },
+      {
+        "frame": 219,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0219.png"
+      },
+      {
+        "frame": 220,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0220.png"
+      },
+      {
+        "frame": 221,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0221.png"
+      },
+      {
+        "frame": 222,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0222.png"
+      },
+      {
+        "frame": 223,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0223.png"
+      },
+      {
+        "frame": 224,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0224.png"
+      },
+      {
+        "frame": 225,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0225.png"
+      },
+      {
+        "frame": 226,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0226.png"
+      },
+      {
+        "frame": 227,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0227.png"
+      },
+      {
+        "frame": 228,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0228.png"
+      },
+      {
+        "frame": 229,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0229.png"
+      },
+      {
+        "frame": 230,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0230.png"
+      },
+      {
+        "frame": 231,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0231.png"
+      },
+      {
+        "frame": 232,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0232.png"
+      },
+      {
+        "frame": 233,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0233.png"
+      },
+      {
+        "frame": 234,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0234.png"
+      },
+      {
+        "frame": 235,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0235.png"
+      },
+      {
+        "frame": 236,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0236.png"
+      },
+      {
+        "frame": 237,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0237.png"
+      },
+      {
+        "frame": 238,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0238.png"
+      },
+      {
+        "frame": 239,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-movimento-v2-finale-20261021-234134\\frames\\frame_0239.png"
+      }
+    ],
+    "sources": {
+      "animations": {
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/RMB_intro": 0.8333333134651184,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Primary_Attack_A_Medium": 1.2333333492279053,
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/RMB_HitReact": 1.5,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Primary_Attack_B_Medium": 1.2333333492279053,
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/RMB_melee": 1.0333333015441895,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Torn_Space_intro": 0.6333333253860474,
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/Primary_Melee_B_slow": 1.3333333730697632,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Torn_Space_Outro": 1.2000000476837158,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Primary_Attack_C_Medium": 1.2333333492279053,
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/Primary_Melee_C_slow": 1.1333333253860474,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Idle": 12.0,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Stun_Start": 1.1666666269302368,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Cosmic_Rift": 1.8666666746139526,
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/Knockback_back": 2.0333333015441895,
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/Primary_Melee_D_slow": 1.3333333730697632,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Torn_Space": 0.9333333373069763
+      },
+      "sentinel": {
+        "mesh": "/Game/Ragequit/Characters/Heroes/ClothStable/Sentinel/SK_RQ_Sentinel_0.SK_RQ_Sentinel_0",
+        "scale": 1.0,
+        "loadout": "/Game/Ragequit/Loadouts/LO_Guardian_Sentinel.LO_Guardian_Sentinel",
+        "head_world": [
+          -130.82939917503305,
+          9.489588178575634,
+          157.56636455059135
+        ]
+      },
+      "voidseer": {
+        "mesh": "/Game/Ragequit/Characters/Heroes/ClothStable/Voidseer/SK_RQ_Voidseer_0.SK_RQ_Voidseer_0",
+        "scale": 1.0,
+        "loadout": "/Game/Ragequit/Loadouts/LO_Mage_Voidseer.LO_Mage_Voidseer",
+        "head_world": [
+          182.52796510646607,
+          19.31412849191114,
+          154.36132902780523
+        ]
+      }
+    },
+    "pose_samples": [
+      {
+        "frame": 0,
+        "time": 0.0,
+        "action_time": 0.0,
+        "sentinel": [
+          -15.863645939501765,
+          42.48416359261212,
+          113.29594317906573
+        ],
+        "voidseer": [
+          40.20647840772122,
+          -3.2797723334519446,
+          152.95403841929382
+        ]
+      },
+      {
+        "frame": 1,
+        "time": 0.041666666666666664,
+        "action_time": 0.041666666666666664,
+        "sentinel": [
+          -11.772864704158565,
+          46.635353318185345,
+          115.07478746816165
+        ],
+        "voidseer": [
+          38.49724230762848,
+          -3.2329834948256035,
+          152.86874157917856
+        ]
+      },
+      {
+        "frame": 2,
+        "time": 0.08333333333333333,
+        "action_time": 0.08333333333333333,
+        "sentinel": [
+          -3.582263536757324,
+          54.37262514604749,
+          118.92841093389286
+        ],
+        "voidseer": [
+          31.26377498211025,
+          -9.282245981804621,
+          151.47741169458487
+        ]
+      },
+      {
+        "frame": 3,
+        "time": 0.125,
+        "action_time": 0.125,
+        "sentinel": [
+          3.9342123651803718,
+          59.30714823169656,
+          123.03419382554182
+        ],
+        "voidseer": [
+          4.00943614468423,
+          -39.428433295506075,
+          146.65802168052778
+        ]
+      },
+      {
+        "frame": 4,
+        "time": 0.16666666666666666,
+        "action_time": 0.16666666666666666,
+        "sentinel": [
+          8.543017992216932,
+          60.36242634141472,
+          127.30376294609552
+        ],
+        "voidseer": [
+          -64.13532799442152,
+          -36.163936685813006,
+          153.82180356586807
+        ]
+      },
+      {
+        "frame": 5,
+        "time": 0.20833333333333334,
+        "action_time": 0.20833333333333334,
+        "sentinel": [
+          11.59863591279668,
+          60.523045182674515,
+          131.6760268987205
+        ],
+        "voidseer": [
+          -66.53599141407784,
+          -32.78098138616226,
+          152.9501349000769
+        ]
+      },
+      {
+        "frame": 6,
+        "time": 0.25,
+        "action_time": 0.25,
+        "sentinel": [
+          14.02128276461292,
+          60.53656406676177,
+          135.19982396093522
+        ],
+        "voidseer": [
+          -66.3814290352793,
+          -30.549797018668315,
+          152.57842442195567
+        ]
+      },
+      {
+        "frame": 7,
+        "time": 0.2916666666666667,
+        "action_time": 0.2916666666666667,
+        "sentinel": [
+          16.79421569155346,
+          60.12396504989019,
+          137.39251428994942
+        ],
+        "voidseer": [
+          -66.1956024728872,
+          -28.955556768391403,
+          151.79830592755803
+        ]
+      },
+      {
+        "frame": 8,
+        "time": 0.3333333333333333,
+        "action_time": 0.3333333333333333,
+        "sentinel": [
+          19.746816706274956,
+          59.18118425857736,
+          138.27504150530223
+        ],
+        "voidseer": [
+          -66.00869902863218,
+          -27.58859421221642,
+          149.9118792130038
+        ]
+      },
+      {
+        "frame": 9,
+        "time": 0.375,
+        "action_time": 0.375,
+        "sentinel": [
+          21.721422314460042,
+          58.322790151057305,
+          138.56437046876454
+        ],
+        "voidseer": [
+          -64.71981907529175,
+          -25.96783933534534,
+          147.2065346259766
+        ]
+      },
+      {
+        "frame": 10,
+        "time": 0.4166666666666667,
+        "action_time": 0.4166666666666667,
+        "sentinel": [
+          20.743507499204014,
+          58.309074030536735,
+          137.84450659260995
+        ],
+        "voidseer": [
+          -60.37565125497105,
+          -25.07256014267091,
+          143.33672096806183
+        ]
+      },
+      {
+        "frame": 11,
+        "time": 0.4583333333333333,
+        "action_time": 0.4583333333333333,
+        "sentinel": [
+          15.698697652113594,
+          59.08449686414092,
+          135.41339282896453
+        ],
+        "voidseer": [
+          -52.243426745738304,
+          -25.67984991659675,
+          137.82388714347758
+        ]
+      },
+      {
+        "frame": 12,
+        "time": 0.5,
+        "action_time": 0.5,
+        "sentinel": [
+          7.888063405145232,
+          59.959445179432315,
+          131.43524732365847
+        ],
+        "voidseer": [
+          -43.19569815039864,
+          -26.659255432984708,
+          131.59743571651876
+        ]
+      },
+      {
+        "frame": 13,
+        "time": 0.5416666666666666,
+        "action_time": 0.5416666666666666,
+        "sentinel": [
+          -0.9802857775685538,
+          58.53048630960332,
+          126.81963843630044
+        ],
+        "voidseer": [
+          -33.2360537871964,
+          -28.202644292814742,
+          124.88481513090194
+        ]
+      },
+      {
+        "frame": 14,
+        "time": 0.5833333333333334,
+        "action_time": 0.5833333333333334,
+        "sentinel": [
+          -11.21737516649614,
+          52.52445994863183,
+          120.9374619698465
+        ],
+        "voidseer": [
+          -20.689906098614756,
+          -30.170865900578235,
+          118.29895786131597
+        ]
+      },
+      {
+        "frame": 15,
+        "time": 0.625,
+        "action_time": 0.625,
+        "sentinel": [
+          -20.830699527379863,
+          42.92493325586304,
+          115.35588056830255
+        ],
+        "voidseer": [
+          -9.371255608366198,
+          -31.90572178578673,
+          112.29127068015414
+        ]
+      },
+      {
+        "frame": 16,
+        "time": 0.6666666666666666,
+        "action_time": 0.6666666666666666,
+        "sentinel": [
+          -25.001456782941858,
+          36.27766911833588,
+          110.81244781241362
+        ],
+        "voidseer": [
+          -2.572073654656208,
+          -33.75037722978147,
+          107.32608388140011
+        ]
+      },
+      {
+        "frame": 17,
+        "time": 0.7083333333333334,
+        "action_time": 0.7083333333333334,
+        "sentinel": [
+          -24.34090385635406,
+          34.031249513733954,
+          106.88943285375822
+        ],
+        "voidseer": [
+          2.817937926206241,
+          -35.27019427909184,
+          103.76165057004076
+        ]
+      },
+      {
+        "frame": 18,
+        "time": 0.75,
+        "action_time": 0.75,
+        "sentinel": [
+          -23.39042177273825,
+          33.179499570108376,
+          103.88515718024365
+        ],
+        "voidseer": [
+          7.4119212582296825,
+          -36.036200227460924,
+          102.1441163782849
+        ]
+      },
+      {
+        "frame": 19,
+        "time": 0.7916666666666666,
+        "action_time": 0.7916666666666666,
+        "sentinel": [
+          -23.225769472676575,
+          32.862461087231395,
+          102.6402331792217
+        ],
+        "voidseer": [
+          10.991318047461789,
+          -36.70596575015931,
+          101.35903035580532
+        ]
+      },
+      {
+        "frame": 20,
+        "time": 0.8333333333333334,
+        "action_time": 0.8333333333333334,
+        "sentinel": [
+          -23.642234278321297,
+          32.5278999190749,
+          102.71968730554481
+        ],
+        "voidseer": [
+          12.485858196750826,
+          -37.37387088023834,
+          101.15729146640086
+        ]
+      },
+      {
+        "frame": 21,
+        "time": 0.875,
+        "action_time": 0.875,
+        "sentinel": [
+          -23.725412150046026,
+          32.28018939905797,
+          102.9435255570684
+        ],
+        "voidseer": [
+          12.979991917769695,
+          -37.97387776561256,
+          101.11902491364481
+        ]
+      },
+      {
+        "frame": 22,
+        "time": 0.9166666666666666,
+        "action_time": 0.9166666666666666,
+        "sentinel": [
+          -23.559146955847865,
+          32.109830673934965,
+          103.25131761503958
+        ],
+        "voidseer": [
+          13.375926099416432,
+          -38.49711183656758,
+          101.12942601516599
+        ]
+      },
+      {
+        "frame": 23,
+        "time": 0.9583333333333334,
+        "action_time": 0.9583333333333334,
+        "sentinel": [
+          -23.240584989946655,
+          32.00106268316266,
+          103.59423460772607
+        ],
+        "voidseer": [
+          13.667703407624856,
+          -38.913589931763106,
+          101.2055670192095
+        ]
+      },
+      {
+        "frame": 24,
+        "time": 1.0,
+        "action_time": 1.0,
+        "sentinel": [
+          -22.86779143399579,
+          31.939913116731894,
+          103.92058103744657
+        ],
+        "voidseer": [
+          13.767290799352935,
+          -39.180136865369136,
+          101.27602247845059
+        ]
+      },
+      {
+        "frame": 25,
+        "time": 1.0416666666666667,
+        "action_time": 1.0416666666666667,
+        "sentinel": [
+          -22.537568422612708,
+          31.91214688563074,
+          104.18032189436664
+        ],
+        "voidseer": [
+          13.690202338102438,
+          -39.28995216654059,
+          101.31254537014375
+        ]
+      },
+      {
+        "frame": 26,
+        "time": 1.0833333333333333,
+        "action_time": 1.0833333333333333,
+        "sentinel": [
+          -22.347564701508844,
+          31.90379649568503,
+          104.32169413800082
+        ],
+        "voidseer": [
+          13.581992471733997,
+          -39.35542578982578,
+          101.33982749612859
+        ]
+      },
+      {
+        "frame": 27,
+        "time": 1.125,
+        "action_time": 1.1,
+        "sentinel": [
+          -62.75577721097679,
+          3.720504989066356,
+          100.83362809100691
+        ],
+        "voidseer": [
+          -14.66190048604463,
+          -44.62023126675991,
+          100.8223508597539
+        ]
+      },
+      {
+        "frame": 28,
+        "time": 1.1666666666666667,
+        "action_time": 1.1,
+        "sentinel": [
+          -62.75577721097679,
+          3.720504989066356,
+          100.83362809100691
+        ],
+        "voidseer": [
+          -14.66190048604463,
+          -44.62023126675991,
+          100.8223508597539
+        ]
+      },
+      {
+        "frame": 29,
+        "time": 1.2083333333333333,
+        "action_time": 1.1,
+        "sentinel": [
+          -62.75577721097679,
+          3.720504989066356,
+          100.83362809100691
+        ],
+        "voidseer": [
+          -14.66190048604463,
+          -44.62023126675991,
+          100.8223508597539
+        ]
+      },
+      {
+        "frame": 30,
+        "time": 1.25,
+        "action_time": 1.1,
+        "sentinel": [
+          -62.75577721097679,
+          3.720504989066356,
+          100.83362809100691
+        ],
+        "voidseer": [
+          -14.66190048604463,
+          -44.62023126675991,
+          100.8223508597539
+        ]
+      },
+      {
+        "frame": 31,
+        "time": 1.2916666666666667,
+        "action_time": 1.1,
+        "sentinel": [
+          -62.75577721097679,
+          3.720504989066356,
+          100.83362809100691
+        ],
+        "voidseer": [
+          -14.66190048604463,
+          -44.62023126675991,
+          100.8223508597539
+        ]
+      },
+      {
+        "frame": 32,
+        "time": 1.3333333333333333,
+        "action_time": 1.1,
+        "sentinel": [
+          -62.75577721097679,
+          3.720504989066356,
+          100.83362809100691
+        ],
+        "voidseer": [
+          -14.66190048604463,
+          -44.62023126675991,
+          100.8223508597539
+        ]
+      },
+      {
+        "frame": 33,
+        "time": 1.375,
+        "action_time": 1.125,
+        "sentinel": [
+          -53.034019777270544,
+          4.028316462202518,
+          101.93169586124286
+        ],
+        "voidseer": [
+          -38.23707023336928,
+          -3.376129643648625,
+          111.84224521512944
+        ]
+      },
+      {
+        "frame": 34,
+        "time": 1.4166666666666667,
+        "action_time": 1.1666666666666667,
+        "sentinel": [
+          -42.53030915349666,
+          -2.833024113209305,
+          99.95906892587539
+        ],
+        "voidseer": [
+          46.822522326845615,
+          -2.1197688605603915,
+          126.53341839832211
+        ]
+      },
+      {
+        "frame": 35,
+        "time": 1.4583333333333333,
+        "action_time": 1.2083333333333333,
+        "sentinel": [
+          -65.63241457307151,
+          32.353693524743285,
+          90.1957330448427
+        ],
+        "voidseer": [
+          43.64459259378788,
+          5.373030385397769,
+          112.31574831245712
+        ]
+      },
+      {
+        "frame": 36,
+        "time": 1.5,
+        "action_time": 1.25,
+        "sentinel": [
+          -59.13481745078252,
+          48.331067595198846,
+          95.08937946103595
+        ],
+        "voidseer": [
+          38.77173743006239,
+          7.937273915717025,
+          100.69279018229571
+        ]
+      },
+      {
+        "frame": 37,
+        "time": 1.5416666666666667,
+        "action_time": 1.2916666666666667,
+        "sentinel": [
+          -35.21934667412026,
+          51.38771610010604,
+          94.52044816886868
+        ],
+        "voidseer": [
+          34.3419452181447,
+          4.657807981540643,
+          96.44743708108473
+        ]
+      },
+      {
+        "frame": 38,
+        "time": 1.5833333333333333,
+        "action_time": 1.3333333333333333,
+        "sentinel": [
+          -19.37918203644881,
+          51.17821715928682,
+          96.54075286172318
+        ],
+        "voidseer": [
+          32.11360424017002,
+          -5.239073205580581,
+          96.85073322251456
+        ]
+      },
+      {
+        "frame": 39,
+        "time": 1.625,
+        "action_time": 1.375,
+        "sentinel": [
+          -15.648919184300922,
+          49.523372212692465,
+          100.22092635054953
+        ],
+        "voidseer": [
+          28.89050902144521,
+          -19.483818455441245,
+          98.93980291894553
+        ]
+      },
+      {
+        "frame": 40,
+        "time": 1.6666666666666667,
+        "action_time": 1.4166666666666667,
+        "sentinel": [
+          -22.276479002237522,
+          47.03639014316289,
+          105.84420598238098
+        ],
+        "voidseer": [
+          22.4975176991303,
+          -31.762999407624346,
+          100.5118729979487
+        ]
+      },
+      {
+        "frame": 41,
+        "time": 1.7083333333333333,
+        "action_time": 1.4583333333333333,
+        "sentinel": [
+          -19.412642812692695,
+          45.85221075965707,
+          111.12658803367763
+        ],
+        "voidseer": [
+          14.97586199810894,
+          -38.54822753296325,
+          101.28523801963954
+        ]
+      },
+      {
+        "frame": 42,
+        "time": 1.75,
+        "action_time": 1.5,
+        "sentinel": [
+          -32.01615210573766,
+          31.90451316723249,
+          104.3559284156885
+        ],
+        "voidseer": [
+          36.91036811703279,
+          15.09522703449138,
+          105.85336858594428
+        ]
+      },
+      {
+        "frame": 43,
+        "time": 1.7916666666666667,
+        "action_time": 1.5416666666666667,
+        "sentinel": [
+          -36.31194328755154,
+          27.219254249133545,
+          107.80293958339624
+        ],
+        "voidseer": [
+          17.04400824275328,
+          30.550094576825373,
+          108.62769100903367
+        ]
+      },
+      {
+        "frame": 44,
+        "time": 1.8333333333333333,
+        "action_time": 1.5833333333333333,
+        "sentinel": [
+          -44.67398430567607,
+          17.697782983863327,
+          115.05661554778058
+        ],
+        "voidseer": [
+          24.251272767203233,
+          29.77001812156871,
+          106.35205845793425
+        ]
+      },
+      {
+        "frame": 45,
+        "time": 1.875,
+        "action_time": 1.625,
+        "sentinel": [
+          -52.96815969779806,
+          8.358252123648107,
+          123.64823972721094
+        ],
+        "voidseer": [
+          37.17465398954505,
+          25.06723316685181,
+          108.5135087669478
+        ]
+      },
+      {
+        "frame": 46,
+        "time": 1.9166666666666667,
+        "action_time": 1.6666666666666667,
+        "sentinel": [
+          -56.666715282669486,
+          4.362990860178456,
+          130.4946795312731
+        ],
+        "voidseer": [
+          40.78990399129441,
+          20.920206076353526,
+          114.83273960651965
+        ]
+      },
+      {
+        "frame": 47,
+        "time": 1.9583333333333333,
+        "action_time": 1.7083333333333333,
+        "sentinel": [
+          -54.21272590382979,
+          13.918463255963445,
+          134.3387001757553
+        ],
+        "voidseer": [
+          38.73988795709866,
+          22.146558224427046,
+          118.24404893373365
+        ]
+      },
+      {
+        "frame": 48,
+        "time": 2.0,
+        "action_time": 1.75,
+        "sentinel": [
+          -42.92497336597137,
+          32.881235761624914,
+          135.9383227763967
+        ],
+        "voidseer": [
+          37.79041101610207,
+          26.43225340410501,
+          118.68284952330973
+        ]
+      },
+      {
+        "frame": 49,
+        "time": 2.0416666666666665,
+        "action_time": 1.7916666666666665,
+        "sentinel": [
+          -0.4444977565465962,
+          53.51933673520188,
+          131.02375470227364
+        ],
+        "voidseer": [
+          38.21681880783413,
+          28.800393159338668,
+          119.21147616382956
+        ]
+      },
+      {
+        "frame": 50,
+        "time": 2.0833333333333335,
+        "action_time": 1.8333333333333335,
+        "sentinel": [
+          94.61278009647393,
+          33.765408595761784,
+          123.91591615221337
+        ],
+        "voidseer": [
+          40.355901428848256,
+          21.87746453140734,
+          121.12246402114472
+        ]
+      },
+      {
+        "frame": 51,
+        "time": 2.125,
+        "action_time": 1.875,
+        "sentinel": [
+          103.18390083794193,
+          28.37388684860774,
+          122.97787818540813
+        ],
+        "voidseer": [
+          36.17386410947046,
+          1.2974331052463413,
+          125.30348185154202
+        ]
+      },
+      {
+        "frame": 52,
+        "time": 2.1666666666666665,
+        "action_time": 1.9166666666666665,
+        "sentinel": [
+          93.91774890735505,
+          26.498874406404624,
+          121.62599897054353
+        ],
+        "voidseer": [
+          8.881466496818376,
+          -23.98769549205315,
+          140.96944548526193
+        ]
+      },
+      {
+        "frame": 53,
+        "time": 2.2083333333333335,
+        "action_time": 1.9583333333333335,
+        "sentinel": [
+          78.41870520630201,
+          28.688039798021137,
+          119.94322898628978
+        ],
+        "voidseer": [
+          -52.34069937030117,
+          -25.13537835154006,
+          150.98203410316574
+        ]
+      },
+      {
+        "frame": 54,
+        "time": 2.25,
+        "action_time": 2.0,
+        "sentinel": [
+          62.555840479113975,
+          37.266314410273246,
+          117.98617058875621
+        ],
+        "voidseer": [
+          -86.70979601135778,
+          1.2469063011406547,
+          133.30584006271016
+        ]
+      },
+      {
+        "frame": 55,
+        "time": 2.2916666666666665,
+        "action_time": 2.0416666666666665,
+        "sentinel": [
+          48.7241691835009,
+          42.330864605540974,
+          115.1240158964192
+        ],
+        "voidseer": [
+          -87.54354829818179,
+          3.796422096528829,
+          132.89039171560674
+        ]
+      },
+      {
+        "frame": 56,
+        "time": 2.3333333333333335,
+        "action_time": 2.0833333333333335,
+        "sentinel": [
+          36.68958354259818,
+          43.980143920936136,
+          111.40406289679848
+        ],
+        "voidseer": [
+          -88.15801945823483,
+          5.8273750684023895,
+          132.4300042262997
+        ]
+      },
+      {
+        "frame": 57,
+        "time": 2.375,
+        "action_time": 2.125,
+        "sentinel": [
+          25.569837073404194,
+          44.68293968169155,
+          107.70593973211314
+        ],
+        "voidseer": [
+          -88.63291495614972,
+          7.426718713140772,
+          131.91092266751664
+        ]
+      },
+      {
+        "frame": 58,
+        "time": 2.4166666666666665,
+        "action_time": 2.1666666666666665,
+        "sentinel": [
+          15.279929822233662,
+          44.70763690794057,
+          105.26022192485381
+        ],
+        "voidseer": [
+          -89.02304113159963,
+          8.696784628840163,
+          131.31706311846335
+        ]
+      },
+      {
+        "frame": 59,
+        "time": 2.4583333333333335,
+        "action_time": 2.2083333333333335,
+        "sentinel": [
+          6.192782611238542,
+          41.80714453164926,
+          104.41949145712238
+        ],
+        "voidseer": [
+          -89.36561570472246,
+          9.747979421086896,
+          130.6375571792961
+        ]
+      },
+      {
+        "frame": 60,
+        "time": 2.5,
+        "action_time": 2.25,
+        "sentinel": [
+          -1.4857984628488765,
+          36.35970083178652,
+          104.12867706346799
+        ],
+        "voidseer": [
+          -89.68635986453715,
+          10.693104803629112,
+          129.8732553243867
+        ]
+      },
+      {
+        "frame": 61,
+        "time": 2.5416666666666665,
+        "action_time": 2.2916666666666665,
+        "sentinel": [
+          -7.753537422484236,
+          32.49543747867631,
+          104.16229500154549
+        ],
+        "voidseer": [
+          -90.01184683506706,
+          11.711964510309244,
+          129.0021562446068
+        ]
+      },
+      {
+        "frame": 62,
+        "time": 2.5833333333333335,
+        "action_time": 2.3333333333333335,
+        "sentinel": [
+          -13.631891132096474,
+          30.349160369510816,
+          104.78476019885812
+        ],
+        "voidseer": [
+          -90.33789912282316,
+          12.967437393638079,
+          128.04033089701826
+        ]
+      },
+      {
+        "frame": 63,
+        "time": 2.625,
+        "action_time": 2.375,
+        "sentinel": [
+          -19.28437722642164,
+          28.581225364853427,
+          105.98247347373695
+        ],
+        "voidseer": [
+          -90.64711963706799,
+          14.598670078863876,
+          126.99070898271681
+        ]
+      },
+      {
+        "frame": 64,
+        "time": 2.6666666666666665,
+        "action_time": 2.4166666666666665,
+        "sentinel": [
+          21.38996012640208,
+          -44.31983023442899,
+          97.84797245165122
+        ],
+        "voidseer": [
+          -7.596910984916462,
+          -44.48425756541944,
+          92.69394678966536
+        ]
+      },
+      {
+        "frame": 65,
+        "time": 2.7083333333333335,
+        "action_time": 2.4583333333333335,
+        "sentinel": [
+          21.163665732613573,
+          -45.68196196967102,
+          95.0830814912922
+        ],
+        "voidseer": [
+          -11.500697213556919,
+          -50.73384408754626,
+          96.74140367438797
+        ]
+      },
+      {
+        "frame": 66,
+        "time": 2.75,
+        "action_time": 2.5,
+        "sentinel": [
+          21.526749954291986,
+          -44.548909213990584,
+          90.5978348450837
+        ],
+        "voidseer": [
+          -14.02519069159726,
+          -53.64813642055496,
+          100.93047025199228
+        ]
+      },
+      {
+        "frame": 67,
+        "time": 2.7916666666666665,
+        "action_time": 2.5416666666666665,
+        "sentinel": [
+          21.527463074847056,
+          -42.688586374667096,
+          91.11421471348282
+        ],
+        "voidseer": [
+          -11.58279181727039,
+          -55.605266057795994,
+          107.51805103116817
+        ]
+      },
+      {
+        "frame": 68,
+        "time": 2.8333333333333335,
+        "action_time": 2.5833333333333335,
+        "sentinel": [
+          20.502645600783417,
+          -37.88236924860884,
+          90.1941056110494
+        ],
+        "voidseer": [
+          -10.539551549752758,
+          -57.68291201847271,
+          114.8193493485653
+        ]
+      },
+      {
+        "frame": 69,
+        "time": 2.875,
+        "action_time": 2.625,
+        "sentinel": [
+          32.61678156208272,
+          -31.214916428219432,
+          93.83818718096491
+        ],
+        "voidseer": [
+          -10.402622242537973,
+          -59.45738431574027,
+          123.30560706229363
+        ]
+      },
+      {
+        "frame": 70,
+        "time": 2.9166666666666665,
+        "action_time": 2.6666666666666665,
+        "sentinel": [
+          83.99638115666112,
+          16.436105407822566,
+          107.93748044762884
+        ],
+        "voidseer": [
+          -12.170485465014224,
+          -60.08504845079171,
+          134.57351482103445
+        ]
+      },
+      {
+        "frame": 71,
+        "time": 2.9583333333333335,
+        "action_time": 2.7083333333333335,
+        "sentinel": [
+          36.05146879553192,
+          88.76241225928828,
+          113.8626150103008
+        ],
+        "voidseer": [
+          -14.239951898165373,
+          -58.2521251983488,
+          147.64539624305314
+        ]
+      },
+      {
+        "frame": 72,
+        "time": 3.0,
+        "action_time": 2.75,
+        "sentinel": [
+          -16.745966963064305,
+          78.21924734996877,
+          113.98700323926468
+        ],
+        "voidseer": [
+          -16.895083185528534,
+          -52.71611129235525,
+          157.5175686736173
+        ]
+      },
+      {
+        "frame": 73,
+        "time": 3.0416666666666665,
+        "action_time": 2.7916666666666665,
+        "sentinel": [
+          -39.90389372923292,
+          47.44204807166129,
+          114.72666798255591
+        ],
+        "voidseer": [
+          -18.11387537261743,
+          -45.85326200986961,
+          132.73311878560986
+        ]
+      },
+      {
+        "frame": 74,
+        "time": 3.0833333333333335,
+        "action_time": 2.8333333333333335,
+        "sentinel": [
+          -51.06700455484201,
+          23.26965410209584,
+          116.27577694175451
+        ],
+        "voidseer": [
+          -20.413724837414293,
+          -38.778548027074706,
+          94.77882537290041
+        ]
+      },
+      {
+        "frame": 75,
+        "time": 3.125,
+        "action_time": 2.875,
+        "sentinel": [
+          -57.92151427806411,
+          -3.495375860996397,
+          116.55084711725812
+        ],
+        "voidseer": [
+          -12.813020920683527,
+          -39.43849203524526,
+          78.61039859146013
+        ]
+      },
+      {
+        "frame": 76,
+        "time": 3.1666666666666665,
+        "action_time": 2.9166666666666665,
+        "sentinel": [
+          -60.252573586999176,
+          -7.515707218876315,
+          116.519232280731
+        ],
+        "voidseer": [
+          -12.818576918027475,
+          -34.078403152688786,
+          75.03377131629976
+        ]
+      },
+      {
+        "frame": 77,
+        "time": 3.2083333333333335,
+        "action_time": 2.9583333333333335,
+        "sentinel": [
+          -58.94630657735617,
+          -8.60269768719732,
+          116.27457861300523
+        ],
+        "voidseer": [
+          -12.73077811824379,
+          -30.213034759820758,
+          79.96123240453718
+        ]
+      },
+      {
+        "frame": 78,
+        "time": 3.25,
+        "action_time": 3.0,
+        "sentinel": [
+          -55.49685706910354,
+          -8.67706249833143,
+          115.28136946071285
+        ],
+        "voidseer": [
+          -11.54912711242656,
+          -27.966878234264364,
+          86.55160330437178
+        ]
+      },
+      {
+        "frame": 79,
+        "time": 3.2916666666666665,
+        "action_time": 3.0416666666666665,
+        "sentinel": [
+          -52.38214082594896,
+          -8.479847819514973,
+          113.90163908573746
+        ],
+        "voidseer": [
+          -9.230611143554711,
+          -25.94925948396625,
+          91.25656057255686
+        ]
+      },
+      {
+        "frame": 80,
+        "time": 3.3333333333333335,
+        "action_time": 3.0833333333333335,
+        "sentinel": [
+          -48.91531208631879,
+          -7.609920478399232,
+          112.5870448986696
+        ],
+        "voidseer": [
+          -5.861994131248878,
+          -24.160359317500685,
+          94.10074290701209
+        ]
+      },
+      {
+        "frame": 81,
+        "time": 3.375,
+        "action_time": 3.125,
+        "sentinel": [
+          -46.43707811779097,
+          -6.49772337883735,
+          111.18122538146686
+        ],
+        "voidseer": [
+          -2.1376115386674996,
+          -23.207304733499747,
+          96.69857866065266
+        ]
+      },
+      {
+        "frame": 82,
+        "time": 3.4166666666666665,
+        "action_time": 3.1666666666666665,
+        "sentinel": [
+          -45.72173968294578,
+          -4.807722706912145,
+          110.36978997132871
+        ],
+        "voidseer": [
+          1.795992135514382,
+          -23.889624661426325,
+          98.88141957791989
+        ]
+      },
+      {
+        "frame": 83,
+        "time": 3.4583333333333335,
+        "action_time": 3.2083333333333335,
+        "sentinel": [
+          -45.889352351007716,
+          -3.071743082146398,
+          109.75754342438395
+        ],
+        "voidseer": [
+          6.063985623034569,
+          -25.28193373190274,
+          100.58831979788773
+        ]
+      },
+      {
+        "frame": 84,
+        "time": 3.5,
+        "action_time": 3.25,
+        "sentinel": [
+          -46.135678517375055,
+          -1.8226270116616803,
+          109.34656947311683
+        ],
+        "voidseer": [
+          10.247306112721958,
+          -26.736547693219343,
+          101.70120500284142
+        ]
+      },
+      {
+        "frame": 85,
+        "time": 3.5416666666666665,
+        "action_time": 3.2916666666666665,
+        "sentinel": [
+          -46.591172144316744,
+          -0.6431282319172453,
+          108.94696136713647
+        ],
+        "voidseer": [
+          14.56270530535744,
+          -28.545755656178443,
+          102.15464139173578
+        ]
+      },
+      {
+        "frame": 86,
+        "time": 3.5833333333333335,
+        "action_time": 3.3333333333333335,
+        "sentinel": [
+          -47.28299944312413,
+          0.20798040639837012,
+          108.65243319118211
+        ],
+        "voidseer": [
+          19.79434450681913,
+          -30.413777309583978,
+          102.08597785318902
+        ]
+      },
+      {
+        "frame": 87,
+        "time": 3.625,
+        "action_time": 3.375,
+        "sentinel": [
+          -48.19661636218345,
+          0.6403211400217117,
+          108.5061841216451
+        ],
+        "voidseer": [
+          25.13807138157091,
+          -31.612951920222656,
+          101.87076594393234
+        ]
+      },
+      {
+        "frame": 88,
+        "time": 3.6666666666666665,
+        "action_time": 3.4166666666666665,
+        "sentinel": [
+          -25.353702926632202,
+          39.1192395193532,
+          114.0893396876258
+        ],
+        "voidseer": [
+          -35.66538155841147,
+          -35.88915633509822,
+          107.274057380772
+        ]
+      },
+      {
+        "frame": 89,
+        "time": 3.7083333333333335,
+        "action_time": 3.4583333333333335,
+        "sentinel": [
+          -20.92896935960271,
+          47.220018826970296,
+          117.05917752633346
+        ],
+        "voidseer": [
+          -38.99366677673322,
+          -12.310520914602101,
+          111.20192022746342
+        ]
+      },
+      {
+        "frame": 90,
+        "time": 3.75,
+        "action_time": 3.5,
+        "sentinel": [
+          -14.065384643064306,
+          56.12323026504662,
+          121.43306859708423
+        ],
+        "voidseer": [
+          0.49508254282488906,
+          -23.45812019767665,
+          121.80983428676807
+        ]
+      },
+      {
+        "frame": 91,
+        "time": 3.7916666666666665,
+        "action_time": 3.5416666666666665,
+        "sentinel": [
+          -8.58247341373962,
+          60.18410047146772,
+          126.15675559443669
+        ],
+        "voidseer": [
+          45.41395741848521,
+          9.662088221668881,
+          128.426794519031
+        ]
+      },
+      {
+        "frame": 92,
+        "time": 3.8333333333333335,
+        "action_time": 3.5833333333333335,
+        "sentinel": [
+          -5.100794326738921,
+          61.337111230019296,
+          130.92067708615465
+        ],
+        "voidseer": [
+          45.3124119044744,
+          10.963549015118701,
+          124.42158764134203
+        ]
+      },
+      {
+        "frame": 93,
+        "time": 3.875,
+        "action_time": 3.625,
+        "sentinel": [
+          -2.536409512765445,
+          62.05719866940372,
+          134.99239287437854
+        ],
+        "voidseer": [
+          43.618658402681206,
+          13.722089012475578,
+          118.42535376945256
+        ]
+      },
+      {
+        "frame": 94,
+        "time": 3.9166666666666665,
+        "action_time": 3.6666666666666665,
+        "sentinel": [
+          0.5080169442385483,
+          62.43044317373385,
+          137.45243561093508
+        ],
+        "voidseer": [
+          40.983341367386856,
+          16.455412011262823,
+          112.84866562847256
+        ]
+      },
+      {
+        "frame": 95,
+        "time": 3.9583333333333335,
+        "action_time": 3.7083333333333335,
+        "sentinel": [
+          3.912824086142855,
+          62.23083864143485,
+          138.3571286433521
+        ],
+        "voidseer": [
+          38.526276654530534,
+          17.552794398214274,
+          107.5838199955304
+        ]
+      },
+      {
+        "frame": 96,
+        "time": 4.0,
+        "action_time": 3.75,
+        "sentinel": [
+          5.951663050408499,
+          61.90032749996106,
+          138.59321520000492
+        ],
+        "voidseer": [
+          36.36053112791251,
+          17.96287626976084,
+          102.90566794635518
+        ]
+      },
+      {
+        "frame": 97,
+        "time": 4.041666666666667,
+        "action_time": 3.791666666666667,
+        "sentinel": [
+          3.5893271998827103,
+          61.51681139635488,
+          137.339631062734
+        ],
+        "voidseer": [
+          34.66206133106891,
+          17.513082210722473,
+          99.52441457770314
+        ]
+      },
+      {
+        "frame": 98,
+        "time": 4.083333333333333,
+        "action_time": 3.833333333333333,
+        "sentinel": [
+          -3.6241262577499214,
+          60.484523495789176,
+          133.81220706843862
+        ],
+        "voidseer": [
+          33.13521176412439,
+          16.177496442189636,
+          97.43272644199786
+        ]
+      },
+      {
+        "frame": 99,
+        "time": 4.125,
+        "action_time": 3.875,
+        "sentinel": [
+          -12.411850367178353,
+          58.717667253358776,
+          129.09398083279027
+        ],
+        "voidseer": [
+          32.00163764056896,
+          13.787593766644775,
+          96.51222139492684
+        ]
+      },
+      {
+        "frame": 100,
+        "time": 4.166666666666667,
+        "action_time": 3.916666666666667,
+        "sentinel": [
+          -21.633809620385676,
+          51.284010680520026,
+          123.49321548355536
+        ],
+        "voidseer": [
+          31.628285703211986,
+          10.749716472142538,
+          96.22606818878802
+        ]
+      },
+      {
+        "frame": 101,
+        "time": 4.208333333333333,
+        "action_time": 3.958333333333333,
+        "sentinel": [
+          -30.38042054479424,
+          38.238361436529914,
+          116.91616131474774
+        ],
+        "voidseer": [
+          32.007625974772566,
+          6.455277275398203,
+          96.49821617754537
+        ]
+      },
+      {
+        "frame": 102,
+        "time": 4.25,
+        "action_time": 4.0,
+        "sentinel": [
+          -33.84129502582704,
+          28.78669140810389,
+          111.40739022057096
+        ],
+        "voidseer": [
+          32.58577519613232,
+          1.2095161783138906,
+          97.1366203824662
+        ]
+      },
+      {
+        "frame": 103,
+        "time": 4.291666666666667,
+        "action_time": 4.041666666666667,
+        "sentinel": [
+          -32.50138247806956,
+          26.439491912230416,
+          107.074509434496
+        ],
+        "voidseer": [
+          33.015566223929795,
+          -4.650024161102635,
+          97.97774295880765
+        ]
+      },
+      {
+        "frame": 104,
+        "time": 4.333333333333333,
+        "action_time": 4.083333333333333,
+        "sentinel": [
+          -31.288156249428567,
+          25.85458229324074,
+          103.83581699777133
+        ],
+        "voidseer": [
+          33.02415339318043,
+          -10.610383467302128,
+          98.85808357487633
+        ]
+      },
+      {
+        "frame": 105,
+        "time": 4.375,
+        "action_time": 4.125,
+        "sentinel": [
+          -31.093887256568067,
+          25.535958452366227,
+          102.64307576721768
+        ],
+        "voidseer": [
+          32.46199552326732,
+          -16.380748427217092,
+          99.63440690029927
+        ]
+      },
+      {
+        "frame": 106,
+        "time": 4.416666666666667,
+        "action_time": 4.166666666666667,
+        "sentinel": [
+          -31.387343481899332,
+          25.087938774849103,
+          102.76607323000037
+        ],
+        "voidseer": [
+          31.158118721580195,
+          -21.766496522961333,
+          100.23120480470565
+        ]
+      },
+      {
+        "frame": 107,
+        "time": 4.458333333333333,
+        "action_time": 4.208333333333333,
+        "sentinel": [
+          -31.331246194667738,
+          24.847846667175837,
+          103.04145112977719
+        ],
+        "voidseer": [
+          29.234415456577665,
+          -26.548279323167037,
+          100.67301405710509
+        ]
+      },
+      {
+        "frame": 108,
+        "time": 4.5,
+        "action_time": 4.25,
+        "sentinel": [
+          -31.042064216131795,
+          24.760726725572905,
+          103.39891319495445
+        ],
+        "voidseer": [
+          26.97392864022902,
+          -30.316165442396724,
+          100.98969018473599
+        ]
+      },
+      {
+        "frame": 109,
+        "time": 4.541666666666667,
+        "action_time": 4.291666666666667,
+        "sentinel": [
+          -30.64106740155844,
+          24.773912812287264,
+          103.77342091347724
+        ],
+        "voidseer": [
+          24.76514072688434,
+          -33.07089077956037,
+          101.25761943850196
+        ]
+      },
+      {
+        "frame": 110,
+        "time": 4.583333333333333,
+        "action_time": 4.333333333333333,
+        "sentinel": [
+          -30.249472576575943,
+          24.834668396659346,
+          104.09563470947171
+        ],
+        "voidseer": [
+          23.420269794002195,
+          -34.38374960767389,
+          101.47754905878773
+        ]
+      },
+      {
+        "frame": 111,
+        "time": 4.625,
+        "action_time": 4.375,
+        "sentinel": [
+          -29.986743599247855,
+          24.89146333793414,
+          104.2979022605311
+        ],
+        "voidseer": [
+          23.375127538195613,
+          -34.454192744056385,
+          101.48127713834738
+        ]
+      },
+      {
+        "frame": 112,
+        "time": 4.666666666666667,
+        "action_time": 4.416666666666667,
+        "sentinel": [
+          -39.937255628344744,
+          21.06990627911644,
+          105.11698403760504
+        ],
+        "voidseer": [
+          48.17547456036874,
+          -1.4113237822567442,
+          123.60177093759441
+        ]
+      },
+      {
+        "frame": 113,
+        "time": 4.708333333333333,
+        "action_time": 4.458333333333333,
+        "sentinel": [
+          -42.898840392231136,
+          15.241496758193893,
+          108.6657743279726
+        ],
+        "voidseer": [
+          50.4320279843613,
+          14.435233648869698,
+          116.78221301464828
+        ]
+      },
+      {
+        "frame": 114,
+        "time": 4.75,
+        "action_time": 4.5,
+        "sentinel": [
+          -47.5759140588971,
+          5.6575415280075845,
+          114.77049670849222
+        ],
+        "voidseer": [
+          31.44599869246946,
+          -9.069467435180371,
+          108.64303804818691
+        ]
+      },
+      {
+        "frame": 115,
+        "time": 4.791666666666667,
+        "action_time": 4.541666666666667,
+        "sentinel": [
+          -52.2769119220056,
+          -4.405953130426212,
+          121.85768512132984
+        ],
+        "voidseer": [
+          -32.15826869563085,
+          -61.64182961782404,
+          127.11471717564974
+        ]
+      },
+      {
+        "frame": 116,
+        "time": 4.833333333333333,
+        "action_time": 4.583333333333333,
+        "sentinel": [
+          -55.27014097347742,
+          -10.658524734524391,
+          128.15608791180014
+        ],
+        "voidseer": [
+          -55.61988745039059,
+          -48.736724945140274,
+          148.49701116654649
+        ]
+      },
+      {
+        "frame": 117,
+        "time": 4.875,
+        "action_time": 4.625,
+        "sentinel": [
+          -56.10408337687567,
+          -8.994596984536017,
+          132.14518545826607
+        ],
+        "voidseer": [
+          -57.822641442058796,
+          -46.57781468483323,
+          150.9907116797433
+        ]
+      },
+      {
+        "frame": 118,
+        "time": 4.916666666666667,
+        "action_time": 4.666666666666667,
+        "sentinel": [
+          -55.3640488580031,
+          2.6988313079011874,
+          134.76731947527844
+        ],
+        "voidseer": [
+          -59.70461556110263,
+          -44.580458729496826,
+          149.10652708413699
+        ]
+      },
+      {
+        "frame": 119,
+        "time": 4.958333333333333,
+        "action_time": 4.708333333333333,
+        "sentinel": [
+          -49.83107740348175,
+          20.503439305030636,
+          135.84514014690117
+        ],
+        "voidseer": [
+          -60.276146818370876,
+          -43.135462093740976,
+          146.91648473193288
+        ]
+      },
+      {
+        "frame": 120,
+        "time": 5.0,
+        "action_time": 4.75,
+        "sentinel": [
+          -23.69731549553635,
+          45.13904918371921,
+          132.36947469331434
+        ],
+        "voidseer": [
+          -58.63114626309368,
+          -42.84999126075721,
+          143.3288740201566
+        ]
+      },
+      {
+        "frame": 121,
+        "time": 5.041666666666667,
+        "action_time": 4.791666666666667,
+        "sentinel": [
+          74.43057983232663,
+          60.51678443796236,
+          124.01230173738351
+        ],
+        "voidseer": [
+          -54.76833871106203,
+          -42.670931825390795,
+          137.42056650950144
+        ]
+      },
+      {
+        "frame": 122,
+        "time": 5.083333333333333,
+        "action_time": 4.833333333333333,
+        "sentinel": [
+          86.9371219806653,
+          60.22453241132217,
+          123.54707302868745
+        ],
+        "voidseer": [
+          -49.1406232852878,
+          -41.99399964645575,
+          131.30086460431707
+        ]
+      },
+      {
+        "frame": 123,
+        "time": 5.125,
+        "action_time": 4.875,
+        "sentinel": [
+          87.46828727812795,
+          58.23333534824302,
+          122.56134075756636
+        ],
+        "voidseer": [
+          -42.17901460570903,
+          -42.45138044185045,
+          126.73733507146936
+        ]
+      },
+      {
+        "frame": 124,
+        "time": 5.166666666666667,
+        "action_time": 4.916666666666667,
+        "sentinel": [
+          78.10538635202872,
+          54.77972585370786,
+          121.39559631832614
+        ],
+        "voidseer": [
+          -35.94428948285082,
+          -43.25772651808899,
+          122.55043867473864
+        ]
+      },
+      {
+        "frame": 125,
+        "time": 5.208333333333333,
+        "action_time": 4.958333333333333,
+        "sentinel": [
+          64.86308412658488,
+          53.34771799664827,
+          119.99949933804058
+        ],
+        "voidseer": [
+          -28.628145005221256,
+          -43.92289663455997,
+          117.59121667914805
+        ]
+      },
+      {
+        "frame": 126,
+        "time": 5.25,
+        "action_time": 5.0,
+        "sentinel": [
+          49.54883679402482,
+          55.99588994467879,
+          118.52255549165477
+        ],
+        "voidseer": [
+          -20.835767381739288,
+          -43.736178138213674,
+          112.96195435653797
+        ]
+      },
+      {
+        "frame": 127,
+        "time": 5.291666666666667,
+        "action_time": 5.041666666666667,
+        "sentinel": [
+          35.63676292630238,
+          57.5785985765774,
+          116.50887119721266
+        ],
+        "voidseer": [
+          -13.354582339423416,
+          -42.503326738159025,
+          109.13960147075927
+        ]
+      },
+      {
+        "frame": 128,
+        "time": 5.333333333333333,
+        "action_time": 5.083333333333333,
+        "sentinel": [
+          24.712760918121376,
+          56.14825632030194,
+          113.69500698978061
+        ],
+        "voidseer": [
+          -6.848512245359132,
+          -40.6366220746239,
+          106.2534793596076
+        ]
+      },
+      {
+        "frame": 129,
+        "time": 5.375,
+        "action_time": 5.125,
+        "sentinel": [
+          14.750633493660047,
+          53.841962287273525,
+          110.48025741312935
+        ],
+        "voidseer": [
+          -1.300288621798586,
+          -39.09994180835902,
+          104.54043763176558
+        ]
+      },
+      {
+        "frame": 130,
+        "time": 5.416666666666667,
+        "action_time": 5.166666666666667,
+        "sentinel": [
+          5.616560446200111,
+          50.894936665747515,
+          107.52612681236802
+        ],
+        "voidseer": [
+          3.3647945539025272,
+          -37.79951087839038,
+          103.52409887162085
+        ]
+      },
+      {
+        "frame": 131,
+        "time": 5.458333333333333,
+        "action_time": 5.208333333333333,
+        "sentinel": [
+          -2.73350736162422,
+          47.636938662237824,
+          105.51648569978236
+        ],
+        "voidseer": [
+          7.716191541452815,
+          -36.66442075697439,
+          102.9082168266996
+        ]
+      },
+      {
+        "frame": 132,
+        "time": 5.5,
+        "action_time": 5.25,
+        "sentinel": [
+          -9.698921198819221,
+          43.064536123999076,
+          104.60116383493727
+        ],
+        "voidseer": [
+          12.098155205547641,
+          -35.4727707513565,
+          102.46399432459589
+        ]
+      },
+      {
+        "frame": 133,
+        "time": 5.541666666666667,
+        "action_time": 5.291666666666667,
+        "sentinel": [
+          -14.555870460429787,
+          36.39353116904926,
+          104.21762356732035
+        ],
+        "voidseer": [
+          16.429967580791356,
+          -34.20555487342184,
+          102.14742407050112
+        ]
+      },
+      {
+        "frame": 134,
+        "time": 5.583333333333333,
+        "action_time": 5.333333333333333,
+        "sentinel": [
+          -18.257463529022544,
+          29.924742094947817,
+          104.10305548322174
+        ],
+        "voidseer": [
+          20.45471334584346,
+          -32.94184725598561,
+          101.94979272687404
+        ]
+      },
+      {
+        "frame": 135,
+        "time": 5.625,
+        "action_time": 5.375,
+        "sentinel": [
+          -21.79296860284677,
+          25.180555968039307,
+          104.20918961293089
+        ],
+        "voidseer": [
+          24.00042672364168,
+          -31.658913506408403,
+          101.80790903841208
+        ]
+      },
+      {
+        "frame": 136,
+        "time": 5.666666666666667,
+        "action_time": 5.416666666666667,
+        "sentinel": [
+          -25.49253578930299,
+          21.349293126129844,
+          104.75001916605905
+        ],
+        "voidseer": [
+          26.852601906336588,
+          -30.469008829453287,
+          101.69697905778361
+        ]
+      },
+      {
+        "frame": 137,
+        "time": 5.708333333333333,
+        "action_time": 5.458333333333333,
+        "sentinel": [
+          -29.10458163081077,
+          17.82199556263793,
+          105.69635328780143
+        ],
+        "voidseer": [
+          28.804806531561326,
+          -29.568984280323875,
+          101.57200086109393
+        ]
+      },
+      {
+        "frame": 138,
+        "time": 5.75,
+        "action_time": 5.5,
+        "sentinel": [
+          -61.695351934880364,
+          -5.160523817802808,
+          101.78802775732159
+        ],
+        "voidseer": [
+          34.4294919983131,
+          -24.881120156815946,
+          101.4448462878542
+        ]
+      },
+      {
+        "frame": 139,
+        "time": 5.791666666666667,
+        "action_time": 5.541666666666667,
+        "sentinel": [
+          -65.17215148683039,
+          -5.089534754738473,
+          101.9384115350405
+        ],
+        "voidseer": [
+          31.429305750175672,
+          -30.45984504691593,
+          103.95771768458792
+        ]
+      },
+      {
+        "frame": 140,
+        "time": 5.833333333333333,
+        "action_time": 5.583333333333333,
+        "sentinel": [
+          -65.88229140285891,
+          -2.047586455634608,
+          104.46373963457714
+        ],
+        "voidseer": [
+          37.609238389337406,
+          -23.24959868245373,
+          102.19322138600194
+        ]
+      },
+      {
+        "frame": 141,
+        "time": 5.875,
+        "action_time": 5.625,
+        "sentinel": [
+          -59.15227681638093,
+          5.1467828977557595,
+          113.17806586336765
+        ],
+        "voidseer": [
+          36.322379526390876,
+          -24.311855367469157,
+          102.2592599500743
+        ]
+      },
+      {
+        "frame": 142,
+        "time": 5.916666666666667,
+        "action_time": 5.666666666666667,
+        "sentinel": [
+          -53.49823710532122,
+          12.148002654613155,
+          123.84970211847073
+        ],
+        "voidseer": [
+          34.346623798251414,
+          -22.66821430478005,
+          101.58435564803148
+        ]
+      },
+      {
+        "frame": 143,
+        "time": 5.958333333333333,
+        "action_time": 5.708333333333333,
+        "sentinel": [
+          -56.323030577892965,
+          20.29029150848845,
+          132.60159774296554
+        ],
+        "voidseer": [
+          39.17182319798769,
+          -20.90568032613583,
+          102.61809240040068
+        ]
+      },
+      {
+        "frame": 144,
+        "time": 6.0,
+        "action_time": 5.75,
+        "sentinel": [
+          -56.65172526799594,
+          32.08802860495509,
+          143.71755604208357
+        ],
+        "voidseer": [
+          36.89597839737502,
+          -24.08911128272546,
+          101.82026732047103
+        ]
+      },
+      {
+        "frame": 145,
+        "time": 6.041666666666667,
+        "action_time": 5.791666666666667,
+        "sentinel": [
+          -39.55897880303668,
+          45.86978106254138,
+          161.70650346832565
+        ],
+        "voidseer": [
+          36.73030281697754,
+          -24.088995231105656,
+          102.41336685847207
+        ]
+      },
+      {
+        "frame": 146,
+        "time": 6.083333333333333,
+        "action_time": 5.833333333333333,
+        "sentinel": [
+          9.99076578145366,
+          69.75476091825422,
+          171.7257184258572
+        ],
+        "voidseer": [
+          34.397426389082,
+          -24.442720718264837,
+          101.10796592799157
+        ]
+      },
+      {
+        "frame": 147,
+        "time": 6.125,
+        "action_time": 5.875,
+        "sentinel": [
+          71.6917958134398,
+          64.14771021971382,
+          144.68896214904663
+        ],
+        "voidseer": [
+          29.305199981541875,
+          -25.82024290579824,
+          100.44536697703111
+        ]
+      },
+      {
+        "frame": 148,
+        "time": 6.166666666666667,
+        "action_time": 5.916666666666667,
+        "sentinel": [
+          88.58311901857797,
+          18.493302358504664,
+          101.22825680565091
+        ],
+        "voidseer": [
+          2.3027377420620496,
+          -36.07667563088286,
+          97.5117211844723
+        ]
+      },
+      {
+        "frame": 149,
+        "time": 6.208333333333333,
+        "action_time": 5.958333333333333,
+        "sentinel": [
+          66.20252671377463,
+          -2.4954069625345205,
+          84.36730524659913
+        ],
+        "voidseer": [
+          -6.187499637465692,
+          -44.7595505832692,
+          94.67767181111705
+        ]
+      },
+      {
+        "frame": 150,
+        "time": 6.25,
+        "action_time": 6.0,
+        "sentinel": [
+          54.011063330627024,
+          -5.146040100484665,
+          82.28056947544579
+        ],
+        "voidseer": [
+          -8.368365415465234,
+          -52.90471164776549,
+          94.44558855489248
+        ]
+      },
+      {
+        "frame": 151,
+        "time": 6.291666666666667,
+        "action_time": 6.041666666666667,
+        "sentinel": [
+          52.30323395915116,
+          -6.2286363946581496,
+          81.67360809348207
+        ],
+        "voidseer": [
+          -10.459646645554358,
+          -59.32697091065742,
+          95.4766996353796
+        ]
+      },
+      {
+        "frame": 152,
+        "time": 6.333333333333333,
+        "action_time": 6.083333333333333,
+        "sentinel": [
+          51.460291846779285,
+          -8.964981804669275,
+          81.8440068270717
+        ],
+        "voidseer": [
+          -13.338434473310201,
+          -64.83545909269694,
+          96.71155207750354
+        ]
+      },
+      {
+        "frame": 153,
+        "time": 6.375,
+        "action_time": 6.125,
+        "sentinel": [
+          50.86319316551243,
+          -11.667611910320733,
+          82.2343939993364
+        ],
+        "voidseer": [
+          -17.907269174771272,
+          -66.29783904322909,
+          92.56390948681309
+        ]
+      },
+      {
+        "frame": 154,
+        "time": 6.416666666666667,
+        "action_time": 6.166666666666667,
+        "sentinel": [
+          50.19548513623431,
+          -14.122908006490388,
+          82.92227031164552
+        ],
+        "voidseer": [
+          -23.594997176546826,
+          -62.82220773190936,
+          74.03169480179254
+        ]
+      },
+      {
+        "frame": 155,
+        "time": 6.458333333333333,
+        "action_time": 6.208333333333333,
+        "sentinel": [
+          49.40726644574528,
+          -16.273638014897692,
+          83.4154368830901
+        ],
+        "voidseer": [
+          -26.383367702408805,
+          -56.60666569467384,
+          56.09082515407683
+        ]
+      },
+      {
+        "frame": 156,
+        "time": 6.5,
+        "action_time": 6.25,
+        "sentinel": [
+          48.51392667849805,
+          -17.477562274480654,
+          83.10481685990226
+        ],
+        "voidseer": [
+          -23.81151760085487,
+          -51.91802563324758,
+          48.256612203694445
+        ]
+      },
+      {
+        "frame": 157,
+        "time": 6.541666666666667,
+        "action_time": 6.291666666666667,
+        "sentinel": [
+          47.98073062494683,
+          -18.205161616076325,
+          82.58270856815741
+        ],
+        "voidseer": [
+          -18.402106028350715,
+          -48.44037394756908,
+          44.69528356283014
+        ]
+      },
+      {
+        "frame": 158,
+        "time": 6.583333333333333,
+        "action_time": 6.333333333333333,
+        "sentinel": [
+          48.18841458286937,
+          -19.34342522159663,
+          82.67863918891136
+        ],
+        "voidseer": [
+          -14.277942273666497,
+          -45.81150914609053,
+          45.358756046899884
+        ]
+      },
+      {
+        "frame": 159,
+        "time": 6.625,
+        "action_time": 6.375,
+        "sentinel": [
+          48.79357864729138,
+          -20.94267915742934,
+          83.46213658199181
+        ],
+        "voidseer": [
+          -8.101487218972636,
+          -43.2261176539719,
+          47.34163601964407
+        ]
+      },
+      {
+        "frame": 160,
+        "time": 6.666666666666667,
+        "action_time": 6.416666666666667,
+        "sentinel": [
+          49.463508020855386,
+          -22.137079396606264,
+          84.21024372052416
+        ],
+        "voidseer": [
+          -2.0691002067352997,
+          -41.719953510458325,
+          48.86474303174855
+        ]
+      },
+      {
+        "frame": 161,
+        "time": 6.708333333333333,
+        "action_time": 6.458333333333333,
+        "sentinel": [
+          50.317183387988734,
+          -22.14141560693819,
+          84.79226035655714
+        ],
+        "voidseer": [
+          1.3546932669925127,
+          -41.02951868697256,
+          50.296346681304385
+        ]
+      },
+      {
+        "frame": 162,
+        "time": 6.75,
+        "action_time": 6.5,
+        "sentinel": [
+          51.16248580505362,
+          -21.736073903453477,
+          85.47777776423095
+        ],
+        "voidseer": [
+          4.357228628762982,
+          -41.39978624545305,
+          51.890446917374504
+        ]
+      },
+      {
+        "frame": 163,
+        "time": 6.791666666666667,
+        "action_time": 6.541666666666667,
+        "sentinel": [
+          51.95219358016945,
+          -21.732047004158865,
+          86.23865371219232
+        ],
+        "voidseer": [
+          6.273148290825759,
+          -41.50590341807796,
+          52.57827726194432
+        ]
+      },
+      {
+        "frame": 164,
+        "time": 6.833333333333333,
+        "action_time": 6.583333333333333,
+        "sentinel": [
+          52.46194858135425,
+          -22.34019707227214,
+          86.76842878627441
+        ],
+        "voidseer": [
+          7.241562398624183,
+          -41.38391351136763,
+          52.644471372837295
+        ]
+      },
+      {
+        "frame": 165,
+        "time": 6.875,
+        "action_time": 6.625,
+        "sentinel": [
+          -28.142255111418166,
+          39.580033959427695,
+          115.33810928561553
+        ],
+        "voidseer": [
+          58.577209509174054,
+          -7.1066160333348165,
+          112.11692431473148
+        ]
+      },
+      {
+        "frame": 166,
+        "time": 6.916666666666667,
+        "action_time": 6.666666666666667,
+        "sentinel": [
+          -19.024246988432793,
+          56.0219681838048,
+          122.72518694832664
+        ],
+        "voidseer": [
+          60.844981453308606,
+          2.659957181377962,
+          126.58259937208557
+        ]
+      },
+      {
+        "frame": 167,
+        "time": 6.958333333333333,
+        "action_time": 6.708333333333333,
+        "sentinel": [
+          -12.513459256226525,
+          60.219520863504464,
+          130.58507782271082
+        ],
+        "voidseer": [
+          57.34890632995689,
+          9.446038223833852,
+          142.0945694915717
+        ]
+      },
+      {
+        "frame": 168,
+        "time": 7.0,
+        "action_time": 6.75,
+        "sentinel": [
+          -8.258928791451495,
+          61.795068432497324,
+          136.81331838119564
+        ],
+        "voidseer": [
+          45.009096147329444,
+          12.990928495151593,
+          164.8047002644726
+        ]
+      },
+      {
+        "frame": 169,
+        "time": 7.041666666666667,
+        "action_time": 6.791666666666667,
+        "sentinel": [
+          -2.5734501651376718,
+          62.21372421324444,
+          138.54942513343053
+        ],
+        "voidseer": [
+          5.466798323859905,
+          9.562394696280052,
+          190.99725494924175
+        ]
+      },
+      {
+        "frame": 170,
+        "time": 7.083333333333333,
+        "action_time": 6.833333333333333,
+        "sentinel": [
+          -3.5130904588902183,
+          61.58705651530445,
+          137.44546306085255
+        ],
+        "voidseer": [
+          -11.083419281303122,
+          5.1540621347878215,
+          201.26034409239435
+        ]
+      },
+      {
+        "frame": 171,
+        "time": 7.125,
+        "action_time": 6.875,
+        "sentinel": [
+          -16.01576186894269,
+          58.291986872491,
+          130.9907769711666
+        ],
+        "voidseer": [
+          -91.45291850147191,
+          -42.71469347022571,
+          94.81855021306892
+        ]
+      },
+      {
+        "frame": 172,
+        "time": 7.166666666666667,
+        "action_time": 6.916666666666667,
+        "sentinel": [
+          -29.650737362035727,
+          45.24704673524599,
+          121.42470028340036
+        ],
+        "voidseer": [
+          -56.57326744620747,
+          -16.98954086872842,
+          38.29727399696148
+        ]
+      },
+      {
+        "frame": 173,
+        "time": 7.208333333333333,
+        "action_time": 6.958333333333333,
+        "sentinel": [
+          -10.687908391711971,
+          50.841035537253745,
+          120.71639695149912
+        ],
+        "voidseer": [
+          -43.486372389477424,
+          -11.847170172974387,
+          40.8624250651671
+        ]
+      },
+      {
+        "frame": 174,
+        "time": 7.25,
+        "action_time": 7.0,
+        "sentinel": [
+          -9.833467580342983,
+          50.46067143890192,
+          123.04005543145041
+        ],
+        "voidseer": [
+          -45.10806963552966,
+          -16.341130623405746,
+          59.74206634101026
+        ]
+      },
+      {
+        "frame": 175,
+        "time": 7.291666666666667,
+        "action_time": 7.041666666666667,
+        "sentinel": [
+          -9.177097287626907,
+          49.450010977903794,
+          126.48784094850855
+        ],
+        "voidseer": [
+          -44.87739331834274,
+          -23.450117701044903,
+          81.16983639059654
+        ]
+      },
+      {
+        "frame": 176,
+        "time": 7.333333333333333,
+        "action_time": 7.083333333333333,
+        "sentinel": [
+          -10.2503360055195,
+          49.62097367971994,
+          125.74492981792223
+        ],
+        "voidseer": [
+          -38.44003225397739,
+          -27.185337530785965,
+          97.21809873471788
+        ]
+      },
+      {
+        "frame": 177,
+        "time": 7.375,
+        "action_time": 7.125,
+        "sentinel": [
+          -11.333345911853655,
+          50.321003074242164,
+          120.62927170121034
+        ],
+        "voidseer": [
+          -26.6712238119743,
+          -27.263155838713466,
+          104.17105327552277
+        ]
+      },
+      {
+        "frame": 178,
+        "time": 7.416666666666667,
+        "action_time": 7.166666666666667,
+        "sentinel": [
+          -11.154683985152559,
+          50.98690198162766,
+          117.41833507950729
+        ],
+        "voidseer": [
+          -12.232792119141152,
+          -27.86845037263764,
+          106.03109576105768
+        ]
+      },
+      {
+        "frame": 179,
+        "time": 7.458333333333333,
+        "action_time": 7.208333333333333,
+        "sentinel": [
+          -10.757643149784442,
+          53.39971225850969,
+          122.11636661232235
+        ],
+        "voidseer": [
+          1.3089635198293763,
+          -28.742965323245606,
+          104.47904841498783
+        ]
+      },
+      {
+        "frame": 180,
+        "time": 7.5,
+        "action_time": 7.25,
+        "sentinel": [
+          -8.917887756419248,
+          54.224841155479965,
+          127.6946369386025
+        ],
+        "voidseer": [
+          10.45623064938519,
+          -27.464227326205254,
+          102.68268288525745
+        ]
+      },
+      {
+        "frame": 181,
+        "time": 7.541666666666667,
+        "action_time": 7.291666666666667,
+        "sentinel": [
+          -6.9615839266706985,
+          54.061730917603796,
+          127.38537053277885
+        ],
+        "voidseer": [
+          18.307548300541498,
+          -26.47983460108022,
+          101.46838462430523
+        ]
+      },
+      {
+        "frame": 182,
+        "time": 7.583333333333333,
+        "action_time": 7.333333333333333,
+        "sentinel": [
+          -6.319084857566111,
+          54.16288135610457,
+          122.21497680361367
+        ],
+        "voidseer": [
+          24.305762884653177,
+          -27.733698962061183,
+          101.31159249045088
+        ]
+      },
+      {
+        "frame": 183,
+        "time": 7.625,
+        "action_time": 7.375,
+        "sentinel": [
+          -5.77627587538521,
+          52.58463500658198,
+          119.52673676114536
+        ],
+        "voidseer": [
+          28.613160504280643,
+          -29.912474803941556,
+          101.34358350189724
+        ]
+      },
+      {
+        "frame": 184,
+        "time": 7.666666666666667,
+        "action_time": 7.416666666666667,
+        "sentinel": [
+          26.751352991686304,
+          -38.277711663661705,
+          97.90404270727262
+        ],
+        "voidseer": [
+          30.85023079110664,
+          -43.56806168233541,
+          130.73303218607847
+        ]
+      },
+      {
+        "frame": 185,
+        "time": 7.708333333333333,
+        "action_time": 7.458333333333333,
+        "sentinel": [
+          25.171785517753705,
+          -40.32048360714508,
+          96.06013516148475
+        ],
+        "voidseer": [
+          25.577307492899024,
+          -43.04198796856527,
+          145.1540262903981
+        ]
+      },
+      {
+        "frame": 186,
+        "time": 7.75,
+        "action_time": 7.5,
+        "sentinel": [
+          23.470216117207073,
+          -40.08874950996589,
+          91.64603463005632
+        ],
+        "voidseer": [
+          20.526016504375434,
+          -41.29248539900688,
+          160.27837983113665
+        ]
+      },
+      {
+        "frame": 187,
+        "time": 7.791666666666667,
+        "action_time": 7.541666666666667,
+        "sentinel": [
+          23.09472602895312,
+          -39.62834680325008,
+          89.63622625213735
+        ],
+        "voidseer": [
+          18.82938662664276,
+          -39.6358468727258,
+          170.63380075084063
+        ]
+      },
+      {
+        "frame": 188,
+        "time": 7.833333333333333,
+        "action_time": 7.583333333333333,
+        "sentinel": [
+          22.49141769447516,
+          -37.910222484043175,
+          89.1875917540819
+        ],
+        "voidseer": [
+          19.78478305804697,
+          -38.89783307759938,
+          175.5899336006096
+        ]
+      },
+      {
+        "frame": 189,
+        "time": 7.875,
+        "action_time": 7.625,
+        "sentinel": [
+          22.378260235173812,
+          -31.988772815682857,
+          88.53938850720567
+        ],
+        "voidseer": [
+          21.077990133747107,
+          -38.87555318433286,
+          179.75468783002682
+        ]
+      },
+      {
+        "frame": 190,
+        "time": 7.916666666666667,
+        "action_time": 7.666666666666667,
+        "sentinel": [
+          37.716343609903134,
+          -25.823135882573744,
+          101.17149635774167
+        ],
+        "voidseer": [
+          21.91980472452707,
+          -39.957264283111826,
+          183.8450955044888
+        ]
+      },
+      {
+        "frame": 191,
+        "time": 7.958333333333333,
+        "action_time": 7.708333333333333,
+        "sentinel": [
+          67.3929597339716,
+          4.853769772469327,
+          126.08210844493054
+        ],
+        "voidseer": [
+          21.82107554795681,
+          -42.54766135998811,
+          187.7757607430845
+        ]
+      },
+      {
+        "frame": 192,
+        "time": 8.0,
+        "action_time": 7.75,
+        "sentinel": [
+          32.96021002805155,
+          78.14726754047149,
+          167.78359513880093
+        ],
+        "voidseer": [
+          20.820438953966004,
+          -46.50081111654759,
+          190.67727988092037
+        ]
+      },
+      {
+        "frame": 193,
+        "time": 8.041666666666666,
+        "action_time": 7.791666666666666,
+        "sentinel": [
+          -13.965328393493081,
+          80.40163984326634,
+          158.84399174081963
+        ],
+        "voidseer": [
+          19.741048305948595,
+          -51.47906764350989,
+          192.7001372828875
+        ]
+      },
+      {
+        "frame": 194,
+        "time": 8.083333333333334,
+        "action_time": 7.833333333333334,
+        "sentinel": [
+          -41.886884910492384,
+          59.427448764114196,
+          151.64777856887804
+        ],
+        "voidseer": [
+          18.716430660231197,
+          -56.33310865552206,
+          194.61594809649446
+        ]
+      },
+      {
+        "frame": 195,
+        "time": 8.125,
+        "action_time": 7.875,
+        "sentinel": [
+          -57.09707469591338,
+          29.650694666293617,
+          146.0498586611434
+        ],
+        "voidseer": [
+          18.13190225598248,
+          -60.037313760711996,
+          194.72985674366382
+        ]
+      },
+      {
+        "frame": 196,
+        "time": 8.166666666666666,
+        "action_time": 7.916666666666666,
+        "sentinel": [
+          -61.14654761665798,
+          13.640273450976895,
+          138.9245720767947
+        ],
+        "voidseer": [
+          18.48263223909447,
+          -62.843225485122076,
+          189.27268735489056
+        ]
+      },
+      {
+        "frame": 197,
+        "time": 8.208333333333334,
+        "action_time": 7.958333333333334,
+        "sentinel": [
+          -61.07699897444128,
+          7.214483928427484,
+          133.63451859871253
+        ],
+        "voidseer": [
+          20.204588948434548,
+          -67.12939579081373,
+          173.9758230400094
+        ]
+      },
+      {
+        "frame": 198,
+        "time": 8.25,
+        "action_time": 8.0,
+        "sentinel": [
+          -59.70377603143534,
+          2.502961731837246,
+          129.96771879548976
+        ],
+        "voidseer": [
+          20.734222395750407,
+          -72.27824882732949,
+          152.75747434574959
+        ]
+      },
+      {
+        "frame": 199,
+        "time": 8.291666666666666,
+        "action_time": 8.041666666666666,
+        "sentinel": [
+          -55.98194451295794,
+          -0.0743067961818511,
+          127.86458210740707
+        ],
+        "voidseer": [
+          16.756625446967575,
+          -74.80185866214411,
+          137.64570970891018
+        ]
+      },
+      {
+        "frame": 200,
+        "time": 8.333333333333334,
+        "action_time": 8.083333333333334,
+        "sentinel": [
+          -51.72531081211551,
+          -2.294230852138952,
+          124.71118504781826
+        ],
+        "voidseer": [
+          11.087388805513456,
+          -74.5537629553768,
+          128.5950469283526
+        ]
+      },
+      {
+        "frame": 201,
+        "time": 8.375,
+        "action_time": 8.125,
+        "sentinel": [
+          -49.324979304725204,
+          -4.115707148990786,
+          120.5736043549262
+        ],
+        "voidseer": [
+          7.908537475151888,
+          -72.02977905664973,
+          119.61877121043972
+        ]
+      },
+      {
+        "frame": 202,
+        "time": 8.416666666666666,
+        "action_time": 8.166666666666666,
+        "sentinel": [
+          -48.53653229966244,
+          -5.442408036432742,
+          117.87851655578427
+        ],
+        "voidseer": [
+          11.513227604747783,
+          -66.6547782247975,
+          110.90983926058222
+        ]
+      },
+      {
+        "frame": 203,
+        "time": 8.458333333333334,
+        "action_time": 8.208333333333334,
+        "sentinel": [
+          -48.22212824212299,
+          -6.214944539647906,
+          115.77230008541949
+        ],
+        "voidseer": [
+          18.126757403296153,
+          -58.016047349102614,
+          103.28602668804103
+        ]
+      },
+      {
+        "frame": 204,
+        "time": 8.5,
+        "action_time": 8.25,
+        "sentinel": [
+          -48.30755790912032,
+          -6.378407270924519,
+          114.60822086556566
+        ],
+        "voidseer": [
+          23.37883282850271,
+          -47.68795442244624,
+          97.47990245968973
+        ]
+      },
+      {
+        "frame": 205,
+        "time": 8.541666666666666,
+        "action_time": 8.291666666666666,
+        "sentinel": [
+          -48.64228839156513,
+          -6.242970432171152,
+          114.22098979380297
+        ],
+        "voidseer": [
+          27.005435762534148,
+          -37.36485194106209,
+          94.8119352916691
+        ]
+      },
+      {
+        "frame": 206,
+        "time": 8.583333333333334,
+        "action_time": 8.333333333333334,
+        "sentinel": [
+          -49.02492770432677,
+          -6.033546627380229,
+          114.28133892465326
+        ],
+        "voidseer": [
+          28.846999150644535,
+          -30.695056306669855,
+          95.06479749751864
+        ]
+      },
+      {
+        "frame": 207,
+        "time": 8.625,
+        "action_time": 8.375,
+        "sentinel": [
+          -49.248050249822754,
+          -5.570981976152726,
+          114.66021800312926
+        ],
+        "voidseer": [
+          29.139428773424072,
+          -27.31774641343476,
+          96.42246833128604
+        ]
+      },
+      {
+        "frame": 208,
+        "time": 8.666666666666666,
+        "action_time": 8.416666666666666,
+        "sentinel": [
+          -49.73255229971818,
+          -5.1155906462701495,
+          115.3338579094033
+        ],
+        "voidseer": [
+          29.3630671035163,
+          -25.65080580039593,
+          98.03178992906878
+        ]
+      },
+      {
+        "frame": 209,
+        "time": 8.708333333333334,
+        "action_time": 8.458333333333334,
+        "sentinel": [
+          -50.6513348094534,
+          -4.920919289692144,
+          116.10653995883989
+        ],
+        "voidseer": [
+          30.192706811538528,
+          -25.48454802606925,
+          99.35518963121268
+        ]
+      },
+      {
+        "frame": 210,
+        "time": 8.75,
+        "action_time": 8.5,
+        "sentinel": [
+          -51.776606290991595,
+          -4.593536428745903,
+          116.77535948950954
+        ],
+        "voidseer": [
+          31.408174777779323,
+          -26.05919527038961,
+          100.40544541328188
+        ]
+      },
+      {
+        "frame": 211,
+        "time": 8.791666666666666,
+        "action_time": 8.541666666666666,
+        "sentinel": [
+          -52.63925926880725,
+          -3.6339597560174433,
+          117.13862401387289
+        ],
+        "voidseer": [
+          32.65721233609929,
+          -26.730156833916595,
+          101.27257586527963
+        ]
+      },
+      {
+        "frame": 212,
+        "time": 8.833333333333334,
+        "action_time": 8.583333333333334,
+        "sentinel": [
+          37.260164221694396,
+          -32.78512044306754,
+          97.50866980455828
+        ],
+        "voidseer": [
+          37.53453151487014,
+          12.521370031036469,
+          152.9207609075233
+        ]
+      },
+      {
+        "frame": 213,
+        "time": 8.875,
+        "action_time": 8.625,
+        "sentinel": [
+          37.43081260381055,
+          -33.59048434477622,
+          94.5563336736723
+        ],
+        "voidseer": [
+          34.39233858056707,
+          8.790736703224937,
+          152.25667479568745
+        ]
+      },
+      {
+        "frame": 214,
+        "time": 8.916666666666666,
+        "action_time": 8.666666666666666,
+        "sentinel": [
+          37.29918311833663,
+          -32.636447274900156,
+          90.76817453944668
+        ],
+        "voidseer": [
+          29.91313958024267,
+          -9.457218609528567,
+          147.38471400764962
+        ]
+      },
+      {
+        "frame": 215,
+        "time": 8.958333333333334,
+        "action_time": 8.708333333333334,
+        "sentinel": [
+          36.89385348027227,
+          -31.228845735879784,
+          90.92638870710397
+        ],
+        "voidseer": [
+          -30.999762697687686,
+          -62.378199633958886,
+          153.3713997438345
+        ]
+      },
+      {
+        "frame": 216,
+        "time": 9.0,
+        "action_time": 8.75,
+        "sentinel": [
+          34.90667002966558,
+          -28.68797788129307,
+          90.91641771844473
+        ],
+        "voidseer": [
+          -46.715682006472264,
+          -57.81877278168679,
+          153.07503346755823
+        ]
+      },
+      {
+        "frame": 217,
+        "time": 9.041666666666666,
+        "action_time": 8.791666666666666,
+        "sentinel": [
+          33.64447750500818,
+          -24.182123903926332,
+          89.30142297791444
+        ],
+        "voidseer": [
+          -48.50819527966996,
+          -55.638163552845825,
+          152.88113282813498
+        ]
+      },
+      {
+        "frame": 218,
+        "time": 9.083333333333334,
+        "action_time": 8.833333333333334,
+        "sentinel": [
+          49.964481820634745,
+          -5.997968506338612,
+          94.69632157324
+        ],
+        "voidseer": [
+          -49.091194322658,
+          -53.811968159243435,
+          152.4361337847971
+        ]
+      },
+      {
+        "frame": 219,
+        "time": 9.125,
+        "action_time": 8.875,
+        "sentinel": [
+          68.11966444165046,
+          59.740973684321304,
+          111.42032709598135
+        ],
+        "voidseer": [
+          -49.4997861649332,
+          -52.48540257175827,
+          151.6486502837955
+        ]
+      },
+      {
+        "frame": 220,
+        "time": 9.166666666666666,
+        "action_time": 8.916666666666666,
+        "sentinel": [
+          3.5349133786805,
+          96.27990769965382,
+          113.93557208349927
+        ],
+        "voidseer": [
+          -49.813616816891965,
+          -51.24737523476149,
+          149.7389469714833
+        ]
+      },
+      {
+        "frame": 221,
+        "time": 9.208333333333334,
+        "action_time": 8.958333333333334,
+        "sentinel": [
+          -40.92539774457478,
+          72.50247706249277,
+          113.56400954570039
+        ],
+        "voidseer": [
+          -49.28187291932312,
+          -49.40340390995617,
+          147.25306671867725
+        ]
+      },
+      {
+        "frame": 222,
+        "time": 9.25,
+        "action_time": 9.0,
+        "sentinel": [
+          -53.780272044508365,
+          44.457146020386084,
+          114.2559396731835
+        ],
+        "voidseer": [
+          -46.06734511149233,
+          -47.12825391413658,
+          143.7603927273938
+        ]
+      },
+      {
+        "frame": 223,
+        "time": 9.291666666666666,
+        "action_time": 9.041666666666666,
+        "sentinel": [
+          -55.67444909567567,
+          13.664055584358028,
+          115.17511167556371
+        ],
+        "voidseer": [
+          -39.41542946970242,
+          -44.6209891797366,
+          138.94439803934083
+        ]
+      },
+      {
+        "frame": 224,
+        "time": 9.333333333333334,
+        "action_time": 9.083333333333334,
+        "sentinel": [
+          -56.48740298188292,
+          -2.867506386704484,
+          116.54449798789645
+        ],
+        "voidseer": [
+          -31.619270005503438,
+          -42.241454873217904,
+          133.30915770823782
+        ]
+      },
+      {
+        "frame": 225,
+        "time": 9.375,
+        "action_time": 9.125,
+        "sentinel": [
+          -57.15267885947799,
+          -11.98041031292869,
+          116.58456365705823
+        ],
+        "voidseer": [
+          -23.197563126323075,
+          -39.92821661518124,
+          127.24293770520235
+        ]
+      },
+      {
+        "frame": 226,
+        "time": 9.416666666666666,
+        "action_time": 9.166666666666666,
+        "sentinel": [
+          -58.54665987417937,
+          -15.56231126288828,
+          116.52342784938287
+        ],
+        "voidseer": [
+          -12.65272048531142,
+          -37.04146697035877,
+          121.16742008466514
+        ]
+      },
+      {
+        "frame": 227,
+        "time": 9.458333333333334,
+        "action_time": 9.208333333333334,
+        "sentinel": [
+          -57.925045189530636,
+          -16.775387162180614,
+          116.38691035023984
+        ],
+        "voidseer": [
+          -1.4838384768822266,
+          -34.43606822530326,
+          115.35314543059187
+        ]
+      },
+      {
+        "frame": 228,
+        "time": 9.5,
+        "action_time": 9.25,
+        "sentinel": [
+          -55.118540954509584,
+          -16.359322458953393,
+          115.80584142355491
+        ],
+        "voidseer": [
+          6.926067751530468,
+          -32.66218520366962,
+          110.1929679881066
+        ]
+      },
+      {
+        "frame": 229,
+        "time": 9.541666666666666,
+        "action_time": 9.291666666666666,
+        "sentinel": [
+          -52.41598219983412,
+          -16.08979336785304,
+          114.64454151820959
+        ],
+        "voidseer": [
+          12.816525308258747,
+          -31.791170676979092,
+          105.97786030664645
+        ]
+      },
+      {
+        "frame": 230,
+        "time": 9.583333333333334,
+        "action_time": 9.333333333333334,
+        "sentinel": [
+          -49.88679561465257,
+          -15.33918202107381,
+          113.57159953902949
+        ],
+        "voidseer": [
+          17.63171431112329,
+          -31.084961922234882,
+          103.21561975412267
+        ]
+      },
+      {
+        "frame": 231,
+        "time": 9.625,
+        "action_time": 9.375,
+        "sentinel": [
+          -47.0636167947725,
+          -14.158049260125278,
+          112.42124722875073
+        ],
+        "voidseer": [
+          21.59678409975635,
+          -30.062692835800583,
+          102.00917934682695
+        ]
+      },
+      {
+        "frame": 232,
+        "time": 9.666666666666666,
+        "action_time": 9.416666666666666,
+        "sentinel": [
+          -45.20449157481676,
+          -12.950403944724865,
+          111.26431367154849
+        ],
+        "voidseer": [
+          24.769696992855017,
+          -29.3704159542727,
+          101.31690662209031
+        ]
+      },
+      {
+        "frame": 233,
+        "time": 9.708333333333334,
+        "action_time": 9.458333333333334,
+        "sentinel": [
+          -44.610614977428014,
+          -11.49785849684121,
+          110.54047693055426
+        ],
+        "voidseer": [
+          26.186284601587886,
+          -29.42741622371132,
+          101.15851095087771
+        ]
+      },
+      {
+        "frame": 234,
+        "time": 9.75,
+        "action_time": 9.5,
+        "sentinel": [
+          -44.84137783369687,
+          -9.998332438039895,
+          109.9697815182302
+        ],
+        "voidseer": [
+          26.830816250114083,
+          -29.754351257112432,
+          101.12128312871751
+        ]
+      },
+      {
+        "frame": 235,
+        "time": 9.791666666666666,
+        "action_time": 9.541666666666666,
+        "sentinel": [
+          -45.188191150076335,
+          -8.84155941613713,
+          109.57664343117673
+        ],
+        "voidseer": [
+          27.35619878370278,
+          -30.05978840365077,
+          101.1239576065037
+        ]
+      },
+      {
+        "frame": 236,
+        "time": 9.833333333333334,
+        "action_time": 9.583333333333334,
+        "sentinel": [
+          -45.595410386820504,
+          -7.8796939848512935,
+          109.2386173083374
+        ],
+        "voidseer": [
+          27.798724611090506,
+          -30.316981076844144,
+          101.1829128262441
+        ]
+      },
+      {
+        "frame": 237,
+        "time": 9.875,
+        "action_time": 9.625,
+        "sentinel": [
+          -46.12203549244788,
+          -6.96879284837863,
+          108.9073352692478
+        ],
+        "voidseer": [
+          28.058688979689464,
+          -30.530017451095013,
+          101.25843941710261
+        ]
+      },
+      {
+        "frame": 238,
+        "time": 9.916666666666666,
+        "action_time": 9.666666666666666,
+        "sentinel": [
+          -46.79631715276443,
+          -6.3557829617393224,
+          108.66471481079626
+        ],
+        "voidseer": [
+          28.089542359506083,
+          -30.66933261124464,
+          101.2989300261287
+        ]
+      },
+      {
+        "frame": 239,
+        "time": 9.958333333333334,
+        "action_time": 9.708333333333334,
+        "sentinel": [
+          -47.59136284354781,
+          -6.080903315381132,
+          108.53347756040998
+        ],
+        "voidseer": [
+          28.014795266381782,
+          -30.77360966464525,
+          101.3257148742084
+        ]
+      }
+    ],
+    "method": "Native Unreal 3D; real skeletal meshes, evaluated native animation, physical camera transforms; no image-to-video",
+    "licensing": "Paragon source remains inside Unreal; only rendered film is delivered. See CREDITI-UNREAL.md.",
+    "contact": {
+      "hand_l": [
+        -125.30169764159481,
+        -48.99366160481718,
+        176.47532887385947
+      ],
+      "impact": [
+        -101.30169764159481,
+        -48.99366160481718,
+        184.47532887385947
+      ]
+    },
+    "body_animation": {
+      "changing_body_frames": 234,
+      "transitions": 239,
+      "pause_seconds": 0.25,
+      "measurement": "right-hand positions relative to actor roots; camera excluded"
+    }
+  },
+  "audio": {
+    "events": [
+      {
+        "source": "Draw_Weapon_Metal_1-1",
+        "at": 0.03,
+        "gain": 0.17,
+        "pan": -0.35,
+        "speed": 0.9,
+        "reverse": false,
+        "sha256": "55fd0d463884116604e60bdf411dab2febde07126db696328eec15b1409e6b0f"
+      },
+      {
+        "source": "Whoosh_4-1",
+        "at": 0.53,
+        "gain": 0.24,
+        "pan": 0.3,
+        "speed": 1.1,
+        "reverse": false,
+        "sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+      },
+      {
+        "source": "Shield_Metal_Impact_1-3",
+        "at": 1.1,
+        "gain": 0.16,
+        "pan": -0.3,
+        "speed": 0.9,
+        "reverse": false,
+        "sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+      },
+      {
+        "source": "Shield_Metal_Impact_1-3",
+        "at": 1.35,
+        "gain": 0.48,
+        "pan": -0.3,
+        "speed": 0.9,
+        "reverse": false,
+        "sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+      },
+      {
+        "source": "Rock_Impact_11",
+        "at": 1.35,
+        "gain": 0.19,
+        "pan": -0.25,
+        "speed": 0.85,
+        "reverse": false,
+        "sha256": "01f1ae3bcb06593ded87cadf859614a7e8a7537e7be04e9447760e7d39010519"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 1.78,
+        "gain": 0.29,
+        "pan": -0.35,
+        "speed": 1.05,
+        "reverse": false,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Whoosh_4-1",
+        "at": 2.76,
+        "gain": 0.25,
+        "pan": 0.2,
+        "speed": 0.9,
+        "reverse": false,
+        "sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 3.17,
+        "gain": 0.34,
+        "pan": -0.2,
+        "speed": 1.12,
+        "reverse": false,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Whoosh_4-1",
+        "at": 3.88,
+        "gain": 0.25,
+        "pan": 0.4,
+        "speed": 0.85,
+        "reverse": false,
+        "sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+      },
+      {
+        "source": "Shield_Metal_Impact_1-3",
+        "at": 4.4,
+        "gain": 0.44,
+        "pan": -0.2,
+        "speed": 1.0,
+        "reverse": false,
+        "sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 4.7,
+        "gain": 0.28,
+        "pan": -0.3,
+        "speed": 1.1,
+        "reverse": false,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Whoosh_4-1",
+        "at": 5.82,
+        "gain": 0.31,
+        "pan": -0.2,
+        "speed": 1.1,
+        "reverse": false,
+        "sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+      },
+      {
+        "source": "Punch_2-1",
+        "at": 6.1,
+        "gain": 0.35,
+        "pan": 0.25,
+        "speed": 0.95,
+        "reverse": false,
+        "sha256": "80b625a00e81dfaaab2cdd25f9674dd7656387a9b0b1c43da277235ae7c1b115"
+      },
+      {
+        "source": "Rock_Impact_37",
+        "at": 7.2,
+        "gain": 0.3,
+        "pan": 0.3,
+        "speed": 0.8,
+        "reverse": false,
+        "sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 7.74,
+        "gain": 0.3,
+        "pan": -0.25,
+        "speed": 1.05,
+        "reverse": false,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Whoosh_4-1",
+        "at": 8.55,
+        "gain": 0.25,
+        "pan": 0.4,
+        "speed": 0.9,
+        "reverse": false,
+        "sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 9.28,
+        "gain": 0.3,
+        "pan": -0.2,
+        "speed": 1.1,
+        "reverse": false,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Shield_Metal_Impact_1-3",
+        "at": 9.8,
+        "gain": 0.4,
+        "pan": -0.2,
+        "speed": 0.9,
+        "reverse": false,
+        "sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+      },
+      {
+        "source": "Blacksmithing_1-1",
+        "at": 10.0,
+        "gain": 0.36,
+        "pan": 0.0,
+        "speed": 0.68,
+        "reverse": false,
+        "sha256": "2833ab64bd0b531776bdeb49a5038b415f88b5b057c1c9e4a6012ddd5ace1dcc"
+      },
+      {
+        "source": "Rock_Impact_37",
+        "at": 10.0,
+        "gain": 0.28,
+        "pan": 0.0,
+        "speed": 0.62,
+        "reverse": false,
+        "sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+      }
+    ],
+    "voice": {
+      "path": "E:\\PROGETTI\\ragequit\\art\\intro\\announcer-v2.wav",
+      "sha256": "557e9425ae6b795d48eab032983b23ff86fc4306e175aed7443bab84878e9de4",
+      "at": 10.1
+    },
+    "sample_rate": 48000,
+    "duration": 14.25,
+    "peak": 0.6073226135971097,
+    "samples_at_or_above_1": 0
+  },
+  "decode": "Full FFmpeg decode passed",
+  "artistic_approval": "rejected D0934",
+  "size": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "duration": 14.25,
+  "image_to_video_used": false,
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 175104,
+        "duration": "14.250000",
+        "bit_rate": "5935804",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "342",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc62.11.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 684000,
+        "duration": "14.250000",
+        "bit_rate": "212507",
+        "nb_frames": "669",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "E:\\PROGETTI\\ragequit\\art\\intro\\istante-prima-20261021\\ragequit-istante-prima-v2.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "14.250000",
+      "size": "10963296",
+      "bit_rate": "6154832",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.3.100"
+      }
+    }
+  },
+  "script_sha256": {
+    "render-intro-istante.py": "0d1e46ccd5fa46e580e87876ee1efc00095d7e1abc937ef2086dff3e123956e0",
+    "assemble-intro-istante.py": "f93c6f805c9efeb408423b3319ef108d8af114251694edf77a77d08d8df601a2"
+  },
+  "installed_movie_sha256": "007da5f972d870e42f74f9c0163aab5b2c4d9c5ef53a9bc7adde3188fd3c187d"
+}

@@ -1,0 +1,84 @@
+frame:0    pts:31232   pts_time:2.033333
+lavfi.scd.mafd=21.790
+lavfi.scd.score=21.790
+lavfi.scd.time=2.033333
+frame:1    pts:37888   pts_time:2.466667
+lavfi.scd.mafd=28.565
+lavfi.scd.score=28.565
+lavfi.scd.time=2.466667
+frame:2    pts:150016  pts_time:9.766667
+lavfi.scd.mafd=26.949
+lavfi.scd.score=18.832
+lavfi.scd.time=9.766667
+frame:3    pts:202752  pts_time:13.2
+lavfi.scd.mafd=24.092
+lavfi.scd.score=21.606
+lavfi.scd.time=13.2
+frame:4    pts:222208  pts_time:14.466667
+lavfi.scd.mafd=13.466
+lavfi.scd.score=8.657
+lavfi.scd.time=14.466667
+frame:5    pts:224768  pts_time:14.633333
+lavfi.scd.mafd=26.015
+lavfi.scd.score=9.825
+lavfi.scd.time=14.633333
+frame:6    pts:225280  pts_time:14.666667
+lavfi.scd.mafd=15.676
+lavfi.scd.score=10.339
+lavfi.scd.time=14.666667
+frame:7    pts:258560  pts_time:16.833333
+lavfi.scd.mafd=24.963
+lavfi.scd.score=22.254
+lavfi.scd.time=16.833333
+frame:8    pts:285696  pts_time:18.6
+lavfi.scd.mafd=20.471
+lavfi.scd.score=19.032
+lavfi.scd.time=18.6
+frame:9    pts:301056  pts_time:19.6
+lavfi.scd.mafd=17.730
+lavfi.scd.score=15.456
+lavfi.scd.time=19.6
+frame:10   pts:341504  pts_time:22.233333
+lavfi.scd.mafd=13.580
+lavfi.scd.score=11.562
+lavfi.scd.time=22.233333
+frame:11   pts:378368  pts_time:24.633333
+lavfi.scd.mafd=26.358
+lavfi.scd.score=19.641
+lavfi.scd.time=24.633333
+frame:12   pts:378880  pts_time:24.666667
+lavfi.scd.mafd=9.680
+lavfi.scd.score=9.680
+lavfi.scd.time=24.666667
+frame:13   pts:442368  pts_time:28.8
+lavfi.scd.mafd=21.723
+lavfi.scd.score=19.508
+lavfi.scd.time=28.8
+frame:14   pts:445440  pts_time:29
+lavfi.scd.mafd=24.113
+lavfi.scd.score=22.355
+lavfi.scd.time=29
+frame:15   pts:445952  pts_time:29.033333
+lavfi.scd.mafd=54.143
+lavfi.scd.score=30.030
+lavfi.scd.time=29.033333
+frame:16   pts:446976  pts_time:29.1
+lavfi.scd.mafd=15.961
+lavfi.scd.score=14.077
+lavfi.scd.time=29.1
+frame:17   pts:448000  pts_time:29.166667
+lavfi.scd.mafd=12.621
+lavfi.scd.score=9.176
+lavfi.scd.time=29.166667
+frame:18   pts:462848  pts_time:30.133333
+lavfi.scd.mafd=13.252
+lavfi.scd.score=10.213
+lavfi.scd.time=30.133333
+frame:19   pts:502784  pts_time:32.733333
+lavfi.scd.mafd=13.735
+lavfi.scd.score=12.798
+lavfi.scd.time=32.733333
+frame:20   pts:567296  pts_time:36.933333
+lavfi.scd.mafd=42.715
+lavfi.scd.score=42.646
+lavfi.scd.time=36.933333

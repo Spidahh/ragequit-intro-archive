@@ -1,0 +1,272 @@
+{
+  "request": "D0934",
+  "direction": "illustrata",
+  "artistic_approval": "pending author review",
+  "installed": false,
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\illustrata\\ragequit-illustrata-v1.mp4",
+  "sha256": "02bdc739dbe9c6ef1a4218a9cddee98af608645e9196ff4b3677ce4f757b00b1",
+  "action_seconds": 4.65,
+  "duration": 8.98,
+  "shots": [
+    [
+      "a",
+      0.35,
+      5.0
+    ]
+  ],
+  "audio_events": [
+    {
+      "source": "Whoosh_4-1",
+      "at": 0.0,
+      "gain": 0.2,
+      "pan": 0.3,
+      "speed": 0.85,
+      "source_sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+    },
+    {
+      "source": "Shield_Metal_Impact_1-3",
+      "at": 0.22,
+      "gain": 0.32,
+      "pan": -0.25,
+      "speed": 0.9,
+      "source_sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+    },
+    {
+      "source": "Whoosh_4-1",
+      "at": 1.55,
+      "gain": 0.2,
+      "pan": 0.15,
+      "speed": 0.95,
+      "source_sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+    },
+    {
+      "source": "Whoosh_1-1",
+      "at": 2.45,
+      "gain": 0.38,
+      "pan": -0.2,
+      "speed": 0.95,
+      "source_sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+    },
+    {
+      "source": "Shield_Metal_Impact_1-3",
+      "at": 2.88,
+      "gain": 0.42,
+      "pan": 0.0,
+      "speed": 0.88,
+      "source_sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+    },
+    {
+      "source": "Whoosh_1-1",
+      "at": 3.6,
+      "gain": 0.18,
+      "pan": 0.2,
+      "speed": 0.9,
+      "source_sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+    },
+    {
+      "source": "Blacksmithing_1-1",
+      "at": 4.73,
+      "gain": 0.27,
+      "pan": 0.0,
+      "speed": 0.72,
+      "source_sha256": "2833ab64bd0b531776bdeb49a5038b415f88b5b057c1c9e4a6012ddd5ace1dcc"
+    },
+    {
+      "source": "Rock_Impact_37",
+      "at": 4.73,
+      "gain": 0.2,
+      "pan": 0.0,
+      "speed": 0.62,
+      "source_sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+    }
+  ],
+  "voice": "E:\\PROGETTI\\ragequit\\art\\intro\\announcer-v2.wav",
+  "voice_sha256": "557e9425ae6b795d48eab032983b23ff86fc4306e175aed7443bab84878e9de4",
+  "audio_peak": 0.6108844550293145,
+  "audio_samples_at_or_above_1": 0,
+  "decode": "full FFmpeg decode passed",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "color_range": "tv",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 137984,
+        "duration": "8.983333",
+        "bit_rate": "17895970",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "539",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc62.11.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 431040,
+        "duration": "8.980000",
+        "bit_rate": "206635",
+        "nb_frames": "422",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\illustrata\\ragequit-illustrata-v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "8.983333",
+      "size": "20343702",
+      "bit_rate": "18116841",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.3.100"
+      }
+    }
+  },
+  "installed_intro_sha256": "007da5f972d870e42f74f9c0163aab5b2c4d9c5ef53a9bc7adde3188fd3c187d",
+  "native_resolution_boundary": "832x480 animation source, RIFE intermediate frames, Lanczos upscale to 1920x1080. Not native 1080p.",
+  "source_receipts": {
+    "a": {
+      "request": "D0934",
+      "provider": "prithivMLmods/Wan2.2-Fast",
+      "model": "Wan2.2 I2V 14B, Lightning LoRA",
+      "spend": 0,
+      "image": "art\\intro\\alternative-20261021\\illustrata\\keyframe-a.png",
+      "image_sha256": "86babf83dd4ff4a1b25b69148ca8cbdd9125df3cdc46442916a4114247afb323",
+      "prompt": "A professionally animated hand-painted dark fantasy title sequence. Keep the exact two characters, their costumes, weapons, faces, restrained ivory black wine-red and violet palette, visible ink strokes and brush texture of the reference image. Smooth continuous articulated animation, not a still picture moving. The armored blond female guardian on the left advances with a forceful diagonal axe swing from high left to low right. The hooded bearded mage on the right leans back and sidesteps to avoid the blade, then thrusts his arm forward to send a compact violet wave at her shield. The guardian pivots and catches the wave on the shield, her whole body visibly taking the impact and recovering. Ink and wine-red paint follow the blade's actual trajectory and violet brush marks follow the spell; they never cover or melt the faces or the weapons. Grounded footwork, coherent functional grip, natural hair and cloth follow-through, a clear beginning middle and end in one continuous shot. Camera tracks sideways slightly with the axe swing and stays wide enough to show both bodies. Strong silhouettes and controlled motion with professional animation timing. No morphing between characters, no new weapons, no unmotivated transitions, no slow motion, no freeze frame, no cuts, no typography, no logo.\n",
+      "steps": 4,
+      "seconds_requested": 5.0,
+      "seed": 823,
+      "status": "completed",
+      "time": "2026-10-21T23:51:42",
+      "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\illustrata\\a-native.mp4",
+      "sha256": "e72dad2520047d0adaae8cbb5ba3565350521b140bf24886098cc67afb02d4b1",
+      "provider_metadata": {
+        "seed": 823
+      }
+    }
+  },
+  "interpolation_receipts": {
+    "a": {
+      "method": "RIFE v4.6, per shot, no interpolation across cuts",
+      "source": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\illustrata\\a-native.mp4",
+      "source_sha256": "e72dad2520047d0adaae8cbb5ba3565350521b140bf24886098cc67afb02d4b1",
+      "native_fps": 16.0,
+      "native_frames": 81,
+      "interpolated_frames": 304,
+      "output_fps": 60,
+      "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\illustrata\\a-smooth.mp4",
+      "output_sha256": "1e1fd25f74cd5789a753eb9f364396e4cbbbc89c67afa035e83381a779b31ce9",
+      "quality_boundary": "Temporal interpolation does not correct choreography or guarantee artistic quality."
+    }
+  },
+  "tools": {
+    "imagegen": "built-in keyframe generation",
+    "animation": "hosted Wan2.2 14B and existing local FastWan 5B as recorded per shot",
+    "interpolation": "RIFE v4.6, per shot, 60 Hz",
+    "finishing": "FFmpeg, original logo and accepted announcer, owned Foley"
+  },
+  "script_sha256": "c9febc97f6c9d7c0394870c46e2564fae611013da3ea232221b7a39b12324885"
+}

@@ -1,0 +1,20 @@
+{
+  "request": "D0949/D0955",
+  "result": {
+    "prompt_id": "64b022e5-0df1-41d0-a4a5-8175ae511188",
+    "number": 0,
+    "node_errors": {}
+  },
+  "http_status": 200,
+  "seed": 144713,
+  "seconds": 5,
+  "size": [
+    1024,
+    576
+  ],
+  "spend": 0,
+  "time": "2026-10-22T08:21:25",
+  "source": "Comfy-Org official LTX-2.3 T2V workflow",
+  "changes": "Prompt enhancement omitted; conditioning is text-only; no image guide; same two-stage sigma schedules.",
+  "prompt_sha256": "2b33504af5bfa45bc8986eac8b85339bb7bcf738041b6818703cc94ca46d4c62"
+}

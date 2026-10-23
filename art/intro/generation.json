@@ -1,0 +1,75 @@
+{
+  "status": "Proposta v3 da vedere e ascoltare",
+  "replaces": "V2 audio bocciato D0637 D0638",
+  "image": {
+    "tool": "built-in imagegen",
+    "prompt_file": "image-prompt.txt"
+  },
+  "motion": {
+    "model": "Lightricks/LTX-Video-0.9.5",
+    "execution": "local RTX4090",
+    "seed": 217,
+    "steps": 40,
+    "frames": 73,
+    "native_fps": 24,
+    "prompt_file": "fight-prompt.txt",
+    "interpolation": "RIFE ncnn Vulkan rife-v4.6, 110 frames encoded at60fps",
+    "speed_multiplier": 1.659
+  },
+  "voice": {
+    "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base (clone of announcer-333.wav, the voice of the 34 announcer lines)",
+    "seed": 367,
+    "text": "Welcome to Rage quit! ... Frag them all!",
+    "made_by": "tools/create-announcer-pack.py --intro --device cpu",
+    "processing": "the EFFECT chain of create-announcer-pack.py (pitch 0.707, tempo 1.08, formants shifted, EQ, compression, soft clip, loudnorm)",
+    "heard": "Welcome to Rage Quit.  Frag them all! (faster-whisper small)",
+    "date": "2026-10-22",
+    "request": "D0960",
+    "replaces": "the Video 1 VoiceDesign take seed 333 (voice-process-v2), the old voice"
+  },
+  "logo": {
+    "letters": "art/ui/menu/T_UI_Logo.png",
+    "slash": "art/ui/menu/T_UI_LogoSlash.png"
+  },
+  "final": {
+    "file": "ragequit-intro-v3.mp4",
+    "width": 1280,
+    "height": 720,
+    "fps": 60,
+    "audio_sample_rate": 48000,
+    "channels": 2,
+    "duration_seconds": 6.2,
+    "audio_bitrate": 256000
+  },
+  "verification": {
+    "processed_voice_transcription": "Welcome to Rage Quit, Frag them all!",
+    "recognizer": "Whisper small",
+    "author_approval": "Pending",
+    "first_final_mix_transcription": "Welcome to Rage Quit, fry them all!",
+    "note": "Whisper still confuses FRAG with FRY on the mixed audio; source and earlier voice-only transcription were correct. Author listening required.",
+    "final_mix_transcription": "Welcome to Rage Quit! Fry them all!",
+    "audio_listening_by_author": "Pending v3",
+    "decode": "ffmpeg full decode without errors"
+  },
+  "sha256": {
+    "announcer-333.wav": "06ee234b4e470745af8bd8aa356d88f3bb705728dcfbdb31fe16cbf2915c6165",
+    "announcer-v2.wav": "a882a9960a58475be8e95e1131061580ac03f7c18fdbb710b4018f757de2f849",
+    "duel-keyframe-v2.png": "563cc0e54fb480f4b5999770d7f62fcc084c3454e868859ace4f27e9e931dbef",
+    "fight-217.mp4": "fdcc4a0ae415e9acb900007d3f77a25f9d2805931493d8c5d25e9f88aea7d5eb",
+    "fight-fast-60.mp4": "6006282e2b0bbcb004c25270d71ddb083d0a7d14807466bd6b35b4b3a44450b0",
+    "fight-prompt.txt": "a3134c6aff1a7a4cf8f6e35e429cfe4c7f24d05aeb0cf028827f733bec531d0e",
+    "image-prompt.txt": "612481cbfc1628e326d4cc3f9ee38e2c1f40688c7d2bceac8dff658a0599ef3e",
+    "ragequit-intro-v3.mp4": "007da5f972d870e42f74f9c0163aab5b2c4d9c5ef53a9bc7adde3188fd3c187d",
+    "sound-events-v3.json": "6bc0861c20a7a9f1d7d5f72811da5437351e9fd60952a432aa63894c312bbf99",
+    "voice-prompt.txt": "73c6b7c421ef920d9da1f284515de7b63e398f9470a6b9475ecba379071c093d"
+  },
+  "audio_effects": {
+    "pack": "Free Sounds Pack, gia posseduto e presente nel progetto",
+    "source_directory": ".verify/ragequit-unreal/hit-feel-wav-20261010-010346/wav",
+    "events_file": "sound-events-v3.json",
+    "processing": "Attacchi allineati a 0.50 e 1.10 s; fendenti, metallo, legno e urto pesante; brevi riflessioni, nessun drone tonale. Raw WAV e letto misto restano in .verify, solo film renderizzato distribuito.",
+    "license_reference": "DOCUMENTAZIONE/CREDITI-UNREAL.md"
+  },
+  "visual_finish": "Leggero avvicinamento e vignetta; lama rossa entra lateralmente, lettere salgono e appaiono al colpo; scena in ombra dietro al logo.",
+  "voice_note": "ragequit-intro-v3.mp4 / video-1.mp4 / unreal Content/Movies/RagequitIntro.mp4 still carry the old take; the new intro (another session, D0960) takes this file."
+}

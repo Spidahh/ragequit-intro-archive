@@ -1,0 +1,31 @@
+{
+  "request": "D0936",
+  "method": "Continuous PCHIP source-time to output-time mapping; no internal cuts",
+  "source": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\a-native.mp4",
+  "source_sha256": "cc54c6d1e5c20409935fe18a99db775bb4c162cca34fd28a7b32fb2c21ce25a7",
+  "source_seconds": 5.0625,
+  "source_knots": [
+    0.0,
+    0.65,
+    1.25,
+    1.8,
+    3.4,
+    4.95,
+    5.0625
+  ],
+  "output_knots": [
+    0.0,
+    0.46,
+    0.96,
+    1.27,
+    2.04,
+    2.83,
+    2.9
+  ],
+  "interpolation": "RIFE v4.6 120 Hz before remapping, final 60 Hz",
+  "speed_min": 1.1184259606613092,
+  "speed_max": 2.149359159796174,
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\v2\\a-retimed.mp4",
+  "sha256": "abaed3f750c17b7c420f9b2e69049319cfd52ebc51dbe708246548d1d8987fab",
+  "artistic_approval": "pending"
+}

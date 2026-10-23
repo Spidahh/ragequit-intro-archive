@@ -1,0 +1,69 @@
+{
+  "request": "D0639",
+  "video1": "art/intro/video-1.mp4",
+  "video2": "art/intro/video-2.mp4",
+  "references": [
+    ".verify/ragequit-unreal/class-scenes-final-raw/Warmaster_wide.png",
+    ".verify/ragequit-unreal/class-scenes-final-raw/Voidseer_wide.png"
+  ],
+  "characters": {
+    "Warmaster": "Serath, Epic Paragon",
+    "Voidseer": "Gideon, Epic Paragon"
+  },
+  "keyframes": "imagegen, three separately authored reference shots; prompts beside PNGs",
+  "motion": {
+    "model": "FastVideo/FastWan2.2-TI2V-5B-FullAttn-Diffusers",
+    "revision": "3e187042a324f6f5fb68fd22110a78725253de8f",
+    "license": "Apache-2.0",
+    "steps": 3,
+    "frames": 49,
+    "native_fps": 24,
+    "size": [
+      672,
+      384
+    ],
+    "seeds": [
+      311,
+      312,
+      314
+    ],
+    "interpolation": "RIFE v4.6, 60/102/72 frames at 60 FPS, cuts at 1.0 and 2.7 seconds"
+  },
+  "voice": "Same accepted art/intro/announcer-v2.wav; begins 3.4 seconds",
+  "sound": "Owned Free Sounds Pack Foley, original WAVs and separate bed stay in ignored .verify; events in sound-events.json",
+  "research": [
+    "https://forticheprod.com/fortichize/",
+    "https://overwatch.blizzard.com/en-us/media/videos/",
+    "https://github.com/Wan-Video/Wan2.2",
+    "https://huggingface.co/FastVideo/FastWan2.2-TI2V-5B-FullAttn-Diffusers"
+  ],
+  "checks": {
+    "decode": "ffmpeg complete decode passed",
+    "size": [
+      1280,
+      720
+    ],
+    "fps": 60,
+    "duration": 7.7,
+    "audio_peak": 0.6189659833908081,
+    "audio_samples_at_or_above_1": 0,
+    "video1_sha256": "007da5f972d870e42f74f9c0163aab5b2c4d9c5ef53a9bc7adde3188fd3c187d"
+  },
+  "approval": "Video 1 accepted D0639; Video 2 produced for viewing, not accepted yet; not integrated into game",
+  "sha256": {
+    "art\\intro\\video2\\image-a-prompt.txt": "ff1f623893df438e05562bae790404046e1417ba08a7c6d772bdbc8fae4e1534",
+    "art\\intro\\video2\\image-b-prompt.txt": "d9c1e39782948a34f2e92ad5b0e14e0464e6e2ed5a13e85ea1f089625e879dfe",
+    "art\\intro\\video2\\image-c-prompt.txt": "180af1053531f72bb871adc7a8d7ec2dd24c7a2279c74337841e57264ba536ee",
+    "art\\intro\\video2\\motion-a.txt": "80d8ae6dacf03ecfb4472b7b88b23727998cc0973ab99eb058170cf0f24e4cc4",
+    "art\\intro\\video2\\motion-b.txt": "9c5e424eb6c5bd50f5f8d91202b068f56fb43ae0a9911ad8667cb58fcc9b47ae",
+    "art\\intro\\video2\\motion-c.txt": "6782648b3c21527ffee85e7dad4f0f2d6a6e26f1d20a2b387f7af22694358c9d",
+    "art\\intro\\video2\\shot-a.mp4": "c44157583150393cb217094597b9cc0f0f8a60c5182044e2e7d3db5cd2ae8264",
+    "art\\intro\\video2\\shot-a.png": "56dc1d624ce70e8a04388487f24130a594e4d304ff907f4ff3ad9233ca280353",
+    "art\\intro\\video2\\shot-b.mp4": "2d1b6735f77476b73e00fdeaf98df053d498ce907038489b53cbe142bac9441b",
+    "art\\intro\\video2\\shot-b.png": "3e161b0244c41a8367ffad26139392f9a272809ef330daf4b302cba7bfd9f5e5",
+    "art\\intro\\video2\\shot-c.mp4": "9c4e556e1c96bf53079c43f6ff35169d4186bdd39bbca360296f997d183795bd",
+    "art\\intro\\video2\\shot-c.png": "e56c7a8d9383343352db63a3002c25e5f9e6ed2732bfc3dc1ebfe19d81b97eb2",
+    "art\\intro\\video2\\sound-events.json": "2c419ad72ec30008ea88ed4cf13585695f4ebd0ad86691d2a530e3dbcd9f0687",
+    "art\\intro\\video-2.mp4": "d0adb9d82b0043b262d26c86f8380bbe39c8aea71e6a96eab8894e643e53e944"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "request": "D0934",
+  "direction": "corale",
+  "artistic_approval": "Revision requested D0936: slow arm, malformed archer and other imperfections; v1 not approved",
+  "installed": false,
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\ragequit-corale-v1.mp4",
+  "sha256": "68f07b46f2e5df6ee18f06273e84eb9bbe8b58aca0de3763ae8e1fbc97fe1fa1",
+  "action_seconds": 8.16,
+  "duration": 12.49,
+  "shots": [
+    [
+      "a",
+      0.12,
+      4.9
+    ],
+    [
+      "b",
+      0.12,
+      3.5
+    ]
+  ],
+  "audio_events": [
+    {
+      "source": "Whoosh_4-1",
+      "at": 0.18,
+      "gain": 0.19,
+      "pan": 0.3,
+      "speed": 1.1,
+      "source_sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+    },
+    {
+      "source": "Shield_Metal_Impact_1-3",
+      "at": 0.68,
+      "gain": 0.45,
+      "pan": -0.25,
+      "speed": 0.94,
+      "source_sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+    },
+    {
+      "source": "Rock_Impact_11",
+      "at": 0.7,
+      "gain": 0.12,
+      "pan": -0.25,
+      "speed": 1.1,
+      "source_sha256": "01f1ae3bcb06593ded87cadf859614a7e8a7537e7be04e9447760e7d39010519"
+    },
+    {
+      "source": "Draw_Weapon_Metal_1-1",
+      "at": 1.55,
+      "gain": 0.13,
+      "pan": -0.3,
+      "speed": 0.9,
+      "source_sha256": "55fd0d463884116604e60bdf411dab2febde07126db696328eec15b1409e6b0f"
+    },
+    {
+      "source": "Whoosh_1-1",
+      "at": 2.55,
+      "gain": 0.15,
+      "pan": -0.2,
+      "speed": 0.85,
+      "source_sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+    },
+    {
+      "source": "Whoosh_1-1",
+      "at": 4.22,
+      "gain": 0.22,
+      "pan": 0.15,
+      "speed": 1.1,
+      "source_sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+    },
+    {
+      "source": "Whoosh_4-1",
+      "at": 4.9,
+      "gain": 0.16,
+      "pan": -0.35,
+      "speed": 1.2,
+      "source_sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+    },
+    {
+      "source": "Whoosh_1-1",
+      "at": 6.0,
+      "gain": 0.24,
+      "pan": 0.35,
+      "speed": 1.1,
+      "source_sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+    },
+    {
+      "source": "Whoosh_1-1",
+      "at": 7.45,
+      "gain": 0.4,
+      "pan": 0.1,
+      "speed": 0.92,
+      "source_sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+    },
+    {
+      "source": "Rock_Impact_11",
+      "at": 7.65,
+      "gain": 0.12,
+      "pan": -0.2,
+      "speed": 1.15,
+      "source_sha256": "01f1ae3bcb06593ded87cadf859614a7e8a7537e7be04e9447760e7d39010519"
+    },
+    {
+      "source": "Blacksmithing_1-1",
+      "at": 8.24,
+      "gain": 0.27,
+      "pan": 0.0,
+      "speed": 0.72,
+      "source_sha256": "2833ab64bd0b531776bdeb49a5038b415f88b5b057c1c9e4a6012ddd5ace1dcc"
+    },
+    {
+      "source": "Rock_Impact_37",
+      "at": 8.24,
+      "gain": 0.2,
+      "pan": 0.0,
+      "speed": 0.62,
+      "source_sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+    }
+  ],
+  "voice": "E:\\PROGETTI\\ragequit\\art\\intro\\announcer-v2.wav",
+  "voice_sha256": "557e9425ae6b795d48eab032983b23ff86fc4306e175aed7443bab84878e9de4",
+  "audio_peak": 0.6108844550293145,
+  "audio_samples_at_or_above_1": 0,
+  "decode": "full FFmpeg decode passed",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "color_range": "tv",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 192000,
+        "duration": "12.500000",
+        "bit_rate": "9644279",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "750",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc62.11.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 599520,
+        "duration": "12.490000",
+        "bit_rate": "190009",
+        "nb_frames": "587",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\ragequit-corale-v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "12.500000",
+      "size": "15387441",
+      "bit_rate": "9847962",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.3.100"
+      }
+    }
+  },
+  "installed_intro_sha256": "007da5f972d870e42f74f9c0163aab5b2c4d9c5ef53a9bc7adde3188fd3c187d",
+  "native_resolution_boundary": "Native animation dimensions and cadence are in each shot receipt; RIFE intermediate frames and Lanczos upscale to 1920x1080. Not native 1080p.",
+  "source_receipts": {
+    "a": {
+      "request": "D0934",
+      "provider": "prithivMLmods/Wan2.2-Fast",
+      "model": "Wan2.2 I2V 14B, Lightning LoRA",
+      "spend": 0,
+      "image": "art\\intro\\alternative-20261021\\corale\\keyframe-a.png",
+      "image_sha256": "2a2986d5c60849e40165be97c50a04ccd2854f9768879ee2154ae7ed34f18ba1",
+      "prompt": "A continuous professionally animated dark fantasy film shot, preserving the exact hand-painted characters, weapons, colors and arena from the image. Smooth natural movement with weight and coherent anatomy, played in real time. The purple hooded mage on the right swings his forearm forward and launches one compact violet projectile leftward. The armored blond guardian on the left steps into it, raises her large shield, blocks it with a sharp brief violet spark on the SHIELD and visibly recoils through her shoulder and bent knees. She recovers and advances two grounded steps toward the mage while lifting her axe for a counterattack. In the distant background the red-haired archer releases her fully drawn bow once and lowers it; the tall black hooded scythe fighter moves laterally one step. Secondary figures remain in the background and never duplicate. The camera smoothly tracks a small distance right with the guardian, keeping both main fighters and their weapons visible. Cloth and hair trail the movement naturally. One readable complete action with anticipation, contact and follow-through. Restrained dust, no large explosion, no light on hands, no slow motion, no static opening, no freeze frames, no cuts, no camera shakes, no text. Maintain the painted cinematic aesthetic throughout.\n",
+      "steps": 4,
+      "seconds_requested": 5.0,
+      "seed": 721,
+      "status": "completed",
+      "time": "2026-10-21T23:49:44",
+      "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\a-native.mp4",
+      "sha256": "cc54c6d1e5c20409935fe18a99db775bb4c162cca34fd28a7b32fb2c21ce25a7",
+      "provider_metadata": {
+        "seed": 721
+      }
+    },
+    "b": {
+      "request": "D0934",
+      "model": "Lightricks/LTX-Video-0.9.5",
+      "provider": "local existing cached model",
+      "spend": 0,
+      "image": "art\\intro\\alternative-20261021\\corale\\keyframe-b.png",
+      "image_sha256": "2a4fbad33d1f841a7d035d3d347558d3ad4995f6f4196cbaf2e8c4cec434531d",
+      "prompt": "A continuous animated dark fantasy cinematic shot with smooth real-time movement and coherent anatomy. Preserve the exact archer on the left, hooded scythe fighter on the right, their weapons and the same stone arena from the reference. The red-haired archer releases her fully drawn bow ONCE. The arrow flies rightward. The hooded fighter immediately ducks under the arrow, dashes two quick low steps left toward her and sweeps his long scythe in a clear horizontal arc. The archer sees it coming, leaps one step backward to escape the blade and lands balanced, keeping hold of the bow. The scythe passes in front of her, misses, and the hooded fighter recovers his stance. One clear exchange with anticipation, attack, evade and follow-through, natural cloth motion and grounded feet. The camera slides smoothly left following the approaching fighter while keeping both opponents and the scythe visible. Preserve identity, scale, grip and weapon geometry throughout. Background figures remain far away and unobtrusive. No slow motion, no freeze, no static picture, no cuts, no explosions, no glowing hands, no new characters, no weapon morphing, no text or logo. Painterly animated cinematic materials, rich but restrained lighting.\n",
+      "steps": 40,
+      "guidance": 4.0,
+      "seed": 739,
+      "size": [
+        768,
+        448
+      ],
+      "native_fps": 24,
+      "frames": 121,
+      "status": "completed",
+      "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\b-native.mp4",
+      "sha256": "90f931c77bd8a49dbd3b9541db7b3667544d5fe587a6957a9f67e6306a647b95"
+    }
+  },
+  "interpolation_receipts": {
+    "a": {
+      "method": "RIFE v4.6, per shot, no interpolation across cuts",
+      "source": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\a-native.mp4",
+      "source_sha256": "cc54c6d1e5c20409935fe18a99db775bb4c162cca34fd28a7b32fb2c21ce25a7",
+      "native_fps": 16.0,
+      "native_frames": 81,
+      "interpolated_frames": 304,
+      "output_fps": 60,
+      "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\a-smooth.mp4",
+      "output_sha256": "b07ec1407f198a425f4d3a25019f17c1a961613d4eafb5f87344548f57cf24f0",
+      "quality_boundary": "Temporal interpolation does not correct choreography or guarantee artistic quality."
+    },
+    "b": {
+      "method": "RIFE v4.6, per shot, no interpolation across cuts",
+      "source": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\b-native.mp4",
+      "source_sha256": "90f931c77bd8a49dbd3b9541db7b3667544d5fe587a6957a9f67e6306a647b95",
+      "native_fps": 24.0,
+      "native_frames": 121,
+      "interpolated_frames": 302,
+      "output_fps": 60,
+      "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\corale\\b-smooth.mp4",
+      "output_sha256": "55ca68e757e09bc3e2791e3af24d3450db874e8ee13bcc275e0c6376c01171d4",
+      "quality_boundary": "Temporal interpolation does not correct choreography or guarantee artistic quality."
+    }
+  },
+  "tools": {
+    "imagegen": "built-in keyframe generation",
+    "animation": "hosted Wan2.2 14B and existing local LTX 0.9.5 as recorded per shot",
+    "interpolation": "RIFE v4.6, per shot, 60 Hz",
+    "finishing": "FFmpeg, original logo and accepted announcer, owned Foley"
+  },
+  "script_sha256": "08d272456bc4b83340d6e22804821d50a15965df877000631c1bc97d533f0be4"
+}

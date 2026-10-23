@@ -1,0 +1,1288 @@
+{
+  "status": "Rejected by author D0931/D0932: static result, no perceived animation; must not be integrated",
+  "author_request": "D0930",
+  "direction": "02 \u2014 L\u2019istante prima",
+  "other_directions": "01 and 03 retained, on hold",
+  "film": "ragequit-istante-prima-v1.mp4",
+  "sha256": "a3ca5869f6a36ef3cadcf2b35bc781d6e8b041b319f8100ef52751521fabc570",
+  "native_render": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529",
+  "native_method": {
+    "success": true,
+    "mode": "final",
+    "fps": 24,
+    "size": [
+      1920,
+      1080
+    ],
+    "author_request": "D0930",
+    "game_assets_saved": false,
+    "errors": [],
+    "frames": [
+      {
+        "frame": 0,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0000.png"
+      },
+      {
+        "frame": 1,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0001.png"
+      },
+      {
+        "frame": 2,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0002.png"
+      },
+      {
+        "frame": 3,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0003.png"
+      },
+      {
+        "frame": 4,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0004.png"
+      },
+      {
+        "frame": 5,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0005.png"
+      },
+      {
+        "frame": 6,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0006.png"
+      },
+      {
+        "frame": 7,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0007.png"
+      },
+      {
+        "frame": 8,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0008.png"
+      },
+      {
+        "frame": 9,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0009.png"
+      },
+      {
+        "frame": 10,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0010.png"
+      },
+      {
+        "frame": 11,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0011.png"
+      },
+      {
+        "frame": 12,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0012.png"
+      },
+      {
+        "frame": 13,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0013.png"
+      },
+      {
+        "frame": 14,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0014.png"
+      },
+      {
+        "frame": 15,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0015.png"
+      },
+      {
+        "frame": 16,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0016.png"
+      },
+      {
+        "frame": 17,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0017.png"
+      },
+      {
+        "frame": 18,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0018.png"
+      },
+      {
+        "frame": 19,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0019.png"
+      },
+      {
+        "frame": 20,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0020.png"
+      },
+      {
+        "frame": 21,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0021.png"
+      },
+      {
+        "frame": 22,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0022.png"
+      },
+      {
+        "frame": 23,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0023.png"
+      },
+      {
+        "frame": 24,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0024.png"
+      },
+      {
+        "frame": 25,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0025.png"
+      },
+      {
+        "frame": 26,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0026.png"
+      },
+      {
+        "frame": 27,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0027.png"
+      },
+      {
+        "frame": 28,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0028.png"
+      },
+      {
+        "frame": 29,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0029.png"
+      },
+      {
+        "frame": 30,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0030.png"
+      },
+      {
+        "frame": 31,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0031.png"
+      },
+      {
+        "frame": 32,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0032.png"
+      },
+      {
+        "frame": 33,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0033.png"
+      },
+      {
+        "frame": 34,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0034.png"
+      },
+      {
+        "frame": 35,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0035.png"
+      },
+      {
+        "frame": 36,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0036.png"
+      },
+      {
+        "frame": 37,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0037.png"
+      },
+      {
+        "frame": 38,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0038.png"
+      },
+      {
+        "frame": 39,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0039.png"
+      },
+      {
+        "frame": 40,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0040.png"
+      },
+      {
+        "frame": 41,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0041.png"
+      },
+      {
+        "frame": 42,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0042.png"
+      },
+      {
+        "frame": 43,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0043.png"
+      },
+      {
+        "frame": 44,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0044.png"
+      },
+      {
+        "frame": 45,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0045.png"
+      },
+      {
+        "frame": 46,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0046.png"
+      },
+      {
+        "frame": 47,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0047.png"
+      },
+      {
+        "frame": 48,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0048.png"
+      },
+      {
+        "frame": 49,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0049.png"
+      },
+      {
+        "frame": 50,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0050.png"
+      },
+      {
+        "frame": 51,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0051.png"
+      },
+      {
+        "frame": 52,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0052.png"
+      },
+      {
+        "frame": 53,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0053.png"
+      },
+      {
+        "frame": 54,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0054.png"
+      },
+      {
+        "frame": 55,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0055.png"
+      },
+      {
+        "frame": 56,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0056.png"
+      },
+      {
+        "frame": 57,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0057.png"
+      },
+      {
+        "frame": 58,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0058.png"
+      },
+      {
+        "frame": 59,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0059.png"
+      },
+      {
+        "frame": 60,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0060.png"
+      },
+      {
+        "frame": 61,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0061.png"
+      },
+      {
+        "frame": 62,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0062.png"
+      },
+      {
+        "frame": 63,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0063.png"
+      },
+      {
+        "frame": 64,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0064.png"
+      },
+      {
+        "frame": 65,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0065.png"
+      },
+      {
+        "frame": 66,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0066.png"
+      },
+      {
+        "frame": 67,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0067.png"
+      },
+      {
+        "frame": 68,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0068.png"
+      },
+      {
+        "frame": 69,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0069.png"
+      },
+      {
+        "frame": 70,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0070.png"
+      },
+      {
+        "frame": 71,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0071.png"
+      },
+      {
+        "frame": 72,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0072.png"
+      },
+      {
+        "frame": 73,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0073.png"
+      },
+      {
+        "frame": 74,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0074.png"
+      },
+      {
+        "frame": 75,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0075.png"
+      },
+      {
+        "frame": 76,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0076.png"
+      },
+      {
+        "frame": 77,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0077.png"
+      },
+      {
+        "frame": 78,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0078.png"
+      },
+      {
+        "frame": 79,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0079.png"
+      },
+      {
+        "frame": 80,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0080.png"
+      },
+      {
+        "frame": 81,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0081.png"
+      },
+      {
+        "frame": 82,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0082.png"
+      },
+      {
+        "frame": 83,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0083.png"
+      },
+      {
+        "frame": 84,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0084.png"
+      },
+      {
+        "frame": 85,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0085.png"
+      },
+      {
+        "frame": 86,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0086.png"
+      },
+      {
+        "frame": 87,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0087.png"
+      },
+      {
+        "frame": 88,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0088.png"
+      },
+      {
+        "frame": 89,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0089.png"
+      },
+      {
+        "frame": 90,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0090.png"
+      },
+      {
+        "frame": 91,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0091.png"
+      },
+      {
+        "frame": 92,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0092.png"
+      },
+      {
+        "frame": 93,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0093.png"
+      },
+      {
+        "frame": 94,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0094.png"
+      },
+      {
+        "frame": 95,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0095.png"
+      },
+      {
+        "frame": 96,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0096.png"
+      },
+      {
+        "frame": 97,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0097.png"
+      },
+      {
+        "frame": 98,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0098.png"
+      },
+      {
+        "frame": 99,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0099.png"
+      },
+      {
+        "frame": 100,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0100.png"
+      },
+      {
+        "frame": 101,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0101.png"
+      },
+      {
+        "frame": 102,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0102.png"
+      },
+      {
+        "frame": 103,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0103.png"
+      },
+      {
+        "frame": 104,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0104.png"
+      },
+      {
+        "frame": 105,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0105.png"
+      },
+      {
+        "frame": 106,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0106.png"
+      },
+      {
+        "frame": 107,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0107.png"
+      },
+      {
+        "frame": 108,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0108.png"
+      },
+      {
+        "frame": 109,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0109.png"
+      },
+      {
+        "frame": 110,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0110.png"
+      },
+      {
+        "frame": 111,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0111.png"
+      },
+      {
+        "frame": 112,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0112.png"
+      },
+      {
+        "frame": 113,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0113.png"
+      },
+      {
+        "frame": 114,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0114.png"
+      },
+      {
+        "frame": 115,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0115.png"
+      },
+      {
+        "frame": 116,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0116.png"
+      },
+      {
+        "frame": 117,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0117.png"
+      },
+      {
+        "frame": 118,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0118.png"
+      },
+      {
+        "frame": 119,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0119.png"
+      },
+      {
+        "frame": 120,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0120.png"
+      },
+      {
+        "frame": 121,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0121.png"
+      },
+      {
+        "frame": 122,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0122.png"
+      },
+      {
+        "frame": 123,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0123.png"
+      },
+      {
+        "frame": 124,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0124.png"
+      },
+      {
+        "frame": 125,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0125.png"
+      },
+      {
+        "frame": 126,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0126.png"
+      },
+      {
+        "frame": 127,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0127.png"
+      },
+      {
+        "frame": 128,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0128.png"
+      },
+      {
+        "frame": 129,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0129.png"
+      },
+      {
+        "frame": 130,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0130.png"
+      },
+      {
+        "frame": 131,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0131.png"
+      },
+      {
+        "frame": 132,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0132.png"
+      },
+      {
+        "frame": 133,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0133.png"
+      },
+      {
+        "frame": 134,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0134.png"
+      },
+      {
+        "frame": 135,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0135.png"
+      },
+      {
+        "frame": 136,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0136.png"
+      },
+      {
+        "frame": 137,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0137.png"
+      },
+      {
+        "frame": 138,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0138.png"
+      },
+      {
+        "frame": 139,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0139.png"
+      },
+      {
+        "frame": 140,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0140.png"
+      },
+      {
+        "frame": 141,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0141.png"
+      },
+      {
+        "frame": 142,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0142.png"
+      },
+      {
+        "frame": 143,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0143.png"
+      },
+      {
+        "frame": 144,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0144.png"
+      },
+      {
+        "frame": 145,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0145.png"
+      },
+      {
+        "frame": 146,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0146.png"
+      },
+      {
+        "frame": 147,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0147.png"
+      },
+      {
+        "frame": 148,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0148.png"
+      },
+      {
+        "frame": 149,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0149.png"
+      },
+      {
+        "frame": 150,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0150.png"
+      },
+      {
+        "frame": 151,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0151.png"
+      },
+      {
+        "frame": 152,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0152.png"
+      },
+      {
+        "frame": 153,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0153.png"
+      },
+      {
+        "frame": 154,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0154.png"
+      },
+      {
+        "frame": 155,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0155.png"
+      },
+      {
+        "frame": 156,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0156.png"
+      },
+      {
+        "frame": 157,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0157.png"
+      },
+      {
+        "frame": 158,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0158.png"
+      },
+      {
+        "frame": 159,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0159.png"
+      },
+      {
+        "frame": 160,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0160.png"
+      },
+      {
+        "frame": 161,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0161.png"
+      },
+      {
+        "frame": 162,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0162.png"
+      },
+      {
+        "frame": 163,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0163.png"
+      },
+      {
+        "frame": 164,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0164.png"
+      },
+      {
+        "frame": 165,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0165.png"
+      },
+      {
+        "frame": 166,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0166.png"
+      },
+      {
+        "frame": 167,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0167.png"
+      },
+      {
+        "frame": 168,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0168.png"
+      },
+      {
+        "frame": 169,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0169.png"
+      },
+      {
+        "frame": 170,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0170.png"
+      },
+      {
+        "frame": 171,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0171.png"
+      },
+      {
+        "frame": 172,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0172.png"
+      },
+      {
+        "frame": 173,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0173.png"
+      },
+      {
+        "frame": 174,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0174.png"
+      },
+      {
+        "frame": 175,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0175.png"
+      },
+      {
+        "frame": 176,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0176.png"
+      },
+      {
+        "frame": 177,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0177.png"
+      },
+      {
+        "frame": 178,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0178.png"
+      },
+      {
+        "frame": 179,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0179.png"
+      },
+      {
+        "frame": 180,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0180.png"
+      },
+      {
+        "frame": 181,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0181.png"
+      },
+      {
+        "frame": 182,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0182.png"
+      },
+      {
+        "frame": 183,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0183.png"
+      },
+      {
+        "frame": 184,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0184.png"
+      },
+      {
+        "frame": 185,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0185.png"
+      },
+      {
+        "frame": 186,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0186.png"
+      },
+      {
+        "frame": 187,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0187.png"
+      },
+      {
+        "frame": 188,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0188.png"
+      },
+      {
+        "frame": 189,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0189.png"
+      },
+      {
+        "frame": 190,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0190.png"
+      },
+      {
+        "frame": 191,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0191.png"
+      },
+      {
+        "frame": 192,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0192.png"
+      },
+      {
+        "frame": 193,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0193.png"
+      },
+      {
+        "frame": 194,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0194.png"
+      },
+      {
+        "frame": 195,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0195.png"
+      },
+      {
+        "frame": 196,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0196.png"
+      },
+      {
+        "frame": 197,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0197.png"
+      },
+      {
+        "frame": 198,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0198.png"
+      },
+      {
+        "frame": 199,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0199.png"
+      },
+      {
+        "frame": 200,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0200.png"
+      },
+      {
+        "frame": 201,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0201.png"
+      },
+      {
+        "frame": 202,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0202.png"
+      },
+      {
+        "frame": 203,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0203.png"
+      },
+      {
+        "frame": 204,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0204.png"
+      },
+      {
+        "frame": 205,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0205.png"
+      },
+      {
+        "frame": 206,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0206.png"
+      },
+      {
+        "frame": 207,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0207.png"
+      },
+      {
+        "frame": 208,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0208.png"
+      },
+      {
+        "frame": 209,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0209.png"
+      },
+      {
+        "frame": 210,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0210.png"
+      },
+      {
+        "frame": 211,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0211.png"
+      },
+      {
+        "frame": 212,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0212.png"
+      },
+      {
+        "frame": 213,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0213.png"
+      },
+      {
+        "frame": 214,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0214.png"
+      },
+      {
+        "frame": 215,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0215.png"
+      },
+      {
+        "frame": 216,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0216.png"
+      },
+      {
+        "frame": 217,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0217.png"
+      },
+      {
+        "frame": 218,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0218.png"
+      },
+      {
+        "frame": 219,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0219.png"
+      },
+      {
+        "frame": 220,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0220.png"
+      },
+      {
+        "frame": 221,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0221.png"
+      },
+      {
+        "frame": 222,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0222.png"
+      },
+      {
+        "frame": 223,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0223.png"
+      },
+      {
+        "frame": 224,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0224.png"
+      },
+      {
+        "frame": 225,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0225.png"
+      },
+      {
+        "frame": 226,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0226.png"
+      },
+      {
+        "frame": 227,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0227.png"
+      },
+      {
+        "frame": 228,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0228.png"
+      },
+      {
+        "frame": 229,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0229.png"
+      },
+      {
+        "frame": 230,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0230.png"
+      },
+      {
+        "frame": 231,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0231.png"
+      },
+      {
+        "frame": 232,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0232.png"
+      },
+      {
+        "frame": 233,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0233.png"
+      },
+      {
+        "frame": 234,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0234.png"
+      },
+      {
+        "frame": 235,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0235.png"
+      },
+      {
+        "frame": 236,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0236.png"
+      },
+      {
+        "frame": 237,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0237.png"
+      },
+      {
+        "frame": 238,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0238.png"
+      },
+      {
+        "frame": 239,
+        "file": "E:\\PROGETTI\\ragequit\\.verify\\ragequit-unreal\\intro-istante-final-20261021-230529\\frames\\frame_0239.png"
+      }
+    ],
+    "sources": {
+      "animations": {
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/RMB_intro": 0.8333333134651184,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Primary_Attack_A_Medium": 1.2333333492279053,
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/RMB_melee": 1.0333333015441895,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Torn_Space_intro": 0.6333333253860474,
+        "/Game/ParagonTerra/Characters/Heroes/Terra/Animations/Primary_Melee_B_slow": 1.3333333730697632,
+        "/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/Torn_Space_Outro": 1.2000000476837158
+      },
+      "sentinel": {
+        "mesh": "/Game/Ragequit/Characters/Heroes/ClothStable/Sentinel/SK_RQ_Sentinel_0.SK_RQ_Sentinel_0",
+        "scale": 1.0,
+        "loadout": "/Game/Ragequit/Loadouts/LO_Guardian_Sentinel.LO_Guardian_Sentinel",
+        "head_world": [
+          -130.82939917503305,
+          9.489588178575634,
+          157.56636455059135
+        ]
+      },
+      "voidseer": {
+        "mesh": "/Game/Ragequit/Characters/Heroes/ClothStable/Voidseer/SK_RQ_Voidseer_0.SK_RQ_Voidseer_0",
+        "scale": 1.0,
+        "loadout": "/Game/Ragequit/Loadouts/LO_Mage_Voidseer.LO_Mage_Voidseer",
+        "head_world": [
+          182.52796510646607,
+          19.31412849191114,
+          154.36132902780523
+        ]
+      }
+    },
+    "method": "Native Unreal 3D; real skeletal meshes, evaluated native animation, physical camera transforms; no image-to-video",
+    "licensing": "Paragon source remains inside Unreal; only rendered film is delivered. See CREDITI-UNREAL.md.",
+    "contact": {
+      "hand_l": [
+        -125.30169764159481,
+        -48.99366160481718,
+        176.47532887385947
+      ],
+      "impact": [
+        -101.30169764159481,
+        -48.99366160481718,
+        184.47532887385947
+      ]
+    }
+  },
+  "audio": {
+    "events": [
+      {
+        "source": "Draw_Weapon_Metal_1-1",
+        "at": 0.03,
+        "gain": 0.12,
+        "pan": -0.35,
+        "speed": 0.6,
+        "reverse": false,
+        "sha256": "55fd0d463884116604e60bdf411dab2febde07126db696328eec15b1409e6b0f"
+      },
+      {
+        "source": "Whoosh_4-1",
+        "at": 1.75,
+        "gain": 0.055,
+        "pan": 0.3,
+        "speed": 0.32,
+        "reverse": true,
+        "sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 4.1,
+        "gain": 0.055,
+        "pan": -0.25,
+        "speed": 0.42,
+        "reverse": true,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Rock_Impact_37",
+        "at": 5.65,
+        "gain": 0.08,
+        "pan": -0.1,
+        "speed": 0.48,
+        "reverse": true,
+        "sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+      },
+      {
+        "source": "Shield_Metal_Impact_1-3",
+        "at": 6.5,
+        "gain": 0.52,
+        "pan": -0.4,
+        "speed": 0.88,
+        "reverse": false,
+        "sha256": "be04fa4a8b599d8c23475c6b6ca76da4d337c1081ee53717265356495756914c"
+      },
+      {
+        "source": "Rock_Impact_11",
+        "at": 6.5,
+        "gain": 0.21,
+        "pan": -0.2,
+        "speed": 0.8,
+        "reverse": false,
+        "sha256": "01f1ae3bcb06593ded87cadf859614a7e8a7537e7be04e9447760e7d39010519"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 7.22,
+        "gain": 0.27,
+        "pan": -0.35,
+        "speed": 1.0,
+        "reverse": false,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Whoosh_4-1",
+        "at": 8.43,
+        "gain": 0.24,
+        "pan": 0.4,
+        "speed": 0.82,
+        "reverse": false,
+        "sha256": "dfcd89358a0639fa5d3069639ab22081bca63f645d8c110610e9daebdd7e7cf5"
+      },
+      {
+        "source": "Whoosh_1-1",
+        "at": 9.48,
+        "gain": 0.24,
+        "pan": -0.15,
+        "speed": 1.06,
+        "reverse": false,
+        "sha256": "491dd6b6c147ba67c99d48e6ee40434cabc8662e6d06fdab3ceb762b625cc645"
+      },
+      {
+        "source": "Blacksmithing_1-1",
+        "at": 10.0,
+        "gain": 0.36,
+        "pan": 0.0,
+        "speed": 0.68,
+        "reverse": false,
+        "sha256": "2833ab64bd0b531776bdeb49a5038b415f88b5b057c1c9e4a6012ddd5ace1dcc"
+      },
+      {
+        "source": "Rock_Impact_37",
+        "at": 10.0,
+        "gain": 0.28,
+        "pan": 0.0,
+        "speed": 0.62,
+        "reverse": false,
+        "sha256": "896b3e61b26e14e802b97686a2a5f81835ec5bdb751973c37f0ed549643077f4"
+      }
+    ],
+    "voice": {
+      "path": "E:\\PROGETTI\\ragequit\\art\\intro\\announcer-v2.wav",
+      "sha256": "557e9425ae6b795d48eab032983b23ff86fc4306e175aed7443bab84878e9de4",
+      "at": 10.1
+    },
+    "sample_rate": 48000,
+    "duration": 14.25,
+    "peak": 0.6073010767058186,
+    "samples_at_or_above_1": 0
+  },
+  "decode": "Full FFmpeg decode passed",
+  "artistic_approval": "rejected D0931/D0932",
+  "size": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "duration": 14.25,
+  "image_to_video_used": false,
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 175104,
+        "duration": "14.250000",
+        "bit_rate": "4047064",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "342",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc62.11.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 684000,
+        "duration": "14.250000",
+        "bit_rate": "189773",
+        "nb_frames": "669",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "E:\\PROGETTI\\ragequit\\art\\intro\\istante-prima-20261021\\ragequit-istante-prima-v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "14.250000",
+      "size": "7558630",
+      "bit_rate": "4243441",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.3.100"
+      }
+    }
+  },
+  "script_sha256": {
+    "render-intro-istante.py": "80145935ac7571a38fdea89262d4681ab7249b655f44f6f9c47d56011cc2ce41",
+    "assemble-intro-istante.py": "488640e3d8358148650b93b7d81d9d8dccf7369efe2d37b236261a3d78a54f09"
+  },
+  "installed_movie_sha256": "007da5f972d870e42f74f9c0163aab5b2c4d9c5ef53a9bc7adde3188fd3c187d"
+}

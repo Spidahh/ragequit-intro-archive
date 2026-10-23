@@ -1,0 +1,146 @@
+{
+  "_id": "69d5b2ba0f265e0027cd815f",
+  "id": "LiconStudio/Ltx2.3-VBVR-lora-I2V",
+  "private": false,
+  "library_name": "diffusers",
+  "tags": [
+    "diffusers",
+    "video-generation",
+    "video-reasoning",
+    "logical-reasoning",
+    "lora",
+    "ltx-2.3",
+    "en",
+    "zh",
+    "base_model:Lightricks/LTX-2.3",
+    "base_model:adapter:Lightricks/LTX-2.3",
+    "license:other",
+    "region:us"
+  ],
+  "downloads": 5796,
+  "likes": 249,
+  "modelId": "LiconStudio/Ltx2.3-VBVR-lora-I2V",
+  "author": "LiconStudio",
+  "sha": "584c96e3dd5b211670e6b573b37fdd09d75d9aa4",
+  "lastModified": "2026-05-13T13:53:42.000Z",
+  "gated": false,
+  "disabled": false,
+  "model-index": null,
+  "config": {},
+  "cardData": {
+    "license": "other",
+    "license_name": "ltx-2-community-license-agreement",
+    "license_link": "https://github.com/Lightricks/LTX-2/blob/main/LICENSE",
+    "language": [
+      "en",
+      "zh"
+    ],
+    "library_name": "diffusers",
+    "tags": [
+      "video-generation",
+      "video-reasoning",
+      "logical-reasoning",
+      "lora",
+      "ltx-2.3"
+    ],
+    "base_model": [
+      "Lightricks/LTX-2.3"
+    ]
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes",
+      "blobId": "bb1f2bc3a8110adf26c485a0f3353fbc50b3909c",
+      "size": 1915
+    },
+    {
+      "rfilename": "240K.mp4",
+      "blobId": "b4cdd7c230f91614c664e44596fc73214bcfc0b0",
+      "size": 1048149,
+      "lfs": {
+        "sha256": "1e058a1890a47b23ada2264201ec8f33b12f070ecadeb55152c9283ea589a409",
+        "size": 1048149,
+        "pointerSize": 132
+      }
+    },
+    {
+      "rfilename": "Ltx2.3-Licon-VBVR-I2V-240K-R32.safetensors",
+      "blobId": "7be2912c07e549f786d3d9e111b621e64700a93b",
+      "size": 554006432,
+      "lfs": {
+        "sha256": "9b242af2c92a077a48138c607fffe865defed75f5e1eb23cb77135323513ce21",
+        "size": 554006432,
+        "pointerSize": 134
+      }
+    },
+    {
+      "rfilename": "Ltx2.3-Licon-VBVR-I2V-390K-R32.safetensors",
+      "blobId": "c68effc0c52751bb69a17dd4fbe5a7dbeb81ea58",
+      "size": 554006432,
+      "lfs": {
+        "sha256": "4cb77bc088b04fd69fe5a711356aec05e1a9d503b47e6e252a7f2577c7716a18",
+        "size": 554006432,
+        "pointerSize": 134
+      }
+    },
+    {
+      "rfilename": "Ltx2.3-Licon-VBVR-I2V-96000-R32.safetensors",
+      "blobId": "e7f6298c3de75ae6924645c4482051901979449a",
+      "size": 554006432,
+      "lfs": {
+        "sha256": "ec5ff61d3e2959babf01112a8d7f00776273415573aa29a82f2af00070fd1408",
+        "size": 554006432,
+        "pointerSize": 134
+      }
+    },
+    {
+      "rfilename": "README.md",
+      "blobId": "dbd73f00c676d36cab5681b19bf8c6083ba254b9",
+      "size": 5043
+    },
+    {
+      "rfilename": "S3.mp4",
+      "blobId": "32c2645a2076d607b8972ffec0c1922c27226990",
+      "size": 1086541,
+      "lfs": {
+        "sha256": "795a0b2a0e26ceef3cb458c18cb9747f71907f98208843588efe6e7607e5a73f",
+        "size": 1086541,
+        "pointerSize": 132
+      }
+    },
+    {
+      "rfilename": "VBVR-official-comfyui.safetensors",
+      "blobId": "cbcaac101d512d873d2c4c321d2ab8507d624a1b",
+      "size": 428150664,
+      "lfs": {
+        "sha256": "09583c64089a23f6998d2619c55aa332387859962df6eeef48a73c518e73213c",
+        "size": 428150664,
+        "pointerSize": 134
+      }
+    },
+    {
+      "rfilename": "original01.mp4",
+      "blobId": "d584ef416bf4fdb546cc005d1a8085b7445adfb8",
+      "size": 1321129,
+      "lfs": {
+        "sha256": "d3ab3b8a278805971462b9ac7bf6f98eb65d5da9e72a17eb3ed60fcf7a6a3be0",
+        "size": 1321129,
+        "pointerSize": 132
+      }
+    }
+  ],
+  "spaces": [
+    "dagloop5/Testing2",
+    "build-small-hackathon/NEXUS_Visual_Weaver",
+    "dagloop5/TestingOneStage",
+    "specimba/NEXUS_Visual_Weaver",
+    "matejp95/TestingwithNegEuler",
+    "Synthheads/TestingwithNegEuler",
+    "ShaundeOoO/ltx-2.3-fast",
+    "rahul7star/Testing2",
+    "Ccftt/TestingOneStage",
+    "Arsenic003/TestingOneStage"
+  ],
+  "createdAt": "2026-04-08T01:43:22.000Z",
+  "usedStorage": 2099626200
+}

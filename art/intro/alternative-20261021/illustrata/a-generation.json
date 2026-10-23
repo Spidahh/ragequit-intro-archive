@@ -1,0 +1,19 @@
+{
+  "request": "D0934",
+  "provider": "prithivMLmods/Wan2.2-Fast",
+  "model": "Wan2.2 I2V 14B, Lightning LoRA",
+  "spend": 0,
+  "image": "art\\intro\\alternative-20261021\\illustrata\\keyframe-a.png",
+  "image_sha256": "86babf83dd4ff4a1b25b69148ca8cbdd9125df3cdc46442916a4114247afb323",
+  "prompt": "A professionally animated hand-painted dark fantasy title sequence. Keep the exact two characters, their costumes, weapons, faces, restrained ivory black wine-red and violet palette, visible ink strokes and brush texture of the reference image. Smooth continuous articulated animation, not a still picture moving. The armored blond female guardian on the left advances with a forceful diagonal axe swing from high left to low right. The hooded bearded mage on the right leans back and sidesteps to avoid the blade, then thrusts his arm forward to send a compact violet wave at her shield. The guardian pivots and catches the wave on the shield, her whole body visibly taking the impact and recovering. Ink and wine-red paint follow the blade's actual trajectory and violet brush marks follow the spell; they never cover or melt the faces or the weapons. Grounded footwork, coherent functional grip, natural hair and cloth follow-through, a clear beginning middle and end in one continuous shot. Camera tracks sideways slightly with the axe swing and stays wide enough to show both bodies. Strong silhouettes and controlled motion with professional animation timing. No morphing between characters, no new weapons, no unmotivated transitions, no slow motion, no freeze frame, no cuts, no typography, no logo.\n",
+  "steps": 4,
+  "seconds_requested": 5.0,
+  "seed": 823,
+  "status": "completed",
+  "time": "2026-10-21T23:51:42",
+  "output": "E:\\PROGETTI\\ragequit\\art\\intro\\alternative-20261021\\illustrata\\a-native.mp4",
+  "sha256": "e72dad2520047d0adaae8cbb5ba3565350521b140bf24886098cc67afb02d4b1",
+  "provider_metadata": {
+    "seed": 823
+  }
+}

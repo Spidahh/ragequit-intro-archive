@@ -1,0 +1,23 @@
+{
+  "request": "D0949/D0955",
+  "result": {
+    "prompt_id": "f43ea507-d1d4-4026-8cf3-e9c569a6c2f0",
+    "number": 2,
+    "node_errors": {}
+  },
+  "http_status": 200,
+  "seed": 728341,
+  "seconds": 2,
+  "size": [
+    1024,
+    576
+  ],
+  "spend": 0,
+  "time": "2026-10-22T08:44:38",
+  "source": "Comfy-Org official LTX-2.3 T2V workflow",
+  "changes": "Prompt enhancement omitted; same two-stage sigma schedules.",
+  "image_guide": "ragequit-duel-guide-v2.png",
+  "dev_guidance": true,
+  "image_guide_sha256": "9e533cf7ee2ae2951497977494f2aeda920b2d7f6dc170d4969e2300aaffdfca",
+  "prompt_sha256": "1df5debc3dd0946366295361855026122d49a01824c78dae75ad4eda63ccf40a"
+}

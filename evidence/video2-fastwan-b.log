@@ -1,0 +1,17 @@
+Loading components
+The config attributes {'clip_output': False} were passed to AutoencoderKLWan, but are not expected and will be ignored. Please verify your config.json configuration file.
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:00<00:00,  2.97it/s]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:00<00:00,  2.06it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  3.19it/s]
+Encoding prompt on CPU
+Generating motion
+
+  0%|          | 0/3 [00:00<?, ?it/s]
+ 33%|███▎      | 1/3 [00:08<00:16,  8.17s/it]
+ 67%|██████▋   | 2/3 [00:08<00:03,  3.72s/it]
+100%|██████████| 3/3 [00:09<00:00,  2.30s/it]
+100%|██████████| 3/3 [00:09<00:00,  3.13s/it]
+{"file": ".verify/video2-work/shot-b.mp4", "frames": 49}

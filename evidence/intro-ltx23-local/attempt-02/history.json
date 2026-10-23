@@ -1,0 +1,430 @@
+{
+  "9ef32c57-48bb-4db7-826d-41531da9dde9": {
+    "prompt": [
+      1,
+      "9ef32c57-48bb-4db7-826d-41531da9dde9",
+      {
+        "1": {
+          "class_type": "CheckpointLoaderSimple",
+          "inputs": {
+            "ckpt_name": "ltx-2.3-22b-dev-fp8.safetensors"
+          }
+        },
+        "2": {
+          "class_type": "LTXAVTextEncoderLoader",
+          "inputs": {
+            "text_encoder": "gemma_3_12B_it_fp4_mixed.safetensors",
+            "ckpt_name": "ltx-2.3-22b-dev-fp8.safetensors",
+            "device": "default"
+          }
+        },
+        "3": {
+          "class_type": "CLIPTextEncode",
+          "inputs": {
+            "clip": [
+              "2",
+              0
+            ],
+            "text": "Traditional hand-drawn 2D anime action animation. Crisp black ink contours, flat cel-shaded color fills, angular drawn faces and graphic shadows throughout every frame. Two adult fighters exchange rapid attacks in an open ruined arena, empty foreground and a clear view of both fighters. On the left, a blond armored warrior with a red cape, bronze shield and one battle axe. On the right, a bearded mage in a dark purple hood. At full fighting speed the warrior lunges and sweeps his axe at the mage's ribs. The mage springs sideways, avoiding the blade. The warrior follows immediately with a second overhead axe strike; the mage ducks and the blade crashes into the paving stones in a burst of chips. The mage stamps his boot down, and a jagged violet rift erupts across the floor between them. The warrior jumps back, lands solidly and raises his shield against the flying stones. Both immediately advance to exchange another attack. Powerful whole-body motion, sharp fast footwork, firm ground contact, capes snapping from momentum. Medium-wide side view with both fighters clearly visible from head to foot. A clear open foreground throughout the shot. Continuous fast hand-drawn anime combat in real time. The sound of an axe cutting the air, heavy boots, cracking stone and a shield clang. Wordless action.\n"
+          }
+        },
+        "4": {
+          "class_type": "CLIPTextEncode",
+          "inputs": {
+            "clip": [
+              "2",
+              0
+            ],
+            "text": ""
+          }
+        },
+        "5": {
+          "class_type": "LTXVConditioning",
+          "inputs": {
+            "positive": [
+              "3",
+              0
+            ],
+            "negative": [
+              "4",
+              0
+            ],
+            "frame_rate": 24.0
+          }
+        },
+        "6": {
+          "class_type": "LoraLoaderModelOnly",
+          "inputs": {
+            "model": [
+              "1",
+              0
+            ],
+            "lora_name": "ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors",
+            "strength_model": 0.5
+          }
+        },
+        "7": {
+          "class_type": "LTXVAudioVAELoader",
+          "inputs": {
+            "ckpt_name": "ltx-2.3-22b-dev-fp8.safetensors"
+          }
+        },
+        "8": {
+          "class_type": "EmptyLTXVLatentVideo",
+          "inputs": {
+            "width": 512,
+            "height": 288,
+            "length": 121,
+            "batch_size": 1
+          }
+        },
+        "9": {
+          "class_type": "LTXVEmptyLatentAudio",
+          "inputs": {
+            "audio_vae": [
+              "7",
+              0
+            ],
+            "frames_number": 121,
+            "frame_rate": 24,
+            "batch_size": 1
+          }
+        },
+        "10": {
+          "class_type": "LTXVConcatAVLatent",
+          "inputs": {
+            "video_latent": [
+              "8",
+              0
+            ],
+            "audio_latent": [
+              "9",
+              0
+            ]
+          }
+        },
+        "11": {
+          "class_type": "RandomNoise",
+          "inputs": {
+            "noise_seed": 113957
+          }
+        },
+        "12": {
+          "class_type": "CFGGuider",
+          "inputs": {
+            "model": [
+              "6",
+              0
+            ],
+            "positive": [
+              "5",
+              0
+            ],
+            "negative": [
+              "5",
+              1
+            ],
+            "cfg": 1.0
+          }
+        },
+        "13": {
+          "class_type": "KSamplerSelect",
+          "inputs": {
+            "sampler_name": "euler"
+          }
+        },
+        "14": {
+          "class_type": "ManualSigmas",
+          "inputs": {
+            "sigmas": "1.0, 0.99375, 0.9875, 0.98125, 0.975, 0.909375, 0.725, 0.421875, 0.0"
+          }
+        },
+        "15": {
+          "class_type": "SamplerCustomAdvanced",
+          "inputs": {
+            "noise": [
+              "11",
+              0
+            ],
+            "guider": [
+              "12",
+              0
+            ],
+            "sampler": [
+              "13",
+              0
+            ],
+            "sigmas": [
+              "14",
+              0
+            ],
+            "latent_image": [
+              "10",
+              0
+            ]
+          }
+        },
+        "16": {
+          "class_type": "LTXVSeparateAVLatent",
+          "inputs": {
+            "av_latent": [
+              "15",
+              0
+            ]
+          }
+        },
+        "17": {
+          "class_type": "LTXVCropGuides",
+          "inputs": {
+            "positive": [
+              "5",
+              0
+            ],
+            "negative": [
+              "5",
+              1
+            ],
+            "latent": [
+              "16",
+              0
+            ]
+          }
+        },
+        "18": {
+          "class_type": "LatentUpscaleModelLoader",
+          "inputs": {
+            "model_name": "ltx-2.3-spatial-upscaler-x2-1.1.safetensors"
+          }
+        },
+        "19": {
+          "class_type": "LTXVLatentUpsampler",
+          "inputs": {
+            "samples": [
+              "16",
+              0
+            ],
+            "upscale_model": [
+              "18",
+              0
+            ],
+            "vae": [
+              "1",
+              2
+            ]
+          }
+        },
+        "20": {
+          "class_type": "LTXVConcatAVLatent",
+          "inputs": {
+            "video_latent": [
+              "19",
+              0
+            ],
+            "audio_latent": [
+              "16",
+              1
+            ]
+          }
+        },
+        "21": {
+          "class_type": "CFGGuider",
+          "inputs": {
+            "model": [
+              "6",
+              0
+            ],
+            "positive": [
+              "17",
+              0
+            ],
+            "negative": [
+              "17",
+              1
+            ],
+            "cfg": 1.0
+          }
+        },
+        "22": {
+          "class_type": "RandomNoise",
+          "inputs": {
+            "noise_seed": 42
+          }
+        },
+        "23": {
+          "class_type": "ManualSigmas",
+          "inputs": {
+            "sigmas": "0.85, 0.7250, 0.4219, 0.0"
+          }
+        },
+        "24": {
+          "class_type": "SamplerCustomAdvanced",
+          "inputs": {
+            "noise": [
+              "22",
+              0
+            ],
+            "guider": [
+              "21",
+              0
+            ],
+            "sampler": [
+              "13",
+              0
+            ],
+            "sigmas": [
+              "23",
+              0
+            ],
+            "latent_image": [
+              "20",
+              0
+            ]
+          }
+        },
+        "25": {
+          "class_type": "LTXVSeparateAVLatent",
+          "inputs": {
+            "av_latent": [
+              "24",
+              0
+            ]
+          }
+        },
+        "26": {
+          "class_type": "VAEDecodeTiled",
+          "inputs": {
+            "samples": [
+              "25",
+              0
+            ],
+            "vae": [
+              "1",
+              2
+            ],
+            "tile_size": 768,
+            "overlap": 64,
+            "temporal_size": 4096,
+            "temporal_overlap": 4
+          }
+        },
+        "27": {
+          "class_type": "LTXVAudioVAEDecode",
+          "inputs": {
+            "samples": [
+              "25",
+              1
+            ],
+            "audio_vae": [
+              "7",
+              0
+            ]
+          }
+        },
+        "28": {
+          "class_type": "CreateVideo",
+          "inputs": {
+            "images": [
+              "26",
+              0
+            ],
+            "audio": [
+              "27",
+              0
+            ],
+            "fps": 24.0
+          }
+        },
+        "29": {
+          "class_type": "SaveVideo",
+          "inputs": {
+            "video": [
+              "28",
+              0
+            ],
+            "filename_prefix": "RAGEQUIT_LTX23/duel-113957",
+            "format": "auto"
+          }
+        }
+      },
+      {
+        "client_id": "ragequit-intro-ltx23",
+        "create_time": 1792650331781
+      },
+      [
+        "29"
+      ]
+    ],
+    "outputs": {
+      "29": {
+        "images": [
+          {
+            "filename": "duel-113957_00001_.mp4",
+            "subfolder": "RAGEQUIT_LTX23",
+            "type": "output",
+            "metadata": {
+              "kind": "video",
+              "width": 1024,
+              "height": 576,
+              "duration": 5.041666666666667,
+              "fps": 24.0,
+              "frame_count": 121
+            }
+          }
+        ],
+        "animated": [
+          true
+        ]
+      }
+    },
+    "status": {
+      "status_str": "success",
+      "completed": true,
+      "messages": [
+        [
+          "execution_start",
+          {
+            "prompt_id": "9ef32c57-48bb-4db7-826d-41531da9dde9",
+            "timestamp": 1792650331782
+          }
+        ],
+        [
+          "execution_cached",
+          {
+            "nodes": [
+              "1",
+              "2",
+              "4",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "13",
+              "14",
+              "18",
+              "22",
+              "23"
+            ],
+            "prompt_id": "9ef32c57-48bb-4db7-826d-41531da9dde9",
+            "timestamp": 1792650331785
+          }
+        ],
+        [
+          "execution_success",
+          {
+            "prompt_id": "9ef32c57-48bb-4db7-826d-41531da9dde9",
+            "timestamp": 1792650363731
+          }
+        ]
+      ]
+    },
+    "meta": {
+      "29": {
+        "node_id": "29",
+        "display_node": "29",
+        "parent_node": null,
+        "real_node_id": "29"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "source_sha256": "72f1fe6a6cece067737cc522e85c3e11b47348c76144973eacdbcb0f28236dfd",
+  "asset_sha256": "83d094136cdd340c123d48857680ef3f9281ccedccbb8185c4e8394866d3c28e",
+  "output_sha256": "e61c7c227c7557944a382b51223193f5d09af5a9949ea85f2865285fd4f8fdd3",
+  "release_seconds": 0.2,
+  "native_pixels_per_second": 2500,
+  "method": "Physical arrow alpha composite after interpolation; four temporal samples for projectile only",
+  "frames": 203,
+  "figure_source": "Built-in imagegen, saved original transparent arrow asset"
+}
